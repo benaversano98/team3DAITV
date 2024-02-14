@@ -81,12 +81,16 @@ def dati_puliti():
             lista_dati.append([f.strip() for f in e[:4]])
             genres_tit = e[4].split(',')
             for g in genres_tit:
-                if g.strip() not in genres.keys():
+                g = g.strip()
+                if g not in genres.keys():
                     genres[g] = id_genres
                     id_genres += 1
                 movie_genres.append([e[0], str(genres[g])])
-
             # Divisione della stringa dei generi in più elementi per creare una lista di generi
+
+        genres = list(genres.items())
+        genres = [(genres[i][1], genres[i][0]) for i in range(len(genres))]
+        
     return intestazione, lista_dati, genres, movie_genres
 
 if __name__ == '__main__':
