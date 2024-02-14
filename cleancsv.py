@@ -55,7 +55,10 @@ def dati_puliti():
         intestazione = next(lettore)[:3]
         lettore = list(lettore)
         lista_dati = []
-        lista_generi = []
+        genres = {}
+        id_genres = 1
+        movie_genres = []
+
         for e in lettore:
             if e[0] in id_titoli_contrari:
                 nome = e[1].strip(" )").split(" (")
@@ -76,23 +79,28 @@ def dati_puliti():
             if len(encoding_errors) > 0:
                 print('Ci sono encoding errors:\n', encoding_errors)
             lista_dati.append([f.strip() for f in e[:4]])
-            genres = e[4].split(',')
-            for e in genres:
-                if e.strip() not in lista_generi:
-                    lista_generi.append(e.strip())
+            genres_tit = e[4].split(',')
+            for g in genres_tit:
+                if g.strip() not in genres.keys():
+                    genres[g] = id_genres
+                    id_genres += 1
+                movie_genres.append([e[0], str(genres[g])])
+
             # Divisione della stringa dei generi in più elementi per creare una lista di generi
-    return intestazione, lista_dati, lista_generi
+    return intestazione, lista_dati, genres, movie_genres
 
 if __name__ == '__main__':
-    intestazione, lista_dati, lista_generi = dati_puliti()
+    intestazione, lista_dati, genres, movie_genres = dati_puliti()
     intestazione.insert(2, "Alternative Title")
     with open(r"csv\movies_pulito.csv", "w", encoding='latin1', newline='') as output:
         scrittore = csv.writer(output, delimiter=";")
         scrittore.writerow(intestazione)
         for e in lista_dati:
             scrittore.writerow(e)
-    with open(r"csv\genres.csv", "w", encoding='latin1', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Genres"])
-        for e in lista_generi:
-            scrittore.writerow([e])
+    # with open(r"csv\genres.csv", "w", encoding='latin1', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Genres"])
+    #     for e in lista_generi:
+    #         scrittore.writerow([e])
+    print(genres)
+    print(movie_genres[:10])
