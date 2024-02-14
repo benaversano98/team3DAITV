@@ -87,7 +87,6 @@ def dati_puliti():
                     id_genres += 1
                 movie_genres.append([e[0], str(genres[g])])
             # Divisione della stringa dei generi in più elementi per creare una lista di generi
-
         genres = list(genres.items())
         genres = [(genres[i][1], genres[i][0]) for i in range(len(genres))]
         
@@ -101,10 +100,8 @@ if __name__ == '__main__':
         scrittore.writerow(intestazione)
         for e in lista_dati:
             scrittore.writerow(e)
-    # with open(r"csv\genres.csv", "w", encoding='latin1', newline='') as output:
-    #     scrittore = csv.writer(output, delimiter=";")
-    #     scrittore.writerow(["Genres"])
-    #     for e in lista_generi:
-    #         scrittore.writerow([e])
-    print(genres)
-    print(movie_genres[:10])
+    with open(r"csv\genres.csv", "w", encoding='latin1', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Genre_Id", "Genres"])
+        for e in genres:
+            scrittore.writerow(list(e))
