@@ -21,7 +21,7 @@ def inserisci_dati(connection):
         pop_users = f"""
            INSERT INTO `users`
            VALUES
-           (%s, %s, %s, %s, %s);
+           (%s, %s, %s, %s, %s, '');
            """
         executemany_query(connection, pop_users, lista_users)
 

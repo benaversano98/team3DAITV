@@ -1,0 +1,31 @@
+ALTER TABLE users
+ADD COLUMN fasciaeta
+
+DELIMITER //
+CREATE TRIGGER up_fasciaeta
+BEFORE INSERT ON users
+FOR EACH ROW
+BEGIN
+    SET NEW.fasciaeta = CASE
+        WHEN NEW.age < 18 THEN 'under 18'
+        WHEN NEW.age >= 18 AND NEW.age <= 24 THEN '18-24'
+	WHEN NEW.age >= 25 AND NEW.age <= 34 THEN '25-34'
+	WHEN NEW.age >= 35 AND NEW.age <= 44 THEN '35-44'
+	WHEN NEW.age >= 45 AND NEW.age <= 54 THEN '25-34'
+        ELSE 'over 55'
+        END;
+END;
+//
+DELIMITER ;
+
+
+
+
+
+
+
+
+
+
+
+
