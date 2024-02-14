@@ -1,0 +1,8455 @@
+cap;zona
+10011;Agliè
+10060;Airasca
+10070;Ala di Stura
+10010;Albiano d'Ivrea
+10040;Almese
+10080;Alpette
+10091;Alpignano
+10020;Andezeno
+10010;Andrate
+10060;Angrogna
+10020;Arignano
+10051;Avigliana
+10010;Azeglio
+10010;Bairo
+10070;Balangero
+10080;Baldissero Canavese
+10020;Baldissero Torinese
+10070;Balme
+10010;Banchette
+10070;Barbania
+10052;Bardonecchia
+10010;Barone Canavese
+10092;Beinasco
+10060;Bibiana
+10060;Bobbio Pellice
+10012;Bollengo
+10071;Borgaro Torinese
+10080;Borgiallo
+10013;Borgofranco d'Ivrea
+10031;Borgomasino
+10050;Borgone Susa
+10080;Bosconero
+10032;Brandizzo
+10060;Bricherasio
+10080;Brosso
+10020;Brozolo
+10090;Bruino
+10020;Brusasco
+10050;Bruzolo
+10060;Buriasco
+10010;Burolo
+10080;Busano
+10053;Bussoleno
+10090;Buttigliera Alta
+10070;Cafasse
+10014;Caluso
+10020;Cambiano
+10060;Campiglione Fenile
+10010;Candia Canavese
+10060;Candiolo
+10080;Canischio
+10060;Cantalupa
+10070;Cantoira
+10040;Caprie
+10010;Caravino
+10010;Carema
+10041;Carignano
+10022;Carmagnola
+10020;Casalborgone
+10010;Cascinette d'Ivrea
+10040;Caselette
+10072;Caselle Torinese
+10090;Castagneto Po
+10060;Castagnole Piemonte
+10081;Castellamonte
+10080;Castelnuovo Nigra
+10090;Castiglione Torinese
+10020;Cavagnolo
+10061;Cavour
+10060;Cercenasco
+10070;Ceres
+10080;Ceresole Reale
+10054;Cesana Torinese
+10070;Chialamberto
+10050;Chianocco
+10010;Chiaverano
+10023;Chieri
+10080;Chiesanuova
+10050;Chiomonte
+10050;Chiusa di San Michele
+10034;Chivasso
+10080;Ciconio
+10080;Cintano
+10090;Cinzano
+10073;Ciriè
+10050;Claviere
+10070;Coassolo Torinese
+10050;Coazze
+10093;Collegno
+10080;Colleretto Castelnuovo
+10010;Colleretto Giacosa
+10055;Condove
+10070;Corio
+10010;Cossano Canavese
+10090;Cuceglio
+10040;Cumiana
+10082;Cuorgnè
+10040;Druento
+10050;Exilles
+10083;Favria
+10080;Feletto
+10060;Fenestrelle
+10070;Fiano
+10010;Fiorano Canavese
+10090;Foglizzo
+10084;Forno Canavese
+10080;Frassinetto
+10070;Front
+10060;Frossasco
+10060;Garzigliana
+10090;Gassino Torinese
+10070;Germagnano
+10050;Giaglione
+10094;Giaveno
+10040;Givoletto
+10050;Gravere
+10070;Groscavallo
+10070;Grosso
+10095;Grugliasco
+10080;Ingria
+10060;Inverso Pinasca
+10046;Isolabella
+10080;Issiglio
+10015;Ivrea
+10040;La Cassa
+10040;La Loggia
+10074;Lanzo Torinese
+10020;Lauriano
+10040;Leini
+10070;Lemie
+10010;Lessolo
+10070;Levone
+10080;Locana
+10040;Lombardore
+10040;Lombriasco
+10010;Loranzè
+10062;Luserna San Giovanni
+10060;Lusernetta
+10080;Lusigliè
+10060;Macello
+10030;Maglione
+10020;Marentino
+10060;Massello
+10075;Mathi
+10050;Mattie
+10035;Mazzè
+10050;Meana di Susa
+10010;Mercenasco
+10070;Mezzenile
+10020;Mombello di Torino
+10059;Mompantero
+10070;Monastero di Lanzo
+10024;Moncalieri
+10050;Moncenisio
+10020;Montaldo Torinese
+10090;Montalenghe
+10016;Montalto Dora
+10017;Montanaro
+10020;Monteu da Po
+10020;Moriondo Torinese
+10042;Nichelino
+10080;Noasca
+10076;Nole
+10010;Nomaglio
+10060;
+10050;Novalesa
+10080;Oglianico
+10043;Orbassano
+10010;Orio Canavese
+10060;Osasco
+10040;Osasio
+10056;Oulx
+10080;Ozegna
+10010;Palazzo Canavese
+10060;Pancalieri
+10010;Parella
+10020;Pavarolo
+10018;Pavone Canavese
+10020;Pecetto Torinese
+10063;Perosa Argentina
+10010;Perosa Canavese
+10060;Perrero
+10080;Pertusio
+10070;Pessinetto
+10044;Pianezza
+10060;Pinasca
+10064;Pinerolo
+10025;Pino Torinese
+10040;Piobesi Torinese
+10045;Piossasco
+10060;Piscina
+10010;Piverone
+10046;Poirino
+10063;Pomaretto
+10085;Pont Canavese
+10060;Porte
+10060;Pragelato
+10060;Prali
+10040;Pralormo
+10065;Pramollo
+10060;Prarostino
+10080;Prascorsano
+10080;Pratiglione
+10010;Quagliuzzo
+10010;Quassolo
+10010;Quincinetto
+10090;Reano
+10080;Ribordone
+10090;Rivalba
+10040;Rivalta di Torino
+10020;Riva presso Chieri
+10080;Rivara
+10086;Rivarolo Canavese
+10040;Rivarossa
+10098;Rivoli
+10070;Robassomero
+10070;Rocca Canavese
+10060;Roletto
+10090;Romano Canavese
+10080;Ronco Canavese
+10030;Rondissone
+10060;Rorà
+10060;Roure
+10090;Rosta
+10040;Rubiana
+10010;Rueglio
+10080;Salassa
+10050;Salbertrand
+10010;Salerano Canavese
+10060;Salza di Pinerolo
+10010;Samone
+10080;San Benigno Canavese
+10070;San Carlo Canavese
+10080;San Colombano Belmonte
+10050;San Didero
+10070;San Francesco al Campo
+10090;Sangano
+10065;San Germano Chisone
+10040;San Gillio
+10090;San Giorgio Canavese
+10050;San Giorio di Susa
+10090;San Giusto Canavese
+10010;San Martino Canavese
+10077;San Maurizio Canavese
+10099;San Mauro Torinese
+10060;San Pietro Val Lemina
+10080;San Ponso
+10090;San Raffaele Cimena
+10020;San Sebastiano da Po
+10060;San Secondo di Pinerolo
+10057;Sant'Ambrogio di Torino
+10050;Sant'Antonino di Susa
+10026;Santena
+10054;Sauze di Cesana
+10050;Sauze d'Oulx
+10060;Scalenghe
+10010;Scarmagno
+10090;Sciolze
+10058;Sestriere
+10010;Settimo Rottaro
+10036;Settimo Torinese
+10010;Settimo Vittone
+10080;Sparone
+10010;Strambinello
+10019;Strambino
+10059;Susa
+10010;Tavagnasco
+10121;Torino
+10122;Torino
+10123;Torino
+10124;Torino
+10125;Torino
+10126;Torino
+10127;Torino
+10128;Torino
+10129;Torino
+10131;Torino
+10132;Torino
+10133;Torino
+10134;Torino
+10135;Torino
+10136;Torino
+10137;Torino
+10138;Torino
+10139;Torino
+10141;Torino
+10142;Torino
+10143;Torino
+10144;Torino
+10145;Torino
+10146;Torino
+10147;Torino
+10148;Torino
+10149;Torino
+10151;Torino
+10152;Torino
+10153;Torino
+10154;Torino
+10155;Torino
+10156;Torino
+10037;Torrazza Piemonte
+10010;Torre Canavese
+10066;Torre Pellice
+10090;Trana
+10080;Traversella
+10070;Traves
+10028;Trofarello
+10060;Usseaux
+10070;Usseglio
+10050;Vaie
+10040;Val della Torre
+10094;Valgioie
+10070;Vallo Torinese
+10087;Valperga
+10080;Valprato Soana
+10070;Varisella
+10070;Vauda Canavese
+10050;Venaus
+10078;Venaria Reale
+10038;Verolengo
+10020;Verrua Savoia
+10030;Vestignè
+10090;Vialfrè
+10080;Vidracco
+10067;Vigone
+10068;Villafranca Piemonte
+10070;Villanova Canavese
+10090;Villarbasse
+10040;Villar Dora
+10030;Villareggia
+10050;Villar Focchiardo
+10060;Villar Pellice
+10069;Villar Perosa
+10029;Villastellone
+10048;Vinovo
+10060;Virle Piemonte
+10030;Vische
+10080;Vistrorio
+10070;Viù
+10088;Volpiano
+10040;Volvera
+10079;Mappano
+10039;Val di Chy
+10089;Valchiusa
+13021;Alagna Valsesia
+13030;Albano Vercellese
+13040;Alice Castello
+13031;Arborio
+13032;Asigliano Vercellese
+13020;Balmuccia
+13040;Balocco
+13041;Bianzè
+13022;Boccioleto
+13040;Borgo d'Ale
+13011;Borgosesia
+13012;Borgo Vercelli
+13040;Buronzo
+13023;Campertogno
+13026;Carcoforo
+13010;Caresana
+13030;Caresanablot
+13040;Carisio
+13030;Casanova Elvo
+13030;San Giacomo Vercellese
+13025;Cervatto
+13043;Cigliano
+13010;Civiasco
+13030;Collobiano
+13033;Costanzana
+13020;Cravagliana
+13044;Crescentino
+13040;Crova
+13034;Desana
+13025;Fobello
+13040;Fontanetto Po
+13030;Formigliana
+13045;Gattinara
+13030;Ghislarengo
+13030;Greggio
+13010;Guardabosone
+13046;Lamporo
+13035;Lenta
+13034;Lignana
+13046;Livorno Ferraris
+13045;Lozzolo
+13020;Mollia
+13040;Moncrivello
+13010;Motta de' Conti
+13047;Olcenengo
+13030;Oldenico
+13040;Palazzolo Vercellese
+13030;Pertengo
+13010;Pezzana
+13020;Pila
+13020;Piode
+13010;Postua
+13012;Prarolo
+13017;Quarona
+13030;Quinto Vercellese
+13020;Rassa
+13020;Rimella
+13030;Rive
+13060;Roasio
+13036;Ronsecco
+13020;Rossa
+13040;Rovasenda
+13040;Salasco
+13040;Sali Vercellese
+13040;Saluggia
+13047;San Germano Vercellese
+13048;Santhià
+13027;Scopa
+13028;Scopello
+13037;Serravalle Sesia
+13010;Stroppiana
+13038;Tricerro
+13039;Trino
+13049;Tronzano Vercellese
+13018;Valduggia
+13019;Varallo
+13100;Vercelli
+13030;Villarboit
+13010;Villata
+13020;Vocca
+13029;Alto Sermenza
+13024;Cellio con Breia
+28010;Agrate Conturbia
+28010;Ameno
+28011;Armeno
+28041;Arona
+28010;Barengo
+28043;Bellinzago Novarese
+28061;Biandrate
+28010;Boca
+28010;Bogogno
+28010;Bolzano Novarese
+28071;Borgolavezzaro
+28021;Borgomanero
+28040;Borgo Ticino
+28010;Briga Novarese
+28072;Briona
+28010;Caltignaga
+28062;Cameri
+28064;Carpignano Sesia
+28060;Casalbeltrame
+28060;Casaleggio Novara
+28060;Casalino
+28060;Casalvolone
+28060;Castellazzo Novarese
+28053;Castelletto sopra Ticino
+28010;Cavaglietto
+28010;Cavaglio d'Agogna
+28010;Cavallirio
+28065;Cerano
+28010;Colazza
+28060;Comignago
+28012;Cressa
+28060;Cureggio
+28010;Divignano
+28040;Dormelletto
+28073;Fara Novarese
+28010;Fontaneto d'Agogna
+28066;Galliate
+28070;Garbagna Novarese
+28010;Gargallo
+28074;Ghemme
+28024;Gozzano
+28060;Granozzo con Monticello
+28075;Grignasco
+28045;Invorio
+28064;Landiona
+28040;Lesa
+28014;Maggiora
+28060;Mandello Vitta
+28040;Marano Ticino
+28040;Massino Visconti
+28046;Meina
+28040;Mezzomerico
+28010;Miasino
+28015;Momo
+28010;Nebbiuno
+28070;Nibbiola
+28100;Novara
+28047;Oleggio
+28040;Oleggio Castello
+28016;Orta San Giulio
+28040;Paruzzaro
+28010;Pella
+28028;Pettenasco
+28010;Pisano
+28076;Pogno
+28050;Pombia
+28077;Prato Sesia
+28060;Recetto
+28078;Romagnano Sesia
+28068;Romentino
+28017;San Maurizio d'Opaglio
+28060;San Nazzaro Sesia
+28060;San Pietro Mosezzo
+28064;Sillavengo
+28070;Sizzano
+28010;Soriso
+28060;Sozzago
+28019;Suno
+28070;Terdobbiate
+28070;Tornaco
+28069;Trecate
+28010;Vaprio d'Agogna
+28040;Varallo Pombia
+28079;Vespolate
+28060;Vicolungo
+28060;Vinzaglio
+28013;Gattico-Veruno
+12021;Acceglio
+12010;Aisone
+12051;Alba
+12050;Albaretto della Torre
+12070;Alto
+12010;Argentera
+12050;Arguello
+12071;Bagnasco
+12031;Bagnolo Piemonte
+12040;Baldissero d'Alba
+12050;Barbaresco
+12032;Barge
+12060;Barolo
+12060;Bastia Mondovì
+12070;Battifollo
+12081;Beinette
+12020;Bellino
+12060;Belvedere Langhe
+12041;Bene Vagienna
+12050;Benevello
+12074;Bergolo
+12010;Bernezzo
+12060;Bonvicino
+12050;Borgomale
+12011;Borgo San Dalmazzo
+12050;Bosia
+12060;Bossolasco
+12012;Boves
+12042;Bra
+12080;Briaglia
+18025;Briga Alta
+12030;Brondello
+12020;Brossasco
+12022;Busca
+12072;Camerana
+12043;Canale
+12020;Canosio
+12070;Caprauna
+12023;Caraglio
+12030;Caramagna Piemonte
+12030;Cardè
+12061;Carrù
+12020;Cartignano
+12030;Casalgrasso
+12050;Castagnito
+12020;Casteldelfino
+12040;Castelletto Stura
+12070;Castelletto Uzzone
+12050;Castellinaldo d'Alba
+12060;Castellino Tanaro
+12020;Castelmagno
+12070;Castelnuovo di Ceva
+12060;Castiglione Falletto
+12053;Castiglione Tinella
+12050;Castino
+12030;Cavallerleone
+12030;Cavallermaggiore
+12020;Celle di Macra
+12044;Centallo
+12040;Ceresole Alba
+12050;Cerretto Langhe
+12010;Cervasca
+12040;Cervere
+12073;Ceva
+12062;Cherasco
+12013;Chiusa di Pesio
+12060;Cigliè
+12050;Cissone
+12060;Clavesana
+12040;Corneliano d'Alba
+12074;Cortemilia
+12054;Cossano Belbo
+12024;Costigliole Saluzzo
+12050;Cravanzana
+12030;Crissolo
+12100;Cuneo
+12014;Demonte
+12055;Diano d'Alba
+12063;Dogliani
+12025;Dronero
+12020;Elva
+12010;Entracque
+12030;Envie
+12060;Farigliano
+12030;Faule
+12050;Feisoglio
+12045;Fossano
+12082;Frabosa Soprana
+12083;Frabosa Sottana
+12020;Frassino
+12010;Gaiola
+12030;Gambasca
+12075;Garessio
+12040;Genola
+12070;Gorzegno
+12070;Gottasecca
+12040;Govone
+12060;Grinzane Cavour
+12050;Guarene
+12060;Igliano
+12020;Isasca
+12030;Lagnasco
+12064;La Morra
+12050;Lequio Berria
+12060;Lequio Tanaro
+12076;Lesegno
+12070;Levice
+12015;Limone Piemonte
+12070;Lisio
+12020;Macra
+12050;Magliano Alfieri
+12060;Magliano Alpi
+12056;Mango
+12030;Manta
+12030;Marene
+12040;Margarita
+12020;Marmora
+12060;Marsaglia
+12030;Martiniana Po
+12020;Melle
+12010;Moiola
+12070;Mombarcaro
+12070;Mombasiglio
+12080;Monastero di Vasco
+12080;Monasterolo Casotto
+12030;Monasterolo di Savigliano
+12060;Monchiero
+12084;Mondovì
+12077;Monesiglio
+12065;Monforte d'Alba
+12046;Montà
+12080;Montaldo di Mondovì
+12040;Montaldo Roero
+12040;Montanera
+12050;Montelupo Albese
+12025;Montemale di Cuneo
+12020;Monterosso Grana
+12040;Monteu Roero
+12070;Montezemolo
+12066;Monticello d'Alba
+12033;Moretta
+12040;Morozzo
+12060;Murazzano
+12030;Murello
+12068;Narzole
+12052;Neive
+12050;Neviglie
+12050;Niella Belbo
+12060;Niella Tanaro
+12060;Novello
+12070;Nucetto
+12030;Oncino
+12078;Ormea
+12030;Ostana
+12034;Paesana
+12030;Pagno
+12087;Pamparato
+12070;Paroldo
+12070;Perletto
+12070;Perlo
+12016;Peveragno
+12070;Pezzolo Valle Uzzone
+12080;Pianfei
+12026;Piasco
+12010;Pietraporzio
+12040;Piobesi d'Alba
+12060;Piozzo
+12060;Pocapaglia
+12030;Polonghera
+12020;Pontechianale
+12027;Pradleves
+12028;Prazzo
+12070;Priero
+12040;Priocca
+12070;Priola
+12077;Prunetto
+12035;Racconigi
+12036;Revello
+12030;Rifreddo
+12010;Rittana
+12010;Roaschia
+12073;Roascio
+12017;Robilante
+12080;Roburent
+12020;Roccabruna
+12060;Rocca Cigliè
+12047;Rocca de' Baldi
+12088;Roccaforte Mondovì
+12010;Roccasparvera
+12018;Roccavione
+12050;Rocchetta Belbo
+12060;Roddi
+12050;Roddino
+12050;Rodello
+12020;Rossana
+12030;Ruffia
+12070;Sale delle Langhe
+12070;Sale San Giovanni
+12079;Saliceto
+12040;Salmour
+12037;Saluzzo
+12010;Sambuco
+12020;Sampeyre
+12050;San Benedetto Belbo
+12029;San Damiano Macra
+12040;Sanfrè
+12030;Sanfront
+12080;San Michele Mondovì
+12040;Sant'Albano Stura
+12069;Santa Vittoria d'Alba
+12058;Santo Stefano Belbo
+12040;Santo Stefano Roero
+12038;Savigliano
+12070;Scagnello
+12030;Scarnafigi
+12050;Serralunga d'Alba
+12050;Serravalle Langhe
+12050;Sinio
+12060;Somano
+12048;Sommariva del Bosco
+12040;Sommariva Perno
+12020;Stroppo
+12020;Tarantasca
+12050;Torre Bormida
+12080;Torre Mondovì
+12030;Torre San Giorgio
+12070;Torresina
+12050;Treiso
+12050;Trezzo Tinella
+12049;Trinità
+12010;Valdieri
+12020;Valgrana
+12010;Valloriate
+12020;Venasca
+12060;Verduno
+12019;Vernante
+12039;Verzuolo
+12040;Vezza d'Alba
+12080;Vicoforte
+12010;Vignolo
+12020;Villafalletto
+12089;Villanova Mondovì
+12030;Villanova Solaro
+12020;Villar San Costanzo
+12010;Vinadio
+12070;Viola
+12020;Vottignasco
+14041;Agliano Terme
+14022;Albugnano
+14010;Antignano
+14020;Aramengo
+14100;Asti
+14030;Azzano d'Asti
+14011;Baldichieri d'Asti
+14040;Belveglio
+14020;Berzano di San Pietro
+14046;Bruno
+14051;Bubbio
+14021;Buttigliera d'Asti
+14042;Calamandrana
+14031;Calliano Monferrato
+14052;Calosso
+14020;Camerano Casasco
+14053;Canelli
+14010;Cantarana
+14014;Capriglio
+14032;Casorzo Monferrato
+14050;Cassinasco
+14054;Castagnole delle Lanze
+14030;Castagnole Monferrato
+14040;Castel Boglione
+14033;Castell'Alfero
+14013;Castellero
+14040;Castelletto Molina
+14034;Castello di Annone
+14043;Castelnuovo Belbo
+14040;Castelnuovo Calcea
+14022;Castelnuovo Don Bosco
+14044;Castel Rocchero
+14010;Cellarengo
+14010;Celle Enomondo
+14020;Cerreto d'Asti
+14030;Cerro Tanaro
+14050;Cessole
+14025;Chiusano d'Asti
+14020;Cinaglio
+14010;Cisterna d'Asti
+14054;Coazzolo
+14023;Cocconato
+14020;Corsione
+14013;Cortandone
+14020;Cortanze
+14010;Cortazzone
+14040;Cortiglione
+14020;Cossombrato
+14055;Costigliole d'Asti
+14026;Cunico
+14010;Dusino San Michele
+14012;Ferrere
+14044;Fontanile
+14030;Frinco
+14031;Grana Monferrato
+14035;Grazzano Badoglio
+14045;Incisa Scapaccino
+14057;Isola d'Asti
+14051;Loazzolo
+14040;Maranzana
+14018;Maretto
+14050;Moasca
+14050;Mombaldone
+14046;Mombaruzzo
+14047;Mombercelli
+14013;Monale
+14058;Monastero Bormida
+14036;Moncalvo
+14024;Moncucco Torinese
+14040;Mongardino
+14040;Montabone
+14014;Montafia
+14048;Montaldo Scarampi
+14025;Montechiaro d'Asti
+14048;Montegrosso d'Asti
+14030;Montemagno Monferrato
+14049;Nizza Monferrato
+14050;Olmo Gentile
+14020;Passerano Marmorito
+14030;Penango
+14020;Piea
+14020;Pino d'Asti
+14026;Piovà Massaia
+14037;Portacomaro
+14040;Quaranti
+14030;Refrancore
+14010;Revigliasco d'Asti
+14018;Roatto
+14020;Robella
+14030;Rocca d'Arazzo
+14050;Roccaverano
+14042;Rocchetta Palafea
+14030;Rocchetta Tanaro
+14015;San Damiano d'Asti
+14059;San Giorgio Scarampi
+14010;San Martino Alfieri
+14050;San Marzano Oliveto
+14010;San Paolo Solbrito
+14030;Scurzolengo
+14050;Serole
+14058;Sessame
+14020;Settime
+14020;Soglio
+14016;Tigliole
+14039;Tonco
+14049;Vaglio Serra
+14017;Valfenera
+14059;Vesime
+14010;Viale
+14030;Viarigi
+14040;Vigliano d'Asti
+14018;Villafranca d'Asti
+14019;Villanova d'Asti
+14020;Villa San Secondo
+14040;Vinchio
+14026;Montiglio Monferrato
+14023;Moransengo-Tonengo
+15011;Acqui Terme
+15060;Albera Ligure
+15121;Alessandria
+15122;Alessandria
+15021;Alfiano Natta
+15010;Alice Bel Colle
+15041;Altavilla Monferrato
+15050;Alzano Scrivia
+15061;Arquata Scrivia
+15050;Avolasca
+15031;Balzola
+15060;Basaluzzo
+15042;Bassignana
+15070;Belforte Monferrato
+15022;Bergamasco
+15050;Berzano di Tortona
+15012;Bistagno
+15060;Borghetto di Borbera
+15013;Borgoratto Alessandrino
+15032;Borgo San Martino
+15062;Bosco Marengo
+15060;Bosio
+15040;Bozzole
+15050;Brignano-Frascata
+15060;Cabella Ligure
+15030;Camagna Monferrato
+15020;Camino
+15060;Cantalupo Ligure
+15060;Capriata d'Orba
+15050;Carbonara Scrivia
+15026;Carentino
+15051;Carezzano
+15071;Carpeneto
+15060;Carrega Ligure
+15060;Carrosio
+15015;Cartosio
+15072;Casal Cermelli
+15070;Casaleggio Boiro
+15033;Casale Monferrato
+15052;Casalnoceto
+15050;Casasco
+15016;Cassine
+15070;Cassinelle
+15051;Castellania Coppi
+15050;Castellar Guidobono
+15073;Castellazzo Bormida
+15010;Castelletto d'Erro
+15060;Castelletto d'Orba
+15020;Castelletto Merli
+15040;Castelletto Monferrato
+15017;Castelnuovo Bormida
+15053;Castelnuovo Scrivia
+15070;Castelspina
+15010;Cavatore
+15034;Cella Monte
+15020;Cereseto
+15050;Cerreto Grue
+15020;Cerrina Monferrato
+15030;Coniolo
+15030;Conzano
+15050;Costa Vescovato
+15010;Cremolino
+15010;Denice
+15056;Dernice
+15054;Fabbrica Curone
+15023;Felizzano
+15060;Fraconalto
+15060;Francavilla Bisio
+15010;Frascaro
+15035;Frassinello Monferrato
+15040;Frassineto Po
+15064;Fresonara
+15065;Frugarolo
+15043;Fubine Monferrato
+15020;Gabiano
+15010;Gamalero
+15050;Garbagna
+15066;Gavi
+15036;Giarole
+15056;Gremiasco
+15010;Grognardo
+15060;Grondona
+15050;Guazzora
+15050;Isola Sant'Antonio
+15070;Lerma
+15015;Malvicino
+15024;Masio
+15010;Melazzo
+15010;Merana
+15040;Mirabello Monferrato
+15074;Molare
+15050;Molino dei Torti
+15020;Mombello Monferrato
+15050;Momperone
+15020;Moncestino
+15060;Mongiardino Ligure
+15059;Monleale
+15050;Montacuto
+15060;Montaldeo
+15010;Montaldo Bormida
+15040;Montecastello
+15010;Montechiaro d'Acqui
+15050;Montegioco
+15050;Montemarzino
+15025;Morano sul Po
+15010;Morbello
+15075;Mornese
+15010;Morsasco
+15020;Murisengo
+15067;Novi Ligure
+15040;Occimiano
+15020;Odalengo Grande
+15020;Odalengo Piccolo
+15030;Olivola
+15010;Orsara Bormida
+15038;Ottiglio
+15076;Ovada
+15026;Oviglio
+15039;Ozzano Monferrato
+15050;Paderna
+15010;Pareto
+15060;Parodi Ligure
+15060;Pasturana
+15040;Pecetto di Valenza
+15040;Pietra Marazzi
+15040;Pomaro Monferrato
+15055;Pontecurone
+15027;Pontestura
+15010;Ponti
+15020;Ponzano Monferrato
+15010;Ponzone
+15050;Pozzol Groppo
+15068;Pozzolo Formigaro
+15010;Prasco
+15077;Predosa
+15044;Quargnento
+15028;Quattordio
+15010;Ricaldone
+15010;Rivalta Bormida
+15040;Rivarone
+15060;Roccaforte Ligure
+15078;Rocca Grimalda
+15060;Rocchetta Ligure
+15030;Rosignano Monferrato
+15030;Sala Monferrato
+15045;Sale
+15060;San Cristoforo
+15020;San Giorgio Monferrato
+15046;San Salvatore Monferrato
+15056;San Sebastiano Curone
+15050;Sant'Agata Fossili
+15060;Sardigliano
+15050;Sarezzano
+15020;Serralunga di Crea
+15069;Serravalle Scrivia
+15079;Sezzadio
+15060;Silvano d'Orba
+15029;Solero
+15020;Solonghello
+15018;Spigno Monferrato
+15050;Spineto Scrivia
+15060;Stazzano
+15019;Strevi
+15070;Tagliolo Monferrato
+15060;Tassarolo
+15030;Terruggia
+15010;Terzo
+15040;Ticineto
+15057;Tortona
+15030;Treville
+15070;Trisobbio
+15048;Valenza
+15040;Valmacca
+15049;Vignale Monferrato
+15060;Vignole Borbera
+15058;Viguzzolo
+15020;Villadeati
+15050;Villalvernia
+15020;Villamiroglio
+15030;Villanova Monferrato
+15050;Villaromagnano
+15010;Visone
+15059;Volpedo
+15050;Volpeglino
+15060;Voltaggio
+15063;Cassano Spinola
+15047;Alluvioni Piovera
+15037;Lu e Cuccaro Monferrato
+11010;Allein
+11020;Antey-Saint-André
+11100;Aosta
+11020;Arnad
+11011;Arvier
+11010;Avise
+11020;Ayas
+11010;Aymavilles
+11020;Bard
+11010;Bionaz
+11020;Brissogne
+11022;Brusson
+11020;Challand-Saint-Anselme
+11020;Challand-Saint-Victor
+11023;Chambave
+11020;Chamois
+11020;Champdepraz
+11020;Champorcher
+11020;Charvensod
+11024;Châtillon
+11012;Cogne
+11013;Courmayeur
+11020;Donnas
+11010;Doues
+11020;Emarèse
+11014;Etroubles
+11020;Fénis
+11020;Fontainemore
+11020;Gaby
+11010;Gignod
+11020;Gressan
+11020;Gressoney-La-Trinité
+11025;Gressoney-Saint-Jean
+11020;Hône
+11010;Introd
+11020;Issime
+11020;Issogne
+11020;Jovençan
+11020;La Magdeleine
+11015;La Salle
+11016;La Thuile
+11020;Lillianes
+11020;Montjovet
+11017;Morgex
+11020;Nus
+11010;Ollomont
+11010;Oyace
+11020;Perloz
+11020;Pollein
+11020;Pontboset
+11024;Pontey
+11026;Pont-Saint-Martin
+11010;Pré-Saint-Didier
+11020;Quart
+11010;Rhêmes-Notre-Dame
+11010;Rhêmes-Saint-Georges
+11010;Roisan
+11020;Saint-Christophe
+11023;Saint-Denis
+11020;Saint-Marcel
+11010;Saint-Nicolas
+11014;Saint-Oyen
+11010;Saint-Pierre
+11010;Saint-Rhémy-en-Bosses
+11027;Saint-Vincent
+11010;Sarre
+11020;Torgnon
+11010;Valgrisenche
+11010;Valpelline
+11010;Valsavarenche
+11028;Valtournenche
+11020;Verrayes
+11029;Verrès
+11018;Villeneuve
+18030;Airole
+18035;Apricale
+18020;Aquila d'Arroscia
+18026;Armo
+18020;Aurigo
+18010;Badalucco
+18031;Bajardo
+18012;Bordighera
+18020;Borghetto d'Arroscia
+18021;Borgomaro
+18033;Camporosso
+18020;Caravonica
+18011;Castellaro
+18030;Castel Vittorio
+18034;Ceriana
+18010;Cervo
+18022;Cesio
+18027;Chiusanico
+18027;Chiusavecchia
+18017;Cipressa
+18017;Civezza
+18023;Cosio d'Arroscia
+18017;Costarainera
+18013;Diano Arentino
+18013;Diano Castello
+18013;Diano Marina
+18013;Diano San Pietro
+18035;Dolceacqua
+18020;Dolcedo
+18100;Imperia
+18035;Isolabona
+18020;Lucinasco
+18025;Mendatica
+18010;Molini di Triora
+18025;Montegrosso Pian Latte
+18030;Olivetta San Michele
+18014;Ospedaletti
+18032;Perinaldo
+18010;Pietrabruna
+18026;Pieve di Teco
+18037;Pigna
+18015;Pompeiana
+18027;Pontedassio
+18024;Pornassio
+18020;Prelà
+18020;Ranzo
+18026;Rezzo
+18015;Riva Ligure
+18030;Rocchetta Nervina
+18016;San Bartolomeo al Mare
+18036;San Biagio della Cima
+18017;San Lorenzo al Mare
+18038;Sanremo
+18010;Santo Stefano al Mare
+18012;Seborga
+18036;Soldano
+18018;Taggia
+18010;Terzorio
+18010;Triora
+18012;Vallebona
+18019;Vallecrosia
+18020;Vasia
+18039;Ventimiglia
+18026;Vessalico
+18010;Villa Faraldi
+18028;Montalto Carpasio
+17021;Alassio
+17031;Albenga
+17012;Albissola Marina
+17011;Albisola Superiore
+17041;Altare
+17051;Andora
+17032;Arnasco
+17020;Balestrino
+17057;Bardineto
+17028;Bergeggi
+17054;Boissano
+17052;Borghetto Santo Spirito
+17022;Borgio Verezzi
+17045;Bormida
+17014;Cairo Montenotte
+17020;Calice Ligure
+17057;Calizzano
+17043;Carcare
+17033;Casanova Lerrone
+17030;Castelbianco
+17034;Castelvecchio di Rocca Barbena
+17015;Celle Ligure
+17056;Cengio
+17023;Ceriale
+17035;Cisano sul Neva
+17017;Cosseria
+17058;Dego
+17030;Erli
+17024;Finale Ligure
+17033;Garlenda
+17027;Giustenice
+17010;Giusvalla
+17053;Laigueglia
+17025;Loano
+17020;Magliolo
+17045;Mallare
+12071;Massimino
+17017;Millesimo
+17040;Mioglia
+17013;Murialdo
+17030;Nasino
+17026;Noli
+17037;Onzo
+17024;Orco Feglino
+17037;Ortovero
+17010;Osiglia
+17043;Pallare
+17058;Piana Crixia
+17027;Pietra Ligure
+17043;Plodio
+17042;Pontinvrea
+17047;Quiliano
+17020;Rialto
+17017;Roccavignale
+17046;Sassello
+17100;Savona
+17028;Spotorno
+17044;Stella
+17020;Stellanello
+17020;Testico
+17055;Toirano
+17020;Tovo San Giacomo
+17048;Urbe
+17047;Vado Ligure
+17019;Varazze
+17032;Vendone
+17028;Vezzi Portio
+17038;Villanova d'Albenga
+17039;Zuccarello
+16011;Arenzano
+16036;Avegno
+16021;Bargagli
+16031;Bogliasco
+16041;Borzonasca
+16012;Busalla
+16032;Camogli
+16013;Campo Ligure
+16014;Campomorone
+16042;Carasco
+16030;Casarza Ligure
+16015;Casella
+16030;Castiglione Chiavarese
+16014;Ceranesi
+16043;Chiavari
+16044;Cicagna
+16016;Cogoleto
+16030;Cogorno
+16040;Coreglia Ligure
+16010;Crocefieschi
+16022;Davagna
+16020;Fascia
+16040;Favale di Malvaro
+16023;Fontanigorda
+16121;Genova
+16122;Genova
+16123;Genova
+16124;Genova
+16125;Genova
+16126;Genova
+16127;Genova
+16128;Genova
+16129;Genova
+16131;Genova
+16132;Genova
+16133;Genova
+16134;Genova
+16135;Genova
+16136;Genova
+16137;Genova
+16138;Genova
+16139;Genova
+16141;Genova
+16142;Genova
+16143;Genova
+16144;Genova
+16145;Genova
+16146;Genova
+16147;Genova
+16148;Genova
+16149;Genova
+16151;Genova
+16152;Genova
+16153;Genova
+16154;Genova
+16155;Genova
+16156;Genova
+16157;Genova
+16158;Genova
+16159;Genova
+16161;Genova
+16162;Genova
+16163;Genova
+16164;Genova
+16165;Genova
+16166;Genova
+16167;Genova
+16020;Gorreto
+16017;Isola del Cantone
+16033;Lavagna
+16040;Leivi
+16045;Lorsica
+16024;Lumarzo
+16010;Masone
+16010;Mele
+16046;Mezzanego
+16018;Mignanego
+16047;Moconesi
+16030;Moneglia
+16025;Montebruno
+16026;Montoggio
+16040;Ne
+16040;Neirone
+16040;Orero
+16031;Pieve Ligure
+16034;Portofino
+16027;Propata
+16035;Rapallo
+16036;Recco
+16048;Rezzoaglio
+16019;Ronco Scrivia
+16025;Rondanina
+16010;Rossiglione
+16028;Rovegno
+16040;San Colombano Certenoli
+16038;Santa Margherita Ligure
+16010;Sant'Olcese
+16049;Santo Stefano d'Aveto
+16010;Savignone
+16010;Serra Riccò
+16039;Sestri Levante
+16031;Sori
+16010;Tiglieto
+16029;Torriglia
+16030;Tribogna
+16036;Uscio
+16010;Valbrevenna
+16010;Vobbia
+16035;Zoagli
+19031;Ameglia
+19021;Arcola
+19020;Beverino
+19020;Bolano
+19011;Bonassola
+19020;Borghetto di Vara
+19020;Brugnato
+19020;Calice al Cornoviglio
+19012;Carro
+19020;Carrodano
+19033;Castelnuovo Magra
+19013;Deiva Marina
+19020;Follo
+19014;Framura
+19121;La Spezia
+19122;La Spezia
+19123;La Spezia
+19124;La Spezia
+19125;La Spezia
+19126;La Spezia
+19131;La Spezia
+19132;La Spezia
+19133;La Spezia
+19134;La Spezia
+19135;La Spezia
+19136;La Spezia
+19137;La Spezia
+19032;Lerici
+19015;Levanto
+19010;Maissana
+19016;Monterosso al Mare
+19034;Luni
+19020;Pignone
+19025;Portovenere
+19020;Riccò del Golfo di Spezia
+19017;Riomaggiore
+19020;Rocchetta di Vara
+19037;Santo Stefano di Magra
+19038;Sarzana
+19020;Sesta Godano
+19028;Varese Ligure
+19018;Vernazza
+19020;Vezzano Ligure
+19020;Zignago
+21010;Agra
+21041;Albizzate
+21021;Angera
+21051;Arcisate
+21010;Arsago Seprio
+21022;Azzate
+21030;Azzio
+21020;Barasso
+21039;Bedero Valcuvia
+21050;Besano
+21010;Besnate
+21023;Besozzo
+21024;Biandronno
+21050;Bisuschio
+21020;Bodio Lomnago
+21020;Brebbia
+21030;Brenta
+21010;Brezzo di Bedero
+21030;Brinzio
+21030;Brissago-Valtravaglia
+21020;Brunello
+21050;Brusimpiano
+21020;Buguggiate
+21052;Busto Arsizio
+21031;Cadegliano-Viconago
+21050;Cairate
+21050;Cantello
+21032;Caravate
+21010;Cardano al Campo
+21040;Carnago
+21042;Caronno Pertusella
+21040;Caronno Varesino
+21020;Casale Litta
+21030;Casalzuigno
+21020;Casciago
+21011;Casorate Sempione
+21012;Cassano Magnago
+21030;Cassano Valcuvia
+21053;Castellanza
+21030;Castello Cabiaglio
+21050;Castelseprio
+21010;Castelveccana
+21043;Castiglione Olona
+21040;Castronno
+21044;Cavaria con Premezzo
+21020;Cazzago Brabbia
+21040;Cislago
+21033;Cittiglio
+21050;Clivio
+21034;Cocquio-Trevisago
+21020;Comabbio
+21025;Comerio
+21030;Cremenaga
+21020;Crosio della Valle
+21050;Cuasso al Monte
+21030;Cugliate-Fabiasco
+21035;Cunardo
+21010;Curiglia con Monteviasco
+21030;Cuveglio
+21030;Cuvio
+21020;Daverio
+21010;Dumenza
+21030;Duno
+21054;Fagnano Olona
+21010;Ferno
+21030;Ferrera di Varese
+21013;Gallarate
+21020;Galliate Lombardo
+21026;Gavirate
+21045;Gazzada Schianno
+21036;Gemonio
+21040;Gerenzano
+21010;Germignaga
+21010;Golasecca
+21050;Gorla Maggiore
+21055;Gorla Minore
+21040;Gornate Olona
+21030;Grantola
+21020;Inarzo
+21056;Induno Olona
+21027;Ispra
+21040;Jerago con Orago
+21037;Lavena Ponte Tresa
+21014;Laveno-Mombello
+21038;Leggiuno
+21050;Lonate Ceppino
+21015;Lonate Pozzolo
+21040;Lozza
+21016;Luino
+21020;Luvinate
+21046;Malnate
+21030;Marchirolo
+21050;Marnate
+21030;Marzio
+21030;Masciago Primo
+21020;Mercallo
+21030;Mesenzana
+21010;Montegrino Valtravaglia
+21020;Monvalle
+21040;Morazzone
+21020;Mornago
+21040;Oggiona con Santo Stefano
+21057;Olgiate Olona
+21040;Origgio
+21030;Orino
+21050;Porto Ceresio
+21010;Porto Valtravaglia
+21030;Rancio Valcuvia
+21020;Ranco
+21050;Saltrio
+21017;Samarate
+21047;Saronno
+21018;Sesto Calende
+21048;Solbiate Arno
+21058;Solbiate Olona
+21019;Somma Lombardo
+21040;Sumirago
+21020;Taino
+21020;Ternate
+21049;Tradate
+21028;Travedona-Monate
+21010;Tronzano Lago Maggiore
+21040;Uboldo
+21039;Valganna
+21020;Varano Borghi
+21100;Varese
+21040;Vedano Olona
+21040;Venegono Inferiore
+21040;Venegono Superiore
+21029;Vergiate
+21059;Viggiù
+21010;Vizzola Ticino
+21038;Sangiano
+21061;Maccagno con Pino e Veddasca
+21062;Cadrezzate con Osmate
+21020;Bardello con Malgesso e Bregano
+22031;Albavilla
+22032;Albese con Cassano
+22070;Albiolo
+22040;Alserio
+22040;Alzate Brianza
+22040;Anzano del Parco
+22070;Appiano Gentile
+22010;Argegno
+22060;Arosio
+22033;Asso
+22030;Barni
+22010;Bene Lario
+22070;Beregazzo con Figliaro
+22070;Binago
+22020;Bizzarone
+22028;Blessagno
+22020;Blevio
+22070;Bregnano
+22040;Brenna
+22010;Brienno
+22034;Brunate
+22070;Bulgarograsso
+22060;Cabiate
+22071;Cadorago
+22030;Caglio
+22061;Campione d'Italia
+22063;Cantù
+22035;Canzo
+22070;Capiago Intimiano
+22010;Carate Urio
+22070;Carbonate
+22060;Carimate
+22010;Carlazzo
+22060;Carugo
+22030;Caslino d'Erba
+22070;Casnate con Bernate
+22070;Cassina Rizzardi
+22030;Castelmarte
+22070;Castelnuovo Bozzente
+22010;Cavargna
+22020;Cerano d'Intelvi
+22072;Cermenate
+22012;Cernobbio
+22070;Cirimido
+22010;Claino con Osteno
+22010;Colonno
+22100;Como
+22010;Corrido
+22010;Cremia
+22060;Cucciago
+22010;Cusino
+22020;Dizzasco
+22013;Domaso
+22014;Dongo
+22010;Dosso del Liro
+22036;Erba
+22030;Eupilio
+22020;Faggeto Lario
+22020;Faloppio
+22070;Fenegrò
+22060;Figino Serenza
+22073;Fino Mornasco
+22010;Garzeno
+22010;Gera Lario
+22070;Grandate
+22010;Grandola ed Uniti
+22011;Griante
+22070;Guanzate
+22044;Inverigo
+22010;Laglio
+22020;Laino
+22045;Lambrugo
+22030;Lasnigo
+22025;Lezzeno
+22070;Limido Comasco
+22030;Lipomo
+22010;Livo
+22070;Locate Varesino
+22074;Lomazzo
+22030;Longone al Segrino
+22070;Luisago
+22040;Lurago d'Erba
+22070;Lurago Marinone
+22075;Lurate Caccivio
+22030;Magreglio
+22066;Mariano Comense
+22026;Maslianico
+22017;Menaggio
+22046;Merone
+22010;Moltrasio
+22040;Monguzzo
+22070;Montano Lucino
+22010;Montemezzo
+22030;Montorfano
+22076;Mozzate
+22010;Musso
+22020;Nesso
+22060;Novedrate
+22077;Olgiate Comasco
+22070;Oltrona di San Mamette
+22030;Orsenigo
+22010;Peglio
+22010;Pianello del Lario
+22020;Pigra
+22010;Plesio
+22020;Pognana Lario
+22020;Ponna
+22037;Ponte Lambro
+22018;Porlezza
+22030;Proserpio
+22030;Pusiano
+22030;Rezzago
+22070;Rodero
+22069;Rovellasca
+22070;Rovello Porro
+22010;Sala Comacina
+22010;San Bartolomeo Val Cavargna
+22042;San Fermo della Battaglia
+22010;San Nazzaro Val Cavargna
+22020;Schignano
+22070;Senna Comasco
+22010;Sorico
+22030;Sormano
+22010;Stazzona
+22038;Tavernerio
+22020;Torno
+22010;Trezzone
+22078;Turate
+22039;Valbrona
+22070;Valmorea
+22010;Val Rezzo
+22010;Valsolda
+22020;Veleso
+22070;Veniano
+22013;Vercana
+22070;Vertemate con Minoprio
+22079;Villa Guardia
+22020;Zelbio
+22010;San Siro
+22015;Gravedona ed Uniti
+22021;Bellagio
+22041;Colverde
+22016;Tremezzina
+22024;Alta Valle Intelvi
+22023;Centro Valle Intelvi
+22043;Solbiate con Cagno
+23010;Albaredo per San Marco
+23010;Albosaggia
+23009;Andalo Valtellino
+23031;Aprica
+23011;Ardenno
+23010;Bema
+23010;Berbenno di Valtellina
+23030;Bianzone
+23032;Bormio
+23010;Buglio in Monte
+23010;Caiolo
+23021;Campodolcino
+23020;Caspoggio
+23030;Castello dell'Acqua
+23012;Castione Andevenno
+23010;Cedrasco
+23016;Cercino
+23022;Chiavenna
+23023;Chiesa in Valmalenco
+23030;Chiuro
+23010;Cino
+23010;Civo
+23010;Colorina
+23013;Cosio Valtellino
+23010;Dazio
+23014;Delebio
+23015;Dubino
+23020;Faedo Valtellino
+23010;Forcola
+23010;Fusine
+23010;Gerola Alta
+23020;Gordona
+23033;Grosio
+23034;Grosotto
+23024;Madesimo
+23020;Lanzada
+23041;Livigno
+23030;Lovero
+23016;Mantello
+23030;Mazzo di Valtellina
+23010;Mello
+23020;Mese
+23020;Montagna in Valtellina
+23017;Morbegno
+23025;Novate Mezzola
+23010;Pedesina
+23010;Piantedo
+23020;Piateda
+23020;Piuro
+23020;Poggiridenti
+23026;Ponte in Valtellina
+23010;Postalesio
+23020;Prata Camportaccio
+23010;Rasura
+23010;Rogolo
+23027;Samolaco
+23020;San Giacomo Filippo
+23030;Sernio
+23035;Sondalo
+23100;Sondrio
+23020;Spriana
+23018;Talamona
+23010;Tartano
+23036;Teglio
+23037;Tirano
+23020;Torre di Santa Maria
+23030;Tovo di Sant'Agata
+23019;Traona
+23020;Tresivio
+23038;Valdidentro
+23030;Valdisotto
+23030;Valfurva
+23010;Val Masino
+23020;Verceia
+23030;Vervio
+23029;Villa di Chiavenna
+23030;Villa di Tirano
+20081;Abbiategrasso
+20080;Albairate
+20020;Arconate
+20044;Arese
+20004;Arluno
+20057;Assago
+20008;Bareggio
+20060;Basiano
+20079;Basiglio
+20060;Bellinzago Lombardo
+20010;Bernate Ticino
+20080;Besate
+20082;Binasco
+20010;Boffalora sopra Ticino
+20021;Bollate
+20091;Bresso
+20080;Bubbiano
+20090;Buccinasco
+20010;Buscate
+20041;Bussero
+20038;Busto Garolfo
+20080;Calvignasco
+20040;Cambiago
+20039;Canegrate
+20074;Carpiano
+20061;Carugate
+20059;Casarile
+20003;Casorezzo
+20062;Cassano d'Adda
+20051;Cassina de' Pecchi
+20081;Cassinetta di Lugagnano
+20022;Castano Primo
+20063;Cernusco sul Naviglio
+20070;Cerro al Lambro
+20023;Cerro Maggiore
+20090;Cesano Boscone
+20031;Cesate
+20092;Cinisello Balsamo
+20046;Cisliano
+20093;Cologno Monzese
+20075;Colturano
+20011;Corbetta
+20032;Cormano
+20007;Cornaredo
+20094;Corsico
+20012;Cuggiono
+20047;Cusago
+20095;Cusano Milanino
+20036;Dairago
+20070;Dresano
+20083;Gaggiano
+20024;Garbagnate Milanese
+20060;Gessate
+20064;Gorgonzola
+20056;Grezzago
+20088;Gudo Visconti
+20001;Inveruno
+20065;Inzago
+20084;Lacchiarella
+20045;Lainate
+20025;Legnano
+20050;Liscate
+20085;Locate di Triulzi
+20013;Magenta
+20020;Magnago
+20010;Marcallo con Casone
+20060;Masate
+20076;Mediglia
+20077;Melegnano
+20066;Melzo
+20010;Mesero
+20121;Milano
+20122;Milano
+20123;Milano
+20124;Milano
+20125;Milano
+20126;Milano
+20127;Milano
+20128;Milano
+20129;Milano
+20131;Milano
+20132;Milano
+20133;Milano
+20134;Milano
+20135;Milano
+20136;Milano
+20137;Milano
+20138;Milano
+20139;Milano
+20141;Milano
+20142;Milano
+20143;Milano
+20144;Milano
+20145;Milano
+20146;Milano
+20147;Milano
+20148;Milano
+20149;Milano
+20151;Milano
+20152;Milano
+20153;Milano
+20154;Milano
+20155;Milano
+20156;Milano
+20157;Milano
+20158;Milano
+20159;Milano
+20161;Milano
+20162;Milano
+20081;Morimondo
+20086;Motta Visconti
+20014;Nerviano
+20020;Nosate
+20026;Novate Milanese
+20082;Noviglio
+20073;Opera
+20002;Ossona
+20080;Ozzero
+20037;Paderno Dugnano
+20048;Pantigliate
+20015;Parabiago
+20067;Paullo
+20016;Pero
+20068;Peschiera Borromeo
+20042;Pessano con Bornago
+20072;Pieve Emanuele
+20096;Pioltello
+20005;Pogliano Milanese
+20060;Pozzo d'Adda
+20060;Pozzuolo Martesana
+20006;Pregnana Milanese
+20027;Rescaldina
+20017;Rho
+20020;Robecchetto con Induno
+20087;Robecco sul Naviglio
+20053;Rodano
+20088;Rosate
+20089;Rozzano
+20078;San Colombano al Lambro
+20097;San Donato Milanese
+20034;San Giorgio su Legnano
+20098;San Giuliano Milanese
+20010;Santo Stefano Ticino
+20028;San Vittore Olona
+20070;San Zenone al Lambro
+20018;Sedriano
+20054;Segrate
+20030;Senago
+20099;Sesto San Giovanni
+20049;Settala
+20019;Settimo Milanese
+20033;Solaro
+20060;Trezzano Rosa
+20090;Trezzano sul Naviglio
+20056;Trezzo sull'Adda
+20067;Tribiano
+20060;Truccazzano
+20029;Turbigo
+20043;Vanzago
+20069;Vaprio d'Adda
+20080;Vernate
+20052;Vignate
+20055;Vimodrone
+20009;Vittuone
+20070;Vizzolo Predabissi
+20058;Zibido San Giacomo
+20035;Villa Cortese
+20020;Vanzaghello
+20021;Baranzate
+20071;Vermezzo con Zelo
+24060;Adrara San Martino
+24060;Adrara San Rocco
+24061;Albano Sant'Alessandro
+24021;Albino
+24011;Almè
+24030;Almenno San Bartolomeo
+24031;Almenno San Salvatore
+24022;Alzano Lombardo
+24030;Ambivere
+24051;Antegnate
+24040;Arcene
+24020;Ardesio
+24040;Arzago d'Adda
+24010;Averara
+24020;Aviatico
+24052;Azzano San Paolo
+24020;Azzone
+24060;Bagnatica
+24040;Barbata
+24050;Bariano
+24030;Barzana
+24030;Bedulita
+24030;Berbenno
+24121;Bergamo
+24122;Bergamo
+24123;Bergamo
+24124;Bergamo
+24125;Bergamo
+24126;Bergamo
+24127;Bergamo
+24128;Bergamo
+24129;Bergamo
+24060;Berzo San Fermo
+24060;Bianzano
+24010;Blello
+24060;Bolgare
+24040;Boltiere
+24040;Bonate Sopra
+24040;Bonate Sotto
+24060;Borgo di Terzo
+24060;Bossico
+24040;Bottanuco
+24010;Bracca
+24010;Branzi
+24041;Brembate
+24030;Brembate di Sopra
+24053;Brignano Gera d'Adda
+24037;Brumano
+24060;Brusaporto
+24050;Calcinate
+24054;Calcio
+24033;Calusco d'Adda
+24040;Calvenzano
+24010;Camerata Cornello
+24040;Canonica d'Adda
+24030;Capizzone
+24042;Capriate San Gervasio
+24030;Caprino Bergamasco
+24043;Caravaggio
+24060;Carobbio degli Angeli
+24010;Carona
+24030;Carvico
+24060;Casazza
+24040;Casirate d'Adda
+24020;Casnigo
+24010;Cassiglio
+24060;Castelli Calepio
+24040;Castel Rozzone
+24020;Castione della Presolana
+24063;Castro
+24050;Cavernago
+24026;Cazzano Sant'Andrea
+24060;Cenate Sopra
+24069;Cenate Sotto
+24020;Cene
+24020;Cerete
+24040;Chignolo d'Isola
+24060;Chiuduno
+24034;Cisano Bergamasco
+24040;Ciserano
+24050;Cividate al Piano
+24023;Clusone
+24020;Colere
+24055;Cologno al Serio
+24020;Colzate
+24040;Comun Nuovo
+24030;Corna Imagna
+24050;Cortenuova
+24060;Costa di Mezzate
+24030;Costa Valle Imagna
+24062;Costa Volpino
+24050;Covo
+24060;Credaro
+24035;Curno
+24010;Cusio
+24044;Dalmine
+24010;Dossena
+24060;Endine Gaiano
+24060;Entratico
+24045;Fara Gera d'Adda
+24058;Fara Olivana con Sola
+24040;Filago
+24020;Fino del Monte
+24020;Fiorano al Serio
+24056;Fontanella
+24060;Fonteno
+24010;Foppolo
+24060;Foresto Sparso
+24040;Fornovo San Giovanni
+24030;Fuipiano Valle Imagna
+24020;Gandellino
+24024;Gandino
+24060;Gandosso
+24060;Gaverina Terme
+24025;Gazzaniga
+24050;Ghisalba
+24060;Gorlago
+24020;Gorle
+24020;Gorno
+24050;Grassobbio
+24020;Gromo
+24060;Grone
+24064;Grumello del Monte
+24010;Isola di Fondra
+24040;Isso
+24040;Lallio
+24026;Leffe
+24010;Lenna
+24040;Levate
+24030;Locatello
+24065;Lovere
+24050;Lurano
+24069;Luzzana
+24040;Madone
+24030;Mapello
+24057;Martinengo
+24010;Mezzoldo
+24040;Misano di Gera d'Adda
+24010;Moio de' Calvi
+24060;Monasterolo del Castello
+24060;Montello
+24050;Morengo
+24050;Mornico al Serio
+24050;Mozzanica
+24030;Mozzo
+24027;Nembro
+24010;Olmo al Brembo
+24013;Oltre il Colle
+24020;Oltressenda Alta
+24020;Oneta
+24020;Onore
+24050;Orio al Serio
+24010;Ornica
+24040;Osio Sopra
+24046;Osio Sotto
+24040;Pagazzano
+24030;Paladina
+24030;Palazzago
+24050;Palosco
+24020;Parre
+24060;Parzanica
+24066;Pedrengo
+24020;Peia
+24060;Pianico
+24020;Piario
+24014;Piazza Brembana
+24010;Piazzatorre
+24010;Piazzolo
+24040;Pognano
+24028;Ponte Nossa
+24010;Ponteranica
+24036;Ponte San Pietro
+24030;Pontida
+24040;Pontirolo Nuovo
+24020;Pradalunga
+24060;Predore
+24020;Premolo
+24030;Presezzo
+24050;Pumenengo
+24020;Ranica
+24060;Ranzanico
+24060;Riva di Solto
+24060;Rogno
+24058;Romano di Lombardia
+24010;Roncobello
+24030;Roncola
+24037;Rota d'Imagna
+24020;Rovetta
+24015;San Giovanni Bianco
+24060;San Paolo d'Argon
+24016;San Pellegrino Terme
+24010;Santa Brigida
+24067;Sarnico
+24020;Scanzorosciate
+24020;Schilpario
+24010;Sedrina
+24020;Selvino
+24068;Seriate
+24017;Serina
+24060;Solto Collina
+24020;Songavazzo
+24010;Sorisole
+24039;Sotto il Monte Giovanni XXIII
+24060;Sovere
+24060;Spinone al Lago
+24050;Spirano
+24040;Stezzano
+24030;Strozza
+24040;Suisio
+24010;Taleggio
+24060;Tavernola Bergamasca
+24060;Telgate
+24030;Terno d'Isola
+24020;Torre Boldone
+24032;Torre de' Busi
+24060;Torre de' Roveri
+24050;Torre Pallavicina
+24069;Trescore Balneario
+24047;Treviglio
+24048;Treviolo
+24010;Ubiale Clanezzo
+24059;Urgnano
+24020;Valbondione
+24030;Valbrembo
+24020;Valgoglio
+24010;Valleve
+24010;Valnegra
+24010;Valtorta
+24010;Vedeseta
+24040;Verdellino
+24049;Verdello
+24029;Vertova
+24060;Viadanica
+24060;Vigano San Martino
+24060;Vigolo
+24030;Villa d'Adda
+24018;Villa d'Almè
+24020;Villa di Serio
+24020;Villa d'Ogna
+24060;Villongo
+24020;Vilminore di Scalve
+24060;Zandobbio
+24050;Zanica
+24019;Zogno
+24010;Costa Serina
+24010;Algua
+24017;Cornalba
+24030;Medolago
+24030;Solza
+24038;Sant'Omobono Terme
+24012;Val Brembilla
+25010;Acquafredda
+25030;Adro
+25071;Agnosine
+25020;Alfianello
+25070;Anfo
+25040;Angolo Terme
+25040;Artogne
+25020;Azzano Mella
+25021;Bagnolo Mella
+25072;Bagolino
+25030;Barbariga
+25070;Barghe
+25020;Bassano Bresciano
+25081;Bedizzole
+25030;Berlingo
+25040;Berzo Demo
+25040;Berzo Inferiore
+25040;Bienno
+25070;Bione
+25022;Borgo San Giacomo
+25010;Borgosatollo
+25042;Borno
+25082;Botticino
+25061;Bovegno
+25073;Bovezzo
+25030;Brandico
+25040;Braone
+25043;Breno
+25121;Brescia
+25122;Brescia
+25123;Brescia
+25124;Brescia
+25125;Brescia
+25126;Brescia
+25127;Brescia
+25128;Brescia
+25129;Brescia
+25131;Brescia
+25132;Brescia
+25133;Brescia
+25134;Brescia
+25135;Brescia
+25136;Brescia
+25060;Brione
+25070;Caino
+25011;Calcinato
+25080;Calvagese della Riviera
+25012;Calvisano
+25044;Capo di Ponte
+25070;Capovalle
+25020;Capriano del Colle
+25031;Capriolo
+25013;Carpenedolo
+25045;Castegnato
+25030;Castelcovati
+25030;Castel Mella
+25014;Castenedolo
+25070;Casto
+25030;Castrezzato
+25046;Cazzago San Martino
+25051;Cedegolo
+25060;Cellatica
+25040;Cerveno
+25040;Ceto
+25040;Cevo
+25032;Chiari
+25020;Cigole
+25050;Cimbergo
+25040;Cividate Camuno
+25030;Coccaglio
+25060;Collebeato
+25060;Collio
+25033;Cologne
+25030;Comezzano-Cizzago
+25062;Concesio
+25040;Corte Franca
+25040;Corteno Golgi
+25030;Corzano
+25047;Darfo Boario Terme
+25020;Dello
+25015;Desenzano del Garda
+25048;Edolo
+25030;Erbusco
+25040;Esine
+25020;Fiesse
+25020;Flero
+25020;Gambara
+25083;Gardone Riviera
+25063;Gardone Val Trompia
+25084;Gargnano
+25085;Gavardo
+25016;Ghedi
+25040;Gianico
+25023;Gottolengo
+25064;Gussago
+25074;Idro
+25040;Incudine
+25061;Irma
+25049;Iseo
+25010;Isorella
+25074;Lavenone
+25024;Leno
+25010;Limone sul Garda
+25060;Lodrino
+25030;Lograto
+25017;Lonato del Garda
+25030;Longhena
+25050;Losine
+25040;Lozio
+25065;Lumezzane
+25030;Maclodio
+25080;Magasa
+25030;Mairano
+25053;Malegno
+25040;Malonno
+25080;Manerba del Garda
+25025;Manerbio
+25060;Marcheno
+25060;Marmentino
+25054;Marone
+25080;Mazzano
+25020;Milzano
+25080;Moniga del Garda
+25040;Monno
+25050;Monte Isola
+25040;Monticelli Brusati
+25018;Montichiari
+25010;Montirone
+25070;Mura
+25080;Muscoline
+25075;Nave
+25050;Niardo
+25080;Nuvolento
+25080;Nuvolera
+25076;Odolo
+25020;Offlaga
+25050;Ome
+25040;Ono San Pietro
+25034;Orzinuovi
+25030;Orzivecchi
+25035;Ospitaletto
+25050;Ossimo
+25080;Padenghe sul Garda
+25050;Paderno Franciacorta
+25050;Paisco Loveno
+25080;Paitone
+25036;Palazzolo sull'Oglio
+25030;Paratico
+25050;Paspardo
+25050;Passirano
+25020;Pavone del Mella
+25020;San Paolo
+25070;Pertica Alta
+25078;Pertica Bassa
+25060;Pezzaze
+25050;Pian Camuno
+25055;Pisogne
+25060;Polaveno
+25080;Polpenazze del Garda
+25030;Pompiano
+25020;Poncarale
+25056;Ponte di Legno
+25026;Pontevico
+25037;Pontoglio
+25010;Pozzolengo
+25020;Pralboino
+25070;Preseglie
+25080;Prevalle
+25050;Provaglio d'Iseo
+25070;Provaglio Val Sabbia
+25080;Puegnago del Garda
+25027;Quinzano d'Oglio
+25010;Remedello
+25086;Rezzato
+25030;Roccafranca
+25050;Rodengo Saiano
+25077;Roè Volciano
+25030;Roncadelle
+25038;Rovato
+25030;Rudiano
+25070;Sabbio Chiese
+25057;Sale Marasino
+25087;Salò
+25010;San Felice del Benaco
+25020;San Gervasio Bresciano
+25010;San Zeno Naviglio
+25068;Sarezzo
+25040;Saviore dell'Adamello
+25050;Sellero
+25020;Seniga
+25080;Serle
+25019;Sirmione
+25080;Soiano del Lago
+25048;Sonico
+25058;Sulzano
+25060;Tavernole sul Mella
+25050;Temù
+25080;Tignale
+25030;Torbole Casaglia
+25088;Toscolano-Maderno
+25039;Travagliato
+25010;Tremosine sul Garda
+25030;Trenzano
+25070;Treviso Bresciano
+25030;Urago d'Oglio
+25080;Vallio Terme
+25080;Valvestino
+25028;Verolanuova
+25029;Verolavecchia
+25078;Vestone
+25059;Vezza d'Oglio
+25069;Villa Carcina
+25030;Villachiara
+25089;Villanuova sul Clisi
+25050;Vione
+25010;Visano
+25079;Vobarno
+25050;Zone
+25052;Piancogno
+27020;Alagna
+27020;Albonese
+27010;Albuzzano
+27040;Arena Po
+27010;Badia Pavese
+27050;Bagnaria
+27041;Barbianello
+27010;Bascapè
+27050;Bastida Pancarana
+27020;Battuda
+27011;Belgioioso
+27021;Bereguardo
+27010;Borgarello
+27040;Borgo Priolo
+27040;Borgoratto Mormorolo
+27020;Borgo San Siro
+27010;Bornasco
+27040;Bosnasco
+27050;Brallo di Pregola
+27020;Breme
+27042;Bressana Bottarone
+27043;Broni
+27040;Calvignano
+27040;Campospinoso Albaredo
+27031;Candia Lomellina
+27044;Canneto Pavese
+27020;Carbonara al Ticino
+27041;Casanova Lonati
+27040;Casatisma
+27050;Casei Gerola
+27022;Casorate Primo
+27023;Cassolnovo
+27040;Castana
+27045;Casteggio
+27040;Castelletto di Branduzzo
+27030;Castello d'Agogna
+27030;Castelnovetto
+27051;Cava Manara
+27050;Cecima
+27010;Ceranova
+27030;Ceretto Lomellina
+27020;Cergnago
+27012;Certosa di Pavia
+27050;Cervesina
+27013;Chignolo Po
+27040;Cigognola
+27024;Cilavegna
+27050;Codevilla
+27030;Confienza
+27010;Copiano
+27050;Corana
+27050;Corvino San Quirico
+27010;Costa de' Nobili
+27030;Cozzo
+27010;Cura Carpignano
+27020;Dorno
+27032;Ferrera Erbognone
+27010;Filighera
+27040;Fortunago
+27030;Frascarolo
+27034;Galliavola
+27030;Gambarana
+27025;Gambolò
+27026;Garlasco
+27010;Gerenzago
+27010;Giussago
+27052;Godiasco Salice Terme
+27047;Golferenzo
+27020;Gravellona Lomellina
+27027;Gropello Cairoli
+27010;Inverno e Monteleone
+27015;Landriano
+27030;Langosco
+27016;Lardirago
+27010;Linarolo
+27040;Lirio
+27034;Lomello
+27053;Lungavilla
+27010;Magherno
+27020;Marcignago
+27010;Marzano
+27035;Mede
+27050;Menconico
+27030;Mezzana Bigli
+27030;Mezzana Rabattone
+27040;Mezzanino
+27010;Miradolo Terme
+27040;Montalto Pavese
+27054;Montebello della Battaglia
+27047;Montecalvo Versiggia
+27040;Montescano
+27052;Montesegale
+27010;Monticelli Pavese
+27040;Montù Beccaria
+27040;Mornico Losana
+27036;Mortara
+27020;Nicorvo
+27020;Olevano di Lomellina
+27050;Oliva Gessi
+27030;Ottobiano
+27030;Palestro
+27050;Pancarana
+27020;Parona
+27100;Pavia
+27040;Pietra de' Giorgi
+27030;Pieve Albignola
+27037;Pieve del Cairo
+27017;Pieve Porto Morone
+27040;Pinarolo Po
+27050;Pizzale
+27050;Ponte Nizza
+27040;Portalbera
+27040;Rea
+27050;Redavalle
+27050;Retorbido
+27055;Rivanazzano Terme
+27038;Robbio
+27042;Robecco Pavese
+27040;Rocca de' Giorgi
+27052;Rocca Susella
+27010;Rognano
+27050;Romagnese
+27010;Roncaro
+27030;Rosasco
+27040;Rovescala
+27043;San Cipriano Po
+27040;San Damiano al Colle
+27010;San Genesio ed Uniti
+27020;San Giorgio di Lomellina
+27028;San Martino Siccomario
+27039;Sannazzaro de' Burgondi
+27010;Santa Cristina e Bissone
+27046;Santa Giuletta
+27016;Sant'Alessio con Vialone
+27050;Santa Margherita di Staffora
+27047;Santa Maria della Versa
+27030;Sant'Angelo Lomellina
+27010;San Zenone al Po
+27020;Sartirana Lomellina
+27020;Scaldasole
+27020;Semiana
+27050;Silvano Pietra
+27010;Siziano
+27048;Sommo
+27010;Spessa
+27049;Stradella
+27030;Suardi
+27050;Torrazza Coste
+27030;Torre Beretti e Castellaro
+27010;Torre d'Arese
+27011;Torre de' Negri
+27020;Torre d'Isola
+27010;Torrevecchia Pia
+27050;Torricella Verzate
+27020;Travacò Siccomario
+27020;Trivolzio
+27020;Tromello
+27020;Trovo
+27050;Val di Nizza
+27020;Valeggio
+27020;Valle Lomellina
+27010;Valle Salimbene
+27057;Varzi
+27020;Velezzo Lomellina
+27010;Vellezzo Bellini
+27053;Verretto
+27040;Verrua Po
+27018;Vidigulfo
+27029;Vigevano
+27035;Villa Biscossi
+27030;Villanova d'Ardenghi
+27019;Villanterio
+27010;Vistarino
+27058;Voghera
+27047;Volpara
+27059;Zavattarello
+27010;Zeccone
+27030;Zeme
+27049;Zenevredo
+27017;Zerbo
+27020;Zerbolò
+27030;Zinasco
+27056;Cornale e Bastida
+27014;Corteolona e Genzone
+27061;Colli Verdi
+26020;Acquanegra Cremonese
+26020;Agnadello
+26021;Annicco
+26010;Azzanello
+26010;Bagnolo Cremasco
+26040;Bonemerse
+26020;Bordolano
+26030;Calvatone
+26010;Camisano
+26010;Campagnola Cremasca
+26010;Capergnanica
+26020;Cappella Cantone
+26030;Cappella de' Picenardi
+26010;Capralba
+26011;Casalbuttano ed Uniti
+26010;Casale Cremasco-Vidolasco
+26010;Casaletto Ceredano
+26014;Casaletto di Sopra
+26010;Casaletto Vaprio
+26041;Casalmaggiore
+26020;Casalmorano
+26030;Casteldidone
+26010;Castel Gabbiano
+26012;Castelleone
+26022;Castelverde
+26010;Castelvisconti
+26040;Cella Dati
+26010;Chieve
+26030;Cicognolo
+26042;Cingia de' Botti
+26020;Corte de' Cortesi con Cignone
+26010;Corte de' Frati
+26010;Credera Rubbiano
+26013;Crema
+26100;Cremona
+26010;Cremosano
+26020;Crotta d'Adda
+26020;Cumignano sul Naviglio
+26040;Derovere
+26010;Dovera
+26010;Fiesco
+26020;Formigara
+26030;Gabbioneta-Binanuova
+26030;Gadesco-Pieve Delmona
+26020;Genivolta
+26040;Gerre de' Caprioli
+26020;Gombito
+26044;Grontardo
+26023;Grumello Cremonese ed Uniti
+26040;Gussola
+26031;Isola Dovarese
+26010;Izano
+26020;Madignano
+26030;Malagnino
+26040;Martignana di Po
+26010;Monte Cremasco
+26010;Montodine
+26010;Moscazzano
+26045;Motta Baluffi
+26010;Offanengo
+26010;Olmeneta
+26032;Ostiano
+26024;Paderno Ponchielli
+26020;Palazzo Pignano
+26025;Pandino
+26043;Persico Dosimo
+26033;Pescarolo ed Uniti
+26030;Pessina Cremonese
+26010;Pianengo
+26017;Pieranica
+26040;Pieve d'Olmi
+26035;Pieve San Giacomo
+26026;Pizzighettone
+26010;Pozzaglio ed Uniti
+26017;Quintano
+26010;Ricengo
+26010;Ripalta Arpina
+26010;Ripalta Cremasca
+26010;Ripalta Guerina
+26036;Rivarolo del Re ed Uniti
+26027;Rivolta d'Adda
+26010;Robecco d'Oglio
+26014;Romanengo
+26010;Salvirola
+26020;San Bassano
+26046;San Daniele Po
+26037;San Giovanni in Croce
+26040;San Martino del Lago
+26040;Scandolara Ravara
+26047;Scandolara Ripa d'Oglio
+26010;Sergnano
+26028;Sesto ed Uniti
+26030;Solarolo Rainerio
+26029;Soncino
+26015;Soresina
+26048;Sospiro
+26020;Spinadesco
+26030;Spineda
+26016;Spino d'Adda
+26049;Stagno Lombardo
+26020;Ticengo
+26017;Torlino Vimercati
+26030;Tornata
+26038;Torre de' Picenardi
+26040;Torricella del Pizzo
+26017;Trescore Cremasco
+26018;Trigolo
+26010;Vaiano Cremasco
+26019;Vailate
+26039;Vescovato
+26030;Volongo
+26030;Voltido
+26034;Piadena Drizzona
+46011;Acquanegra sul Chiese
+46041;Asola
+46031;Bagnolo San Vito
+46012;Bozzolo
+46013;Canneto sull'Oglio
+46040;Casalmoro
+46040;Casaloldo
+46040;Casalromano
+46032;Castelbelforte
+46033;Castel d'Ario
+46042;Castel Goffredo
+46014;Castellucchio
+46043;Castiglione delle Stiviere
+46040;Cavriana
+46040;Ceresara
+46010;Commessaggio
+46010;Curtatone
+46030;Dosolo
+46040;Gazoldo degli Ippoliti
+46010;Gazzuolo
+46044;Goito
+46023;Gonzaga
+46040;Guidizzolo
+46020;Magnacavallo
+46100;Mantova
+46010;Marcaria
+46010;Mariana Mantovana
+46045;Marmirolo
+46046;Medole
+46024;Moglia
+46040;Monzambano
+46020;Motteggiana
+46035;Ostiglia
+46020;Pegognaga
+46040;Piubega
+46025;Poggio Rusco
+46030;Pomponesco
+46040;Ponti sul Mincio
+46047;Porto Mantovano
+46020;Quingentole
+46026;Quistello
+46010;Redondesco
+46017;Rivarolo Mantovano
+46040;Rodigo
+46037;Roncoferraro
+46048;Roverbella
+46018;Sabbioneta
+46027;San Benedetto Po
+46020;San Giacomo delle Segnate
+46051;San Giorgio Bigarello
+46020;San Giovanni del Dosso
+46010;San Martino dall'Argine
+46020;Schivenoglia
+46028;Sermide e Felonica
+46030;Serravalle a Po
+46040;Solferino
+46030;Sustinente
+46029;Suzzara
+46019;Viadana
+46039;Villimpenta
+46049;Volta Mantovana
+46034;Borgo Virgilio
+46036;Borgo Mantovano
+46021;Borgocarbonara
+39040;Aldino
+39010;Andriano
+39040;Anterivo
+39057;Appiano sulla strada del vino
+39010;Avelengo
+39036;Badia
+39040;Barbiano
+39100;Bolzano
+39030;Braies
+39041;Brennero
+39042;Bressanone
+39051;Bronzolo
+39031;Brunico
+39010;Caines
+39052;Caldaro sulla strada del vino
+39040;Campo di Trens
+39032;Campo Tures
+39020;Castelbello-Ciardes
+39040;Castelrotto
+39010;Cermes
+39030;Chienes
+39043;Chiusa
+39053;Cornedo all'Isarco
+39040;Cortaccia sulla strada del vino
+39040;Cortina sulla strada del vino
+39033;Corvara in Badia
+39027;Curon Venosta
+39034;Dobbiaco
+39044;Egna
+39030;Falzes
+39050;Fiè allo Sciliar
+39045;Fortezza
+39040;Funes
+39030;Gais
+39010;Gargazzone
+39020;Glorenza
+39021;Laces
+39022;Lagundo
+39040;Laion
+39055;Laives
+39011;Lana
+39023;Lasa
+39040;Lauregno
+39040;Luson
+39040;Magrè sulla strada del vino
+39024;Malles Venosta
+39030;Marebbe
+39020;Marlengo
+39020;Martello
+39010;Meltina
+39012;Merano
+39035;Monguelfo-Tesido
+39040;Montagna sulla Strada del Vino
+39013;Moso in Passiria
+39010;Nalles
+39025;Naturno
+39040;Naz-Sciaves
+39056;Nova Levante
+39050;Nova Ponente
+39040;Ora
+39046;Ortisei
+39020;Parcines
+39030;Perca
+39025;Plaus
+39040;Ponte Gardena
+39014;Postal
+39026;Prato allo Stelvio
+39030;Predoi
+39040;Proves
+39040;Racines
+39030;Rasun-Anterselva
+39054;Renon
+39010;Rifiano
+39037;Rio di Pusteria
+39037;Rodengo
+39040;Salorno sulla strada del vino
+39038;San Candido
+39050;San Genesio Atesino
+39015;San Leonardo in Passiria
+39030;San Lorenzo di Sebato
+39030;San Martino in Badia
+39010;San Martino in Passiria
+39010;San Pancrazio
+39047;Santa Cristina Valgardena
+39058;Sarentino
+39017;Scena
+39030;Selva dei Molini
+39048;Selva di Val Gardena
+39020;Senales
+39030;Sesto
+39028;Silandro
+39020;Sluderno
+39029;Stelvio
+39030;Terento
+39018;Terlano
+39040;Termeno sulla strada del vino
+39010;Tesimo
+39050;Tires
+39019;Tirolo
+39040;Trodena nel parco naturale
+39020;Tubre
+39016;Ultimo
+39051;Vadena
+39030;Valdaora
+39049;Val di Vizze
+39030;Valle Aurina
+39030;Valle di Casies
+39030;Vandoies
+39040;Varna
+39010;Verano
+39039;Villabassa
+39040;Villandro
+39049;Vipiteno
+39040;Velturno
+39030;La Valle
+39010;Senale-San Felice
+38061;Ala
+38041;Albiano
+38060;Aldeno
+38010;Andalo
+38062;Arco
+38063;Avio
+38042;Baselga di Pinè
+38043;Bedollo
+38060;Besenello
+38050;Bieno
+38071;Bleggio Superiore
+38080;Bocenago
+38080;Bondone
+38051;Borgo Valsugana
+38060;Brentonico
+38020;Bresimo
+38080;Caderzone Terme
+38050;Calceranica al Lago
+38022;Caldes
+38052;Caldonazzo
+38060;Calliano
+38031;Campitello di Fassa
+38010;Campodenno
+38050;Canal San Bovo
+38032;Canazei
+38030;Capriana
+38080;Carisolo
+38050;Carzano
+38082;Castel Condino
+38030;Castello-Molina di Fiemme
+38053;Castello Tesino
+38050;Castelnuovo
+38033;Cavalese
+38011;Cavareno
+38010;Cavedago
+38073;Cavedine
+38022;Cavizzana
+38060;Cimone
+38050;Cinte Tesino
+38020;Cis
+38045;Civezzano
+38023;Cles
+38020;Commezzadura
+38027;Croviana
+38010;Dambel
+38010;Denno
+38074;Drena
+38074;Dro
+38010;Fai della Paganella
+38075;Fiavè
+38050;Fierozzo
+38064;Folgaria
+38040;Fornace
+38050;Frassilongo
+38060;Garniga Terme
+38030;Giovo
+38086;Giustino
+38055;Grigno
+38050;Imer
+38060;Isera
+38046;Lavarone
+38015;Lavis
+38056;Levico Terme
+38020;Livo
+38040;Lona-Lases
+38040;Luserna
+38027;Malé
+38086;Massimeno
+38030;Mazzin
+38020;Mezzana
+38050;Mezzano
+38016;Mezzocorona
+38017;Mezzolombardo
+38035;Moena
+38018;Molveno
+38065;Mori
+38069;Nago-Torbole
+38060;Nogaredo
+38060;Nomi
+38050;Novaledo
+38050;Ospedaletto
+38026;Ossana
+38050;Palù del Fersina
+38030;Panchià
+38060;Ronzo-Chienis
+38024;Peio
+38020;Pellizzano
+38079;Pelugo
+38057;Pergine Valsugana
+38050;Pieve Tesino
+38086;Pinzolo
+38060;Pomarolo
+38037;Predazzo
+38020;Rabbi
+38066;Riva del Garda
+38010;Romeno
+38050;Roncegno Terme
+38050;Ronchi Valsugana
+38010;Ronzone
+38030;Roverè della Luna
+38068;Rovereto
+38010;Ruffrè-Mendola
+38020;Rumo
+38050;Sagron Mis
+38059;Samone
+38098;San Michele all'Adige
+38050;Sant'Orsola Terme
+38010;Sanzeno
+38011;Sarnonico
+38050;Scurelle
+38047;Segonzano
+38010;Sfruz
+38030;Soraga di Fassa
+38048;Sover
+38088;Spiazzo
+38010;Spormaggiore
+38010;Sporminore
+38070;Stenico
+38089;Storo
+38080;Strembo
+38050;Telve
+38050;Telve di Sopra
+38050;Tenna
+38060;Tenno
+38060;Terragnolo
+38027;Terzolas
+38038;Tesero
+38079;Tione di Trento
+38010;Ton
+38050;Torcegno
+38068;Trambileno
+38121;Trento
+38122;Trento
+38123;Trento
+38040;Valfloriana
+38060;Vallarsa
+38029;Vermiglio
+38057;Vignola-Falesina
+38060;Villa Lagarina
+38060;Volano
+38030;Ziano di Fiemme
+38077;Comano Terme
+38067;Ledro
+38012;Predaia
+38078;San Lorenzo Dorsino
+38091;Valdaone
+38025;Dimaro Folgarida
+38085;Pieve di Bono-Prezzo
+38092;Altavalle
+38049;Altopiano della Vigolana
+38011;Amblar-Don
+38083;Borgo Chiese
+38079;Borgo Lares
+38059;Castel Ivano
+38034;Cembra Lisignago
+38093;Contà
+38076;Madruzzo
+38094;Porte di Rendena
+38054;Primiero San Martino di Castrozza
+38087;Sella Giudicarie
+38095;Tre Ville
+38096;Vallelaghi
+38019;Ville d'Anaunia
+38036;San Giovanni di Fassa
+38097;Terre d'Adige
+38013;Borgo d'Anaunia
+38028;Novella
+38099;Ville di Fiemme
+37010;Affi
+37041;Albaredo d'Adige
+37050;Angiari
+37040;Arcole
+37030;Badia Calavena
+37011;Bardolino
+37050;Belfiore
+37040;Bevilacqua
+37040;Bonavigo
+37040;Boschi Sant'Anna
+37021;Bosco Chiesanuova
+37051;Bovolone
+37020;Brentino Belluno
+37010;Brenzone sul Garda
+37012;Bussolengo
+37060;Buttapietra
+37042;Caldiero
+37013;Caprino Veronese
+37052;Casaleone
+37043;Castagnaro
+37060;Castel d'Azzano
+37014;Castelnuovo del Garda
+37010;Cavaion Veronese
+37030;Cazzano di Tramigna
+37053;Cerea
+37020;Cerro Veronese
+37044;Cologna Veneta
+37030;Colognola ai Colli
+37050;Concamarise
+37010;Costermano sul Garda
+37020;Dolcè
+37060;Erbè
+37020;Erbezzo
+37020;Ferrara di Monte Baldo
+37022;Fumane
+37016;Garda
+37060;Gazzo Veronese
+37023;Grezzana
+37031;Illasi
+37063;Isola della Scala
+37050;Isola Rizza
+37030;Lavagno
+37017;Lazise
+37045;Legnago
+37018;Malcesine
+37020;Marano di Valpolicella
+37030;Mezzane di Sotto
+37046;Minerbe
+37030;Montecchia di Crosara
+37032;Monteforte d'Alpone
+37060;Mozzecane
+37024;Negrar di Valpolicella
+37054;Nogara
+37060;Nogarole Rocca
+37050;Oppeano
+37050;Palù
+37010;Pastrengo
+37026;Pescantina
+37019;Peschiera del Garda
+37064;Povegliano Veronese
+37040;Pressana
+37010;Rivoli Veronese
+37030;Roncà
+37055;Ronco all'Adige
+37050;Roverchiara
+37040;Roveredo di Guà
+37028;Roverè Veronese
+37056;Salizzole
+37047;San Bonifacio
+37035;San Giovanni Ilarione
+37057;San Giovanni Lupatoto
+37058;Sanguinetto
+37036;San Martino Buon Albergo
+37030;San Mauro di Saline
+37050;San Pietro di Morubio
+37029;San Pietro in Cariano
+37015;Sant'Ambrogio di Valpolicella
+37020;Sant'Anna d'Alfaedo
+37010;San Zeno di Montagna
+37030;Selva di Progno
+37038;Soave
+37066;Sommacampagna
+37060;Sona
+37060;Sorgà
+37040;Terrazzo
+37010;Torri del Benaco
+37039;Tregnago
+37060;Trevenzuolo
+37067;Valeggio sul Mincio
+37030;Velo Veronese
+37121;Verona
+37122;Verona
+37123;Verona
+37124;Verona
+37125;Verona
+37126;Verona
+37127;Verona
+37128;Verona
+37129;Verona
+37131;Verona
+37132;Verona
+37133;Verona
+37134;Verona
+37135;Verona
+37136;Verona
+37137;Verona
+37138;Verona
+37139;Verona
+37141;Verona
+37142;Verona
+37040;Veronella
+37030;Vestenanova
+37068;Vigasio
+37049;Villa Bartolomea
+37069;Villafranca di Verona
+37059;Zevio
+37040;Zimella
+36020;Agugliaro
+36020;Albettone
+36045;Alonte
+36077;Altavilla Vicentina
+36070;Altissimo
+36057;Arcugnano
+36011;Arsiero
+36071;Arzignano
+36012;Asiago
+36020;Asigliano Veneto
+36061;Bassano del Grappa
+36050;Bolzano Vicentino
+36042;Breganze
+36040;Brendola
+36050;Bressanvido
+36070;Brogliano
+36030;Caldogno
+36030;Caltrano
+36030;Calvene
+36043;Camisano Vicentino
+36020;Campiglia dei Berici
+36010;Carrè
+36050;Cartigliano
+36022;Cassola
+36020;Castegnero
+36070;Castelgomberto
+36072;Chiampo
+36010;Chiuppano
+36010;Cogollo del Cengio
+36073;Cornedo Vicentino
+36030;Costabissara
+36051;Creazzo
+36070;Crespadoro
+36031;Dueville
+36052;Enego
+36030;Fara Vicentino
+36010;Foza
+36032;Gallio
+36053;Gambellara
+36040;Grisignano di Zocco
+36040;Grumolo delle Abbadesse
+36033;Isola Vicentina
+36010;Laghi
+36040;Lastebasse
+36023;Longare
+36045;Lonigo
+36030;Lugo di Vicenza
+36034;Malo
+36035;Marano Vicentino
+36063;Marostica
+36054;Montebello Vicentino
+36075;Montecchio Maggiore
+36030;Montecchio Precalcino
+36030;Monte di Malo
+36047;Montegalda
+36047;Montegaldella
+36050;Monteviale
+36010;Monticello Conte Otto
+36050;Montorso Vicentino
+36065;Mussolente
+36024;Nanto
+36070;Nogarole Vicentino
+36055;Nove
+36025;Noventa Vicentina
+36040;Orgiano
+36040;Pedemonte
+36060;Pianezze
+36013;Piovene Rocchette
+36026;Pojana Maggiore
+36010;Posina
+36020;Pove del Grappa
+36050;Pozzoleone
+36050;Quinto Vicentino
+36076;Recoaro Terme
+36010;Roana
+36060;Romano d'Ezzelino
+36027;Rosà
+36028;Rossano Veneto
+36010;Rotzo
+36040;Salcedo
+36066;Sandrigo
+36070;San Pietro Mussolino
+36014;Santorso
+36030;San Vito di Leguzzano
+36030;Sarcedo
+36040;Sarego
+36060;Schiavon
+36015;Schio
+36020;Solagna
+36040;Sossano
+36056;Tezze sul Brenta
+36016;Thiene
+36040;Tonezza del Cimone
+36036;Torrebelvicino
+36040;Torri di Quartesolo
+36070;Trissino
+36078;Valdagno
+36040;Valdastico
+36030;Valli del Pasubio
+36010;Velo d'Astico
+36100;Vicenza
+36021;Villaga
+36030;Villaverla
+36010;Zanè
+36050;Zermeghedo
+36020;Zovencedo
+36030;Zugliano
+36044;Val Liona
+36048;Barbarano Mossano
+36029;Valbrenta
+36064;Colceresa
+36046;Lusiana Conco
+32021;Agordo
+32022;Alleghe
+32030;Arsiè
+32041;Auronzo di Cadore
+32100;Belluno
+32040;Borca di Cadore
+32042;Calalzo di Cadore
+32020;Cencenighe Agordino
+32030;Cesiomaggiore
+32010;Chies d'Alpago
+32040;Cibiana di Cadore
+32020;Colle Santa Lucia
+32040;Comelico Superiore
+32043;Cortina d'Ampezzo
+32040;Danta di Cadore
+32040;Domegge di Cadore
+32020;Falcade
+32032;Feltre
+32030;Fonzaso
+32020;Canale d'Agordo
+32020;Gosaldo
+32033;Lamon
+32020;La Valle Agordina
+32020;Limana
+32020;Livinallongo del Col di Lana
+32040;Lorenzago di Cadore
+32040;Lozzo di Cadore
+32010;Ospitale di Cadore
+32034;Pedavena
+32010;Perarolo di Cadore
+32044;Pieve di Cadore
+32014;Ponte nelle Alpi
+32020;Rivamonte Agordino
+32023;Rocca Pietore
+32030;San Gregorio nelle Alpi
+32040;San Nicolò di Comelico
+32040;San Pietro di Cadore
+32035;Santa Giustina
+32020;San Tomaso Agordino
+32045;Santo Stefano di Cadore
+32046;San Vito di Cadore
+32036;Sedico
+32020;Selva di Cadore
+32030;Seren del Grappa
+32037;Sospirolo
+32010;Soverzene
+32030;Sovramonte
+32027;Taibon Agordino
+32010;Tambre
+32020;Vallada Agordina
+32040;Valle di Cadore
+32040;Vigo di Cadore
+32040;Vodo Cadore
+32020;Voltago Agordino
+32010;Zoppè di Cadore
+32013;Longarone
+32016;Alpago
+32012;Val di Zoldo
+32026;Borgo Valbelluna
+31030;Altivole
+31030;Arcade
+31011;Asolo
+31030;Borso del Grappa
+31030;Breda di Piave
+31031;Caerano di San Marco
+31012;Cappella Maggiore
+31030;Carbonera
+31032;Casale sul Sile
+31030;Casier
+31030;Castelcucco
+31033;Castelfranco Veneto
+31030;Castello di Godego
+31034;Cavaso del Tomba
+31040;Cessalto
+31040;Chiarano
+31010;Cimadolmo
+31030;Cison di Valmarino
+31013;Codognè
+31014;Colle Umberto
+31015;Conegliano
+31016;Cordignano
+31041;Cornuda
+31035;Crocetta del Montello
+31010;Farra di Soligo
+31051;Follina
+31043;Fontanelle
+31010;Fonte
+31010;Fregona
+31018;Gaiarine
+31040;Giavera del Montello
+31010;Godega di Sant'Urbano
+31040;Gorgo al Monticano
+31036;Istrana
+31037;Loria
+31040;Mansuè
+31010;Mareno di Piave
+31010;Maser
+31052;Maserada sul Piave
+31040;Meduna di Livenza
+31050;Miane
+31021;Mogliano Veneto
+31050;Monastier di Treviso
+31010;Monfumo
+31044;Montebelluna
+31050;Morgano
+31010;Moriago della Battaglia
+31045;Motta di Livenza
+31040;Nervesa della Battaglia
+31046;Oderzo
+31024;Ormelle
+31010;Orsago
+31038;Paese
+31040;Pederobba
+31053;Pieve di Soligo
+31047;Ponte di Piave
+31050;Ponzano Veneto
+31040;Portobuffolè
+31054;Possagno
+31050;Povegliano
+31022;Preganziol
+31055;Quinto di Treviso
+31020;Refrontolo
+31023;Resana
+31020;Revine Lago
+31039;Riese Pio X
+31056;Roncade
+31040;Salgareda
+31048;San Biagio di Callalta
+31020;San Fior
+31020;San Pietro di Feletto
+31020;San Polo di Piave
+31025;Santa Lucia di Piave
+31020;San Vendemiano
+31020;San Zenone degli Ezzelini
+31026;Sarmede
+31040;Segusino
+31020;Sernaglia della Battaglia
+31057;Silea
+31027;Spresiano
+31058;Susegana
+31020;Tarzo
+31040;Trevignano
+31100;Treviso
+31049;Valdobbiadene
+31028;Vazzola
+31050;Vedelago
+31020;Vidor
+31020;Villorba
+31029;Vittorio Veneto
+31040;Volpago del Montello
+31050;Zenson di Piave
+31059;Zero Branco
+31017;Pieve del Grappa
+30020;Annone Veneto
+30010;Campagna Lupia
+30010;Campolongo Maggiore
+30010;Camponogara
+30021;Caorle
+30014;Cavarzere
+30022;Ceggia
+30015;Chioggia
+30020;Cinto Caomaggiore
+30010;Cona
+30023;Concordia Sagittaria
+30031;Dolo
+30020;Eraclea
+30032;Fiesso d'Artico
+30020;Fossalta di Piave
+30025;Fossalta di Portogruaro
+30030;Fossò
+30020;Gruaro
+30016;Jesolo
+30020;Marcon
+30030;Martellago
+30020;Meolo
+30034;Mira
+30035;Mirano
+30024;Musile di Piave
+30033;Noale
+30020;Noventa di Piave
+30030;Pianiga
+30026;Portogruaro
+30020;Pramaggiore
+30020;Quarto d'Altino
+30030;Salzano
+30027;San Donà di Piave
+30028;San Michele al Tagliamento
+30036;Santa Maria di Sala
+30029;San Stino di Livenza
+30037;Scorzè
+30038;Spinea
+30039;Stra
+30025;Teglio Veneto
+30020;Torre di Mosto
+30121;Venezia
+30122;Venezia
+30123;Venezia
+30124;Venezia
+30125;Venezia
+30126;Venezia
+30132;Venezia
+30133;Venezia
+30135;Venezia
+30141;Venezia
+30142;Venezia
+30171;Venezia
+30172;Venezia
+30173;Venezia
+30174;Venezia
+30175;Venezia
+30176;Venezia
+30030;Vigonovo
+30013;Cavallino-Treporti
+35031;Abano Terme
+35021;Agna
+35020;Albignasego
+35022;Anguillara Veneta
+35032;Arquà Petrarca
+35020;Arre
+35020;Arzergrande
+35023;Bagnoli di Sopra
+35030;Baone
+35040;Barbona
+35041;Battaglia Terme
+35040;Boara Pisani
+35010;Borgoricco
+35024;Bovolenta
+35020;Brugine
+35010;Cadoneghe
+35011;Campodarsego
+35010;Campodoro
+35012;Camposampiero
+35010;Campo San Martino
+35020;Candiana
+35010;Carmignano di Brenta
+35025;Cartura
+35040;Casale di Scodosia
+35020;Casalserugo
+35040;Castelbaldo
+35030;Cervarese Santa Croce
+35030;Cinto Euganeo
+35013;Cittadella
+35020;Codevigo
+35026;Conselve
+35020;Correzzola
+35010;Curtarolo
+35042;Este
+35014;Fontaniva
+35015;Galliera Veneta
+35030;Galzignano Terme
+35010;Gazzo
+35010;Grantorto
+35040;Granze
+35020;Legnaro
+35010;Limena
+35010;Loreggia
+35034;Lozzo Atestino
+35020;Maserà di Padova
+35040;Masi
+35010;Massanzago
+35040;Megliadino San Vitale
+35040;Merlara
+35035;Mestrino
+35043;Monselice
+35044;Montagnana
+35036;Montegrotto Terme
+35027;Noventa Padovana
+35045;Ospedaletto Euganeo
+35121;Padova
+35122;Padova
+35123;Padova
+35124;Padova
+35125;Padova
+35126;Padova
+35127;Padova
+35128;Padova
+35129;Padova
+35131;Padova
+35132;Padova
+35133;Padova
+35134;Padova
+35135;Padova
+35136;Padova
+35137;Padova
+35138;Padova
+35139;Padova
+35141;Padova
+35142;Padova
+35143;Padova
+35020;Pernumia
+35040;Piacenza d'Adige
+35016;Piazzola sul Brenta
+35017;Piombino Dese
+35028;Piove di Sacco
+35020;Polverara
+35040;Ponso
+35029;Pontelongo
+35020;Ponte San Nicolò
+35020;Pozzonovo
+35030;Rovolon
+35030;Rubano
+35030;Saccolongo
+35010;San Giorgio delle Pertiche
+35010;San Giorgio in Bosco
+35018;San Martino di Lupari
+35010;San Pietro in Gu
+35020;San Pietro Viminario
+35010;Santa Giustina in Colle
+35020;Sant'Angelo di Piove di Sacco
+35040;Sant'Elena
+35040;Sant'Urbano
+35020;Saonara
+35030;Selvazzano Dentro
+35047;Solesino
+35048;Stanghella
+35037;Teolo
+35020;Terrassa Padovana
+35019;Tombolo
+35038;Torreglia
+35010;Trebaseleghe
+35020;Tribano
+35040;Urbana
+35030;Veggiano
+35040;Vescovana
+35010;Vigodarzere
+35010;Vigonza
+35010;Villa del Conte
+35040;Villa Estense
+35010;Villafranca Padovana
+35010;Villanova di Camposampiero
+35030;Vo'
+35020;Due Carrare
+35046;Borgo Veneto
+45011;Adria
+45012;Ariano nel Polesine
+45031;Arquà Polesine
+45021;Badia Polesine
+45022;Bagnolo di Po
+45032;Bergantino
+45033;Bosaro
+45030;Calto
+45034;Canaro
+45020;Canda
+45020;Castelguglielmo
+45035;Castelmassa
+45030;Castelnovo Bariano
+45030;Ceneselli
+45010;Ceregnano
+45015;Corbola
+45023;Costa di Rovigo
+45030;Crespino
+45036;Ficarolo
+45024;Fiesso Umbertiano
+45030;Frassinelle Polesine
+45025;Fratta Polesine
+45030;Gaiba
+45010;Gavello
+45020;Giacciano con Baruchella
+45030;Guarda Veneta
+45026;Lendinara
+45017;Loreo
+45020;Lusia
+45037;Melara
+45030;Occhiobello
+45010;Papozze
+45010;Pettorazza Grimani
+45020;Pincara
+45038;Polesella
+45030;Pontecchio Polesine
+45018;Porto Tolle
+45010;Rosolina
+45100;Rovigo
+45030;Salara
+45020;San Bellino
+45030;San Martino di Venezze
+45039;Stienta
+45019;Taglio di Po
+45027;Trecenta
+45010;Villadose
+45030;Villamarzana
+45020;Villanova del Ghebbo
+45030;Villanova Marchesana
+45014;Porto Viro
+33041;Aiello del Friuli
+33020;Amaro
+33021;Ampezzo
+33051;Aquileia
+33022;Arta Terme
+33011;Artegna
+33040;Attimis
+33050;Bagnaria Arsa
+33031;Basiliano
+33032;Bertiolo
+33050;Bicinicco
+33010;Bordano
+33030;Buja
+33042;Buttrio
+33030;Camino al Tagliamento
+33030;Campoformido
+33050;Carlino
+33010;Cassacco
+33050;Castions di Strada
+33020;Cavazzo Carnico
+33020;Cercivento
+33052;Cervignano del Friuli
+33048;Chiopris-Viscone
+33010;Chiusaforte
+33043;Cividale del Friuli
+33033;Codroipo
+33010;Colloredo di Monte Albano
+33023;Comeglians
+33040;Corno di Rosazzo
+33030;Coseano
+33030;Dignano
+33010;Dogna
+33040;Drenchia
+33020;Enemonzo
+33040;Faedis
+33034;Fagagna
+33030;Flaibano
+33020;Forni Avoltri
+33024;Forni di Sopra
+33020;Forni di Sotto
+33013;Gemona del Friuli
+33050;Gonars
+33040;Grimacco
+33053;Latisana
+33029;Lauco
+33050;Lestizza
+33054;Lignano Sabbiadoro
+33010;Lusevera
+33010;Magnano in Riviera
+33030;Majano
+33010;Malborghetto Valbruna
+33044;Manzano
+33050;Marano Lagunare
+33035;Martignacco
+33036;Mereto di Tomba
+33015;Moggio Udinese
+33040;Moimacco
+33010;Montenars
+33050;Mortegliano
+33030;Moruzzo
+33055;Muzzana del Turgnano
+33045;Nimis
+33010;Osoppo
+33025;Ovaro
+33010;Pagnacco
+33056;Palazzolo dello Stella
+33057;Palmanova
+33026;Paluzza
+33037;Pasian di Prato
+33027;Paularo
+33050;Pavia di Udine
+33050;Pocenia
+33016;Pontebba
+33050;Porpetto
+33040;Povoletto
+33050;Pozzuolo del Friuli
+33040;Pradamano
+33020;Prato Carnico
+33050;Precenicco
+33040;Premariacco
+33020;Preone
+33040;Prepotto
+33046;Pulfero
+33030;Ragogna
+33020;Ravascletto
+33029;Raveo
+33010;Reana del Rojale
+33047;Remanzacco
+33010;Resia
+33010;Resiutta
+33020;Rigolato
+33030;Rive d'Arcano
+33050;Ronchis
+33050;Ruda
+33038;San Daniele del Friuli
+33058;San Giorgio di Nogaro
+33048;San Giovanni al Natisone
+33040;San Leonardo
+33049;San Pietro al Natisone
+33050;Santa Maria la Longa
+33050;San Vito al Torre
+33030;San Vito di Fagagna
+33020;Sauris
+33040;Savogna
+33039;Sedegliano
+33020;Socchieve
+33040;Stregna
+33020;Sutrio
+33040;Taipana
+33030;Talmassons
+33017;Tarcento
+33018;Tarvisio
+33010;Tavagnacco
+33050;Terzo d'Aquileia
+33028;Tolmezzo
+33040;Torreano
+33050;Torviscosa
+33010;Trasaghis
+33010;Treppo Grande
+33019;Tricesimo
+33050;Trivignano Udinese
+33100;Udine
+33030;Varmo
+33010;Venzone
+33020;Verzegnis
+33029;Villa Santina
+33040;Visco
+33020;Zuglio
+33030;Forgaria nel Friuli
+33040;Campolongo Tapogliano
+33061;Rivignano Teor
+33012;Sappada
+33059;Fiumicello Villa Vicentina
+33014;Treppo Ligosullo
+34070;Capriva del Friuli
+34071;Cormons
+34070;Doberdò del Lago
+34070;Dolegna del Collio
+34072;Farra d'Isonzo
+34070;Fogliano Redipuglia
+34170;Gorizia
+34072;Gradisca d'Isonzo
+34073;Grado
+34070;Mariano del Friuli
+34076;Medea
+34074;Monfalcone
+34070;Moraro
+34070;Mossa
+34076;Romans d'Isonzo
+34077;Ronchi dei Legionari
+34078;Sagrado
+34075;San Canzian d'Isonzo
+34070;San Floriano del Collio
+34070;San Lorenzo Isontino
+34070;San Pier d'Isonzo
+34070;Savogna d'Isonzo
+34079;Staranzano
+34070;Turriaco
+34070;Villesse
+34011;Duino Aurisina
+34016;Monrupino
+34015;Muggia
+34018;San Dorligo della Valle
+34010;Sgonico
+34121;Trieste
+34122;Trieste
+34123;Trieste
+34124;Trieste
+34125;Trieste
+34126;Trieste
+34127;Trieste
+34128;Trieste
+34129;Trieste
+34131;Trieste
+34132;Trieste
+34133;Trieste
+34134;Trieste
+34135;Trieste
+34136;Trieste
+34137;Trieste
+34138;Trieste
+34139;Trieste
+34141;Trieste
+34142;Trieste
+34143;Trieste
+34144;Trieste
+34145;Trieste
+34146;Trieste
+34147;Trieste
+34148;Trieste
+34149;Trieste
+34151;Trieste
+29010;Agazzano
+29010;Alseno
+29010;Besenzone
+29021;Bettola
+29022;Bobbio
+29011;Borgonovo Val Tidone
+29010;Cadeo
+29010;Calendasco
+29012;Caorso
+29013;Carpaneto Piacentino
+29014;Castell'Arquato
+29015;Castel San Giovanni
+29010;Castelvetro Piacentino
+29020;Cerignale
+29020;Coli
+29020;Corte Brugnatella
+29016;Cortemaggiore
+29023;Farini
+29024;Ferriere
+29017;Fiorenzuola d'Arda
+29010;Gazzola
+29020;Gossolengo
+29010;Gragnano Trebbiense
+29025;Gropparello
+29018;Lugagnano Val d'Arda
+29010;Monticelli d'Ongina
+29020;Morfasso
+29026;Ottone
+29121;Piacenza
+29122;Piacenza
+29010;Pianello Val Tidone
+29010;Piozzano
+29027;Podenzano
+29028;Ponte dell'Olio
+29010;Pontenure
+29029;Rivergaro
+29010;Rottofreno
+29019;San Giorgio Piacentino
+29010;San Pietro in Cerro
+29010;Sarmato
+29020;Travo
+29010;Vernasca
+29020;Vigolzone
+29010;Villanova sull'Arda
+29020;Zerba
+29010;Ziano Piacentino
+29031;Alta Val Tidone
+43051;Albareto
+43032;Bardi
+43041;Bedonia
+43042;Berceto
+43030;Bore
+43043;Borgo Val di Taro
+43011;Busseto
+43030;Calestano
+43044;Collecchio
+43052;Colorno
+43053;Compiano
+43021;Corniglio
+43035;Felino
+43036;Fidenza
+43012;Fontanellato
+43010;Fontevivo
+43045;Fornovo di Taro
+43013;Langhirano
+43037;Lesignano de' Bagni
+43014;Medesano
+43010;Monchio delle Corti
+43022;Montechiarugolo
+43024;Neviano degli Arduini
+43015;Noceto
+43025;Palanzano
+43121;Parma
+43122;Parma
+43123;Parma
+43124;Parma
+43125;Parma
+43126;Parma
+43047;Pellegrino Parmense
+43010;Roccabianca
+43038;Sala Baganza
+43039;Salsomaggiore Terme
+43017;San Secondo Parmense
+43046;Solignano
+43019;Soragna
+43040;Terenzo
+43028;Tizzano Val Parma
+43059;Tornolo
+43056;Torrile
+43029;Traversetolo
+43050;Valmozzola
+43040;Varano de' Melegari
+43049;Varsi
+43018;Sissa Trecasali
+43016;Polesine Zibello
+43058;Sorbolo Mezzani
+42020;Albinea
+42011;Bagnolo in Piano
+42031;Baiso
+42021;Bibbiano
+42022;Boretto
+42041;Brescello
+42023;Cadelbosco di Sopra
+42012;Campagnola Emilia
+42040;Campegine
+42033;Carpineti
+42013;Casalgrande
+42034;Casina
+42014;Castellarano
+42024;Castelnovo di Sotto
+42035;Castelnovo ne' Monti
+42025;Cavriago
+42026;Canossa
+42015;Correggio
+42042;Fabbrico
+42043;Gattatico
+42044;Gualtieri
+42016;Guastalla
+42045;Luzzara
+42027;Montecchio Emilia
+42017;Novellara
+42028;Poviglio
+42020;Quattro Castella
+42046;Reggiolo
+42121;Reggio nell'Emilia
+42122;Reggio nell'Emilia
+42123;Reggio nell'Emilia
+42124;Reggio nell'Emilia
+42010;Rio Saliceto
+42047;Rolo
+42048;Rubiera
+42018;San Martino in Rio
+42020;San Polo d'Enza
+42049;Sant'Ilario d'Enza
+42019;Scandiano
+42010;Toano
+42020;Vetto
+42030;Vezzano sul Crostolo
+42030;Viano
+42030;Villa Minozzo
+42032;Ventasso
+41030;Bastiglia
+41030;Bomporto
+41011;Campogalliano
+41031;Camposanto
+41012;Carpi
+41013;Castelfranco Emilia
+41051;Castelnuovo Rangone
+41014;Castelvetro di Modena
+41032;Cavezzo
+41033;Concordia sulla Secchia
+41021;Fanano
+41034;Finale Emilia
+41042;Fiorano Modenese
+41022;Fiumalbo
+41043;Formigine
+41044;Frassinoro
+41052;Guiglia
+41023;Lama Mocogno
+41053;Maranello
+41054;Marano sul Panaro
+41036;Medolla
+41037;Mirandola
+41121;Modena
+41122;Modena
+41123;Modena
+41124;Modena
+41125;Modena
+41126;Modena
+41025;Montecreto
+41045;Montefiorino
+41055;Montese
+41015;Nonantola
+41016;Novi di Modena
+41046;Palagano
+41026;Pavullo nel Frignano
+41027;Pievepelago
+41040;Polinago
+41048;Prignano sulla Secchia
+41017;Ravarino
+41020;Riolunato
+41018;San Cesario sul Panaro
+41038;San Felice sul Panaro
+41039;San Possidonio
+41030;San Prospero
+41049;Sassuolo
+41056;Savignano sul Panaro
+41028;Serramazzoni
+41029;Sestola
+41019;Soliera
+41057;Spilamberto
+41058;Vignola
+41059;Zocca
+40011;Anzola dell'Emilia
+40050;Argelato
+40052;Baricella
+40010;Bentivoglio
+40121;Bologna
+40122;Bologna
+40123;Bologna
+40124;Bologna
+40125;Bologna
+40126;Bologna
+40127;Bologna
+40128;Bologna
+40129;Bologna
+40131;Bologna
+40132;Bologna
+40133;Bologna
+40134;Bologna
+40135;Bologna
+40136;Bologna
+40137;Bologna
+40138;Bologna
+40139;Bologna
+40141;Bologna
+40021;Borgo Tossignano
+40054;Budrio
+40012;Calderara di Reno
+40032;Camugnano
+40033;Casalecchio di Reno
+40020;Casalfiumanese
+40034;Castel d'Aiano
+40022;Castel del Rio
+40030;Castel di Casio
+40023;Castel Guelfo di Bologna
+40050;Castello d'Argile
+40013;Castel Maggiore
+40024;Castel San Pietro Terme
+40055;Castenaso
+40035;Castiglione dei Pepoli
+40014;Crevalcore
+40060;Dozza
+40025;Fontanelice
+40041;Gaggio Montano
+40015;Galliera
+40057;Granarolo dell'Emilia
+40030;Grizzana Morandi
+40026;Imola
+40042;Lizzano in Belvedere
+40050;Loiano
+40051;Malalbergo
+40043;Marzabotto
+40059;Medicina
+40061;Minerbio
+40062;Molinella
+40063;Monghidoro
+40050;Monterenzio
+40050;Monte San Pietro
+40036;Monzuno
+40027;Mordano
+40064;Ozzano dell'Emilia
+40065;Pianoro
+40066;Pieve di Cento
+40010;Sala Bolognese
+40048;San Benedetto Val di Sambro
+40016;San Giorgio di Piano
+40017;San Giovanni in Persiceto
+40068;San Lazzaro di Savena
+40018;San Pietro in Casale
+40019;Sant'Agata Bolognese
+40037;Sasso Marconi
+40038;Vergato
+40069;Zola Predosa
+40053;Valsamoggia
+40046;Alto Reno Terme
+44011;Argenta
+44012;Bondeno
+44042;Cento
+44021;Codigoro
+44022;Comacchio
+44034;Copparo
+44121;Ferrara
+44122;Ferrara
+44123;Ferrara
+44124;Ferrara
+44037;Jolanda di Savoia
+44023;Lagosanto
+44020;Masi Torello
+44026;Mesola
+44020;Ostellato
+44028;Poggio Renatico
+44015;Portomaggiore
+44049;Vigarano Mainarda
+44019;Voghiera
+44020;Goro
+44027;Fiscaglia
+44047;Terre del Reno
+44033;Riva del Po
+44039;Tresignana
+48011;Alfonsine
+48012;Bagnacavallo
+48031;Bagnara di Romagna
+48013;Brisighella
+48032;Casola Valsenio
+48014;Castel Bolognese
+48015;Cervia
+48017;Conselice
+48033;Cotignola
+48018;Faenza
+48034;Fusignano
+48022;Lugo
+48024;Massa Lombarda
+48121;Ravenna
+48122;Ravenna
+48123;Ravenna
+48124;Ravenna
+48125;Ravenna
+48025;Riolo Terme
+48026;Russi
+48020;Sant'Agata sul Santerno
+48027;Solarolo
+47021;Bagno di Romagna
+47032;Bertinoro
+47030;Borghi
+47011;Castrocaro Terme e Terra del Sole
+47521;Cesena
+47522;Cesena
+47042;Cesenatico
+47012;Civitella di Romagna
+47013;Dovadola
+47121;Forlì
+47122;Forlì
+47034;Forlimpopoli
+47010;Galeata
+47035;Gambettola
+47043;Gatteo
+47020;Longiano
+47014;Meldola
+47025;Mercato Saraceno
+47015;Modigliana
+47020;Montiano
+47010;Portico e San Benedetto
+47016;Predappio
+47010;Premilcuore
+47017;Rocca San Casciano
+47020;Roncofreddo
+47030;San Mauro Pascoli
+47018;Santa Sofia
+47027;Sarsina
+47039;Savignano sul Rubicone
+47030;Sogliano al Rubicone
+47019;Tredozio
+47028;Verghereto
+61041;Acqualagna
+61042;Apecchio
+61026;Belforte all'Isauro
+61040;Borgo Pace
+61043;Cagli
+61044;Cantiano
+61021;Carpegna
+61030;Cartoceto
+61032;Fano
+61033;Fermignano
+61034;Fossombrone
+61040;Fratte Rosa
+61021;Frontino
+61040;Frontone
+61011;Gabicce Mare
+61012;Gradara
+61030;Isola del Piano
+61026;Lunano
+61023;Macerata Feltria
+61040;Mercatello sul Metauro
+61013;Mercatino Conca
+61024;Mombaroccio
+61040;Mondavio
+61037;Mondolfo
+61020;Montecalvo in Foglia
+61010;Monte Cerignone
+61030;Montefelcino
+61010;Monte Grimano Terme
+61025;Montelabbate
+61040;Monte Porzio
+61049;Peglio
+61045;Pergola
+61121;Pesaro
+61122;Pesaro
+61020;Petriano
+61026;Piandimeleto
+61023;Pietrarubbia
+61046;Piobbico
+61039;San Costanzo
+61047;San Lorenzo in Campo
+61048;Sant'Angelo in Vado
+61040;Sant'Ippolito
+61040;Serra Sant'Abbondio
+61020;Tavoleto
+61010;Tavullia
+61049;Urbania
+61029;Urbino
+61022;Vallefoglia
+61036;Colli al Metauro
+61038;Terre Roveresche
+61028;Sassocorvaro Auditore
+60020;Agugliano
+60121;Ancona
+60122;Ancona
+60123;Ancona
+60124;Ancona
+60125;Ancona
+60126;Ancona
+60127;Ancona
+60128;Ancona
+60129;Ancona
+60131;Ancona
+60011;Arcevia
+60010;Barbara
+60030;Belvedere Ostrense
+60021;Camerano
+60020;Camerata Picena
+60030;Castelbellino
+60022;Castelfidardo
+60010;Castelleone di Suasa
+60031;Castelplanio
+60043;Cerreto d'Esi
+60033;Chiaravalle
+60013;Corinaldo
+60034;Cupramontana
+60044;Fabriano
+60015;Falconara Marittima
+60024;Filottrano
+60040;Genga
+60035;Jesi
+60025;Loreto
+60030;Maiolati Spontini
+60030;Mergo
+60030;Monsano
+60036;Montecarotto
+60018;Montemarciano
+60030;Monte Roberto
+60037;Monte San Vito
+60030;Morro d'Alba
+60026;Numana
+60020;Offagna
+60027;Osimo
+60010;Ostra
+60010;Ostra Vetere
+60030;Poggio San Marcello
+60020;Polverigi
+60030;Rosora
+60030;San Marcello
+60038;San Paolo di Jesi
+60030;Santa Maria Nuova
+60041;Sassoferrato
+60019;Senigallia
+60030;Serra de' Conti
+60048;Serra San Quirico
+60020;Sirolo
+60039;Staffolo
+60012;Trecastelli
+62021;Apiro
+62010;Appignano
+62020;Belforte del Chienti
+62035;Bolognola
+62020;Caldarola
+62032;Camerino
+62020;Camporotondo di Fiastrone
+62022;Castelraimondo
+62039;Castelsantangelo sul Nera
+62020;Cessapalombo
+62011;Cingoli
+62012;Civitanova Marche
+62020;Colmurano
+62014;Corridonia
+62024;Esanatoglia
+62035;Fiastra
+62025;Fiuminata
+62022;Gagliole
+62020;Gualdo
+62020;Loro Piceno
+62100;Macerata
+62024;Matelica
+62010;Mogliano
+62010;Montecassiano
+62036;Monte Cavallo
+62010;Montecosaro
+62010;Montefano
+62010;Montelupone
+62015;Monte San Giusto
+62020;Monte San Martino
+62010;Morrovalle
+62034;Muccia
+62020;Penna San Giovanni
+62014;Petriolo
+62036;Pieve Torina
+62025;Pioraco
+62021;Poggio San Vicino
+62010;Pollenza
+62017;Porto Recanati
+62018;Potenza Picena
+62019;Recanati
+62020;Ripe San Ginesio
+62026;San Ginesio
+62027;San Severino Marche
+62020;Sant'Angelo in Pontano
+62028;Sarnano
+62025;Sefro
+62020;Serrapetrona
+62038;Serravalle di Chienti
+62029;Tolentino
+62010;Treia
+62010;Urbisaglia
+62039;Ussita
+62039;Visso
+62031;Valfornace
+63095;Acquasanta Terme
+63075;Acquaviva Picena
+63083;Appignano del Tronto
+63096;Arquata del Tronto
+63100;Ascoli Piceno
+63063;Carassai
+63082;Castel di Lama
+63072;Castignano
+63081;Castorano
+63079;Colli del Tronto
+63087;Comunanza
+63067;Cossignano
+63064;Cupra Marittima
+63084;Folignano
+63086;Force
+63066;Grottammare
+63085;Maltignano
+63061;Massignano
+63077;Monsampolo del Tronto
+63068;Montalto delle Marche
+63069;Montedinove
+63062;Montefiore dell'Aso
+63094;Montegallo
+63088;Montemonaco
+63076;Monteprandone
+63073;Offida
+63092;Palmiano
+63065;Ripatransone
+63093;Roccafluvione
+63071;Rotella
+63074;San Benedetto del Tronto
+63078;Spinetoli
+63091;Venarotta
+54011;Aulla
+54021;Bagnone
+54033;Carrara
+54014;Casola in Lunigiana
+54015;Comano
+54023;Filattiera
+54013;Fivizzano
+54035;Fosdinovo
+54016;Licciana Nardi
+54100;Massa
+54038;Montignoso
+54026;Mulazzo
+54010;Podenzana
+54027;Pontremoli
+54012;Tresana
+54028;Villafranca in Lunigiana
+54029;Zeri
+55011;Altopascio
+55022;Bagni di Lucca
+55051;Barga
+55023;Borgo a Mozzano
+55041;Camaiore
+55031;Camporgiano
+55012;Capannori
+55030;Careggine
+55032;Castelnuovo di Garfagnana
+55033;Castiglione di Garfagnana
+55025;Coreglia Antelminelli
+55042;Forte dei Marmi
+55020;Fosciandora
+55027;Gallicano
+55100;Lucca
+55054;Massarosa
+55034;Minucciano
+55020;Molazzana
+55015;Montecarlo
+55064;Pescaglia
+55035;Piazza al Serchio
+55045;Pietrasanta
+55036;Pieve Fosciana
+55016;Porcari
+55038;San Romano in Garfagnana
+55047;Seravezza
+55040;Stazzema
+55030;Vagli Sotto
+55049;Viareggio
+55019;Villa Basilica
+55030;Villa Collemandina
+55021;Fabbriche di Vergemoli
+55039;Sillano Giuncugnano
+51031;Agliana
+51011;Buggiano
+51035;Lamporecchio
+51036;Larciano
+51010;Marliana
+51010;Massa e Cozzile
+51015;Monsummano Terme
+51037;Montale
+51016;Montecatini-Terme
+51017;Pescia
+51018;Pieve a Nievole
+51100;Pistoia
+51019;Ponte Buggianese
+51039;Quarrata
+51020;Sambuca Pistoiese
+51034;Serravalle Pistoiese
+51010;Uzzano
+51013;Chiesina Uzzanese
+51024;Abetone Cutigliano
+51028;San Marcello Piteglio
+50012;Bagno a Ripoli
+50031;Barberino di Mugello
+50032;Borgo San Lorenzo
+50041;Calenzano
+50013;Campi Bisenzio
+50050;Capraia e Limite
+50051;Castelfiorentino
+50050;Cerreto Guidi
+50052;Certaldo
+50062;Dicomano
+50053;Empoli
+50014;Fiesole
+50121;Firenze
+50122;Firenze
+50123;Firenze
+50124;Firenze
+50125;Firenze
+50126;Firenze
+50127;Firenze
+50129;Firenze
+50131;Firenze
+50132;Firenze
+50133;Firenze
+50134;Firenze
+50135;Firenze
+50136;Firenze
+50137;Firenze
+50139;Firenze
+50141;Firenze
+50142;Firenze
+50143;Firenze
+50144;Firenze
+50145;Firenze
+50033;Firenzuola
+50054;Fucecchio
+50050;Gambassi Terme
+50022;Greve in Chianti
+50023;Impruneta
+50055;Lastra a Signa
+50060;Londa
+50034;Marradi
+50050;Montaione
+50056;Montelupo Fiorentino
+50025;Montespertoli
+50035;Palazzuolo sul Senio
+50060;Pelago
+50065;Pontassieve
+50066;Reggello
+50067;Rignano sull'Arno
+50068;Rufina
+50026;San Casciano in Val di Pesa
+50060;San Godenzo
+50018;Scandicci
+50019;Sesto Fiorentino
+50058;Signa
+50036;Vaglia
+50039;Vicchio
+50059;Vinci
+50063;Figline e Incisa Valdarno
+50038;Scarperia e San Piero
+50028;Barberino Tavarnelle
+57020;Bibbona
+57021;Campiglia Marittima
+57034;Campo nell'Elba
+57031;Capoliveri
+57032;Capraia Isola
+57022;Castagneto Carducci
+57023;Cecina
+57014;Collesalvetti
+57121;Livorno
+57122;Livorno
+57123;Livorno
+57124;Livorno
+57125;Livorno
+57126;Livorno
+57127;Livorno
+57128;Livorno
+57030;Marciana
+57033;Marciana Marina
+57025;Piombino
+57036;Porto Azzurro
+57037;Portoferraio
+57016;Rosignano Marittimo
+57027;San Vincenzo
+57020;Sassetta
+57028;Suvereto
+57038;Rio
+56031;Bientina
+56032;Buti
+56011;Calci
+56012;Calcinaia
+56033;Capannoli
+56040;Casale Marittimo
+56021;Cascina
+56022;Castelfranco di Sotto
+56040;Castellina Marittima
+56041;Castelnuovo di Val di Cecina
+56034;Chianni
+56043;Fauglia
+56040;Guardistallo
+56030;Lajatico
+56040;Montecatini Val di Cecina
+56040;Montescudaio
+56040;Monteverdi Marittimo
+56020;Montopoli in Val d'Arno
+56040;Orciano Pisano
+56036;Palaia
+56037;Peccioli
+56121;Pisa
+56122;Pisa
+56123;Pisa
+56124;Pisa
+56125;Pisa
+56126;Pisa
+56127;Pisa
+56128;Pisa
+56045;Pomarance
+56038;Ponsacco
+56025;Pontedera
+56046;Riparbella
+56017;San Giuliano Terme
+56028;San Miniato
+56029;Santa Croce sull'Arno
+56040;Santa Luce
+56020;Santa Maria a Monte
+56030;Terricciola
+56019;Vecchiano
+56010;Vicopisano
+56048;Volterra
+56035;Casciana Terme Lari
+56042;Crespina Lorenzana
+52031;Anghiari
+52100;Arezzo
+52032;Badia Tedalda
+52011;Bibbiena
+52021;Bucine
+52010;Capolona
+52033;Caprese Michelangelo
+52016;Castel Focognano
+52018;Castel San Niccolò
+52029;Castiglion Fibocchi
+52043;Castiglion Fiorentino
+52022;Cavriglia
+52010;Chitignano
+52010;Chiusi della Verna
+52041;Civitella in Val di Chiana
+52044;Cortona
+52045;Foiano della Chiana
+52024;Loro Ciuffenna
+52046;Lucignano
+52047;Marciano della Chiana
+52010;Montemignaio
+52035;Monterchi
+52048;Monte San Savino
+52025;Montevarchi
+52010;Ortignano Raggiolo
+52036;Pieve Santo Stefano
+52014;Poppi
+52027;San Giovanni Valdarno
+52037;Sansepolcro
+52038;Sestino
+52010;Subbiano
+52010;Talla
+52028;Terranuova Bracciolini
+52026;Castelfranco Piandiscò
+52015;Pratovecchio Stia
+52019;Laterina Pergine Valdarno
+53021;Abbadia San Salvatore
+53041;Asciano
+53022;Buonconvento
+53031;Casole d'Elsa
+53011;Castellina in Chianti
+53019;Castelnuovo Berardenga
+53023;Castiglione d'Orcia
+53040;Cetona
+53042;Chianciano Terme
+53012;Chiusdino
+53043;Chiusi
+53034;Colle di Val d'Elsa
+53013;Gaiole in Chianti
+53045;Montepulciano
+53035;Monteriggioni
+53014;Monteroni d'Arbia
+53015;Monticiano
+53016;Murlo
+53025;Piancastagnaio
+53026;Pienza
+53036;Poggibonsi
+53017;Radda in Chianti
+53040;Radicofani
+53030;Radicondoli
+53040;Rapolano Terme
+53040;San Casciano dei Bagni
+53037;San Gimignano
+53027;San Quirico d'Orcia
+53047;Sarteano
+53100;Siena
+53048;Sinalunga
+53018;Sovicille
+53049;Torrita di Siena
+53020;Trequanda
+53024;Montalcino
+58031;Arcidosso
+58042;Campagnatico
+58011;Capalbio
+58033;Castel del Piano
+58034;Castell'Azzara
+58043;Castiglione della Pescaia
+58044;Cinigiano
+58045;Civitella Paganico
+58022;Follonica
+58023;Gavorrano
+58100;Grosseto
+58012;Isola del Giglio
+58051;Magliano in Toscana
+58014;Manciano
+58024;Massa Marittima
+58019;Monte Argentario
+58026;Montieri
+58015;Orbetello
+58017;Pitigliano
+58053;Roccalbegna
+58036;Roccastrada
+58037;Santa Fiora
+58054;Scansano
+58020;Scarlino
+58038;Seggiano
+58010;Sorano
+58025;Monterotondo Marittimo
+58055;Semproniano
+06081;Assisi
+06083;Bastia Umbra
+06084;Bettona
+06031;Bevagna
+06042;Campello sul Clitunno
+06033;Cannara
+06043;Cascia
+06044;Castel Ritaldi
+06061;Castiglione del Lago
+06041;Cerreto di Spoleto
+06010;Citerna
+06062;Città della Pieve
+06012;Città di Castello
+06050;Collazzone
+06073;Corciano
+06021;Costacciaro
+06053;Deruta
+06034;Foligno
+06022;Fossato di Vico
+06054;Fratta Todina
+06030;Giano dell'Umbria
+06035;Gualdo Cattaneo
+06023;Gualdo Tadino
+06024;Gubbio
+06060;Lisciano Niccone
+06063;Magione
+06055;Marsciano
+06056;Massa Martana
+06057;Monte Castello di Vibio
+06036;Montefalco
+06045;Monteleone di Spoleto
+06010;Monte Santa Maria Tiberina
+06014;Montone
+06025;Nocera Umbra
+06046;Norcia
+06060;Paciano
+06064;Panicale
+06065;Passignano sul Trasimeno
+06121;Perugia
+06122;Perugia
+06123;Perugia
+06124;Perugia
+06125;Perugia
+06126;Perugia
+06127;Perugia
+06128;Perugia
+06129;Perugia
+06131;Perugia
+06132;Perugia
+06133;Perugia
+06134;Perugia
+06135;Perugia
+06066;Piegaro
+06026;Pietralunga
+06040;Poggiodomo
+06047;Preci
+06016;San Giustino
+06040;Sant'Anatolia di Narco
+06027;Scheggia e Pascelupo
+06040;Scheggino
+06030;Sellano
+06028;Sigillo
+06038;Spello
+06049;Spoleto
+06059;Todi
+06089;Torgiano
+06039;Trevi
+06069;Tuoro sul Trasimeno
+06019;Umbertide
+06029;Valfabbrica
+06040;Vallo di Nera
+06030;Valtopina
+05021;Acquasparta
+05011;Allerona
+05020;Alviano
+05022;Amelia
+05031;Arrone
+05012;Attigliano
+05023;Baschi
+05032;Calvi dell'Umbria
+05013;Castel Giorgio
+05014;Castel Viscardo
+05015;Fabro
+05034;Ferentillo
+05016;Ficulle
+05024;Giove
+05025;Guardea
+05020;Lugnano in Teverina
+05026;Montecastrilli
+05020;Montecchio
+05030;Montefranco
+05010;Montegabbione
+05017;Monteleone d'Orvieto
+05035;Narni
+05018;Orvieto
+05030;Otricoli
+05010;Parrano
+05028;Penna in Teverina
+05030;Polino
+05010;Porano
+05029;San Gemini
+05010;San Venanzo
+05039;Stroncone
+05100;Terni
+05020;Avigliano Umbro
+01021;Acquapendente
+01010;Arlena di Castro
+01022;Bagnoregio
+01010;Barbarano Romano
+01030;Bassano Romano
+01030;Bassano in Teverina
+01010;Blera
+01023;Bolsena
+01020;Bomarzo
+01030;Calcata
+01030;Canepina
+01011;Canino
+01010;Capodimonte
+01012;Capranica
+01032;Caprarola
+01030;Carbognano
+01030;Castel Sant'Elia
+01024;Castiglione in Teverina
+01020;Celleno
+01010;Cellere
+01033;Civita Castellana
+01020;Civitella d'Agliano
+01030;Corchiano
+01034;Fabrica di Roma
+01030;Faleria
+01010;Farnese
+01035;Gallese
+01010;Gradoli
+01020;Graffignano
+01025;Grotte di Castro
+01010;Ischia di Castro
+01010;Latera
+01020;Lubriano
+01010;Marta
+01014;Montalto di Castro
+01027;Montefiascone
+01010;Monte Romano
+01030;Monterosi
+01036;Nepi
+01010;Onano
+01010;Oriolo Romano
+01028;Orte
+01010;Piansano
+01020;Proceno
+01037;Ronciglione
+01010;Villa San Giovanni in Tuscia
+01020;San Lorenzo Nuovo
+01038;Soriano nel Cimino
+01015;Sutri
+01016;Tarquinia
+01010;Tessennano
+01017;Tuscania
+01018;Valentano
+01030;Vallerano
+01030;Vasanello
+01010;Vejano
+01019;Vetralla
+01039;Vignanello
+01100;Viterbo
+01030;Vitorchiano
+02011;Accumoli
+02012;Amatrice
+02013;Antrodoco
+02020;Ascrea
+02020;Belmonte in Sabina
+02010;Borbona
+02021;Borgorose
+02010;Borgo Velino
+02014;Cantalice
+02040;Cantalupo in Sabina
+02030;Casaprota
+02041;Casperia
+02020;Castel di Tora
+02031;Castelnuovo di Farfa
+02010;Castel Sant'Angelo
+02015;Cittaducale
+02010;Cittareale
+02022;Collalto Sabino
+02020;Colle di Tora
+02020;Collegiove
+02042;Collevecchio
+02010;Colli sul Velino
+02020;Concerviano
+02040;Configni
+02043;Contigliano
+02040;Cottanello
+02032;Fara in Sabina
+02023;Fiamignano
+02044;Forano
+02030;Frasso Sabino
+02045;Greccio
+02010;Labro
+02016;Leonessa
+02020;Longone Sabino
+02046;Magliano Sabina
+02020;Marcetelli
+02010;Micigliano
+02040;Mompeo
+02040;Montasola
+02040;Montebuono
+02033;Monteleone Sabino
+02040;Montenero Sabino
+02040;Monte San Giovanni in Sabina
+02034;Montopoli di Sabina
+02010;Morro Reatino
+02020;Nespolo
+02035;Orvinio
+02020;Paganico Sabino
+02024;Pescorocchiano
+02025;Petrella Salto
+02018;Poggio Bustone
+02040;Poggio Catino
+02047;Poggio Mirteto
+02037;Poggio Moiano
+02030;Poggio Nativo
+02030;Poggio San Lorenzo
+02019;Posta
+02030;Pozzaglia Sabina
+02100;Rieti
+02010;Rivodutri
+02040;Roccantica
+02026;Rocca Sinibalda
+02040;Salisano
+02038;Scandriglia
+02040;Selci
+02048;Stimigliano
+02040;Tarano
+02039;Toffia
+02030;Torricella in Sabina
+02049;Torri in Sabina
+02020;Turania
+02040;Vacone
+02020;Varco Sabino
+00021;Affile
+00020;Agosta
+00041;Albano Laziale
+00051;Allumiere
+00061;Anguillara Sabazia
+00022;Anticoli Corrado
+00042;Anzio
+00020;Arcinazzo Romano
+00072;Ariccia
+00023;Arsoli
+00031;Artena
+00030;Bellegra
+00062;Bracciano
+00020;Camerata Nuova
+00063;Campagnano di Roma
+00060;Canale Monterano
+00020;Canterano
+00060;Capena
+00030;Capranica Prenestina
+00032;Carpineto Romano
+00010;Casape
+00073;Castel Gandolfo
+00024;Castel Madama
+00060;Castelnuovo di Porto
+00030;Castel San Pietro Romano
+00033;Cave
+00020;Cerreto Laziale
+00020;Cervara di Roma
+00052;Cerveteri
+00020;Ciciliano
+00020;Cineto Romano
+00053;Civitavecchia
+00060;Civitella San Paolo
+00034;Colleferro
+00030;Colonna
+00065;Fiano Romano
+00060;Filacciano
+00060;Formello
+00044;Frascati
+00010;Gallicano nel Lazio
+00030;Gavignano
+00030;Genazzano
+00045;Genzano di Roma
+00025;Gerano
+00030;Gorga
+00046;Grottaferrata
+00012;Guidonia Montecelio
+00020;Jenne
+00030;Labico
+00075;Lanuvio
+00026;Licenza
+00060;Magliano Romano
+00020;Mandela
+00066;Manziana
+00020;Marano Equo
+00010;Marcellina
+00047;Marino
+00060;Mazzano Romano
+00013;Mentana
+00077;Monte Compatri
+00010;Monteflavio
+00030;Montelanico
+00010;Montelibretti
+00078;Monte Porzio Catone
+00015;Monterotondo
+00010;Montorio Romano
+00010;Moricone
+00067;Morlupo
+00060;Nazzano
+00074;Nemi
+00017;Nerola
+00048;Nettuno
+00035;Olevano Romano
+00036;Palestrina
+00018;Palombara Sabina
+00020;Percile
+00020;Pisoniano
+00010;Poli
+00071;Pomezia
+00060;Ponzano Romano
+00060;Riano
+00068;Rignano Flaminio
+00020;Riofreddo
+00020;Rocca Canterano
+00030;Rocca di Cave
+00040;Rocca di Papa
+00020;Roccagiovine
+00079;Rocca Priora
+00030;Rocca Santo Stefano
+00030;Roiate
+00118;Roma
+00119;Roma
+00120;Roma
+00121;Roma
+00122;Roma
+00123;Roma
+00124;Roma
+00125;Roma
+00126;Roma
+00127;Roma
+00128;Roma
+00131;Roma
+00132;Roma
+00133;Roma
+00134;Roma
+00135;Roma
+00136;Roma
+00137;Roma
+00138;Roma
+00139;Roma
+00141;Roma
+00142;Roma
+00143;Roma
+00144;Roma
+00145;Roma
+00146;Roma
+00147;Roma
+00148;Roma
+00149;Roma
+00151;Roma
+00152;Roma
+00153;Roma
+00154;Roma
+00155;Roma
+00156;Roma
+00157;Roma
+00158;Roma
+00159;Roma
+00161;Roma
+00162;Roma
+00163;Roma
+00164;Roma
+00165;Roma
+00166;Roma
+00167;Roma
+00168;Roma
+00169;Roma
+00171;Roma
+00172;Roma
+00173;Roma
+00174;Roma
+00175;Roma
+00176;Roma
+00177;Roma
+00178;Roma
+00179;Roma
+00181;Roma
+00182;Roma
+00183;Roma
+00184;Roma
+00185;Roma
+00186;Roma
+00187;Roma
+00188;Roma
+00189;Roma
+00191;Roma
+00192;Roma
+00193;Roma
+00195;Roma
+00196;Roma
+00197;Roma
+00198;Roma
+00199;Roma
+00027;Roviano
+00060;Sacrofano
+00020;Sambuci
+00010;San Gregorio da Sassola
+00010;San Polo dei Cavalieri
+00058;Santa Marinella
+00010;Sant'Angelo Romano
+00060;Sant'Oreste
+00030;San Vito Romano
+00020;Saracinesco
+00037;Segni
+00028;Subiaco
+00019;Tivoli
+00059;Tolfa
+00060;Torrita Tiberina
+00069;Trevignano Romano
+00020;Vallepietra
+00020;Vallinfreda
+00038;Valmontone
+00049;Velletri
+00029;Vicovaro
+00020;Vivaro Romano
+00039;Zagarolo
+00076;Lariano
+00055;Ladispoli
+00040;Ardea
+00043;Ciampino
+00030;San Cesareo
+00054;Fiumicino
+00013;Fonte Nuova
+04011;Aprilia
+04010;Bassiano
+04020;Campodimele
+04021;Castelforte
+04012;Cisterna di Latina
+04010;Cori
+04022;Fondi
+04023;Formia
+04024;Gaeta
+04020;Itri
+04100;Latina
+04025;Lenola
+04010;Maenza
+04026;Minturno
+04020;Monte San Biagio
+04010;Norma
+04014;Pontinia
+04027;Ponza
+04015;Priverno
+04010;Prossedi
+04010;Roccagorga
+04010;Rocca Massima
+04010;Roccasecca dei Volsci
+04016;Sabaudia
+04017;San Felice Circeo
+04020;Santi Cosma e Damiano
+04013;Sermoneta
+04018;Sezze
+04010;Sonnino
+04029;Sperlonga
+04020;Spigno Saturnia
+04019;Terracina
+04031;Ventotene
+03040;Acquafondata
+03010;Acuto
+03011;Alatri
+03041;Alvito
+03021;Amaseno
+03012;Anagni
+03031;Aquino
+03032;Arce
+03020;Arnara
+03033;Arpino
+03042;Atina
+03040;Ausonia
+03040;Belmonte Castello
+03022;Boville Ernica
+03030;Broccostella
+03030;Campoli Appennino
+03030;Casalattico
+03034;Casalvieri
+03043;Cassino
+03030;Castelliri
+03040;Castelnuovo Parano
+03030;Castrocielo
+03020;Castro dei Volsci
+03023;Ceccano
+03024;Ceprano
+03044;Cervaro
+03030;Colfelice
+03010;Collepardo
+03030;Colle San Magno
+03040;Coreno Ausonio
+03045;Esperia
+03020;Falvaterra
+03013;Ferentino
+03010;Filettino
+03014;Fiuggi
+03035;Fontana Liri
+03030;Fontechiari
+03100;Frosinone
+03010;Fumone
+03040;Gallinaro
+03020;Giuliano di Roma
+03016;Guarcino
+03036;Isola del Liri
+03025;Monte San Giovanni Campano
+03017;Morolo
+03018;Paliano
+03020;Pastena
+03010;Patrica
+03030;Pescosolido
+03040;Picinisco
+03020;Pico
+03030;Piedimonte San Germano
+03010;Piglio
+03040;Pignataro Interamna
+03026;Pofi
+03037;Pontecorvo
+03030;Posta Fibreno
+03027;Ripi
+03030;Rocca d'Arce
+03038;Roccasecca
+03040;San Biagio Saracinisco
+03046;San Donato Val di Comino
+03047;San Giorgio a Liri
+03028;San Giovanni Incarico
+03040;Sant'Ambrogio sul Garigliano
+03040;Sant'Andrea del Garigliano
+03048;Sant'Apollinare
+03049;Sant'Elia Fiumerapido
+03030;Santopadre
+03040;San Vittore del Lazio
+03010;Serrone
+03040;Settefrati
+03010;Sgurgola
+03039;Sora
+03020;Strangolagalli
+03019;Supino
+03040;Terelle
+03010;Torre Cajetani
+03020;Torrice
+03010;Trevi nel Lazio
+03010;Trivigliano
+03020;Vallecorsa
+03040;Vallemaio
+03040;Vallerotonda
+03029;Veroli
+03030;Vicalvi
+03010;Vico nel Lazio
+03040;Villa Latina
+03030;Villa Santa Lucia
+03020;Villa Santo Stefano
+03040;Viticuso
+81010;Ailano
+81011;Alife
+81012;Alvignano
+81021;Arienzo
+81031;Aversa
+81010;Baia e Latina
+81041;Bellona
+81059;Caianello
+81013;Caiazzo
+81042;Calvi Risorta
+81050;Camigliano
+81030;Cancello ed Arnone
+81020;Capodrise
+81014;Capriati a Volturno
+81043;Capua
+81032;Carinaro
+81030;Carinola
+81022;Casagiove
+81033;Casal di Principe
+81030;Casaluce
+81020;Casapulla
+81100;Caserta
+81010;Castel Campagnano
+81040;Castel di Sasso
+81016;Castello del Matese
+81020;Castel Morrone
+81030;Castel Volturno
+81023;Cervino
+81030;Cesa
+81010;Ciorlano
+81044;Conca della Campania
+81040;Curti
+81010;Dragoni
+81014;Fontegreca
+81040;Formicola
+81050;Francolise
+81030;Frignano
+81010;Gallo Matese
+81044;Galluccio
+81042;Giano Vetusto
+81010;Gioia Sannitica
+81046;Grazzanise
+81030;Gricignano di Aversa
+81010;Letino
+81040;Liberi
+81030;Lusciano
+81047;Macerata Campania
+81024;Maddaloni
+81025;Marcianise
+81035;Marzano Appio
+81049;Mignano Monte Lungo
+81034;Mondragone
+81030;Orta di Atella
+81030;Parete
+81050;Pastorano
+81013;Piana di Monte Verna
+81016;Piedimonte Matese
+81051;Pietramelara
+81040;Pietravairano
+81052;Pignataro Maggiore
+81040;Pontelatone
+81050;Portico di Caserta
+81010;Prata Sannita
+81010;Pratella
+81050;Presenzano
+81017;Raviscanina
+81020;Recale
+81053;Riardo
+81040;Rocca d'Evandro
+81035;Roccamonfina
+81051;Roccaromana
+81042;Rocchetta e Croce
+81010;Ruviano
+81036;San Cipriano d'Aversa
+81027;San Felice a Cancello
+81010;San Gregorio Matese
+81030;San Marcellino
+81020;San Nicola la Strada
+81049;San Pietro Infine
+81016;San Potito Sannitico
+81054;San Prisco
+81028;Santa Maria a Vico
+81055;Santa Maria Capua Vetere
+81050;Santa Maria la Fossa
+81050;San Tammaro
+81017;Sant'Angelo d'Alife
+81030;Sant'Arpino
+81037;Sessa Aurunca
+81056;Sparanise
+81030;Succivo
+81057;Teano
+81030;Teverola
+81044;Tora e Piccilli
+81038;Trentola Ducenta
+81058;Vairano Patenora
+81010;Valle Agricola
+81020;Valle di Maddaloni
+81030;Villa di Briano
+81039;Villa Literno
+81041;Vitulazio
+81030;Falciano del Massico
+81030;Cellole
+81030;Casapesenna
+81020;San Marco Evangelista
+82011;Airola
+82031;Amorosi
+82021;Apice
+82030;Apollosa
+82011;Arpaia
+82010;Arpaise
+82020;Baselice
+82100;Benevento
+82013;Bonea
+82010;Bucciano
+82020;Buonalbergo
+82018;Calvi
+82020;Campolattaro
+82030;Campoli del Monte Taburno
+82027;Casalduni
+82022;Castelfranco in Miscano
+82024;Castelpagano
+82030;Castelpoto
+82037;Castelvenere
+82023;Castelvetere in Val Fortore
+82030;Cautano
+82014;Ceppaloni
+82032;Cerreto Sannita
+82020;Circello
+82024;Colle Sannita
+82033;Cusano Mutri
+82030;Dugenta
+82015;Durazzano
+82030;Faicchio
+82030;Foglianise
+82020;Foiano di Val Fortore
+82011;Forchia
+82020;Fragneto l'Abate
+82020;Fragneto Monforte
+82030;Frasso Telesino
+82020;Ginestra degli Schiavoni
+82034;Guardia Sanframondi
+82030;Limatola
+82030;Melizzano
+82010;Moiano
+82020;Molinara
+82025;Montefalcone di Val Fortore
+82016;Montesarchio
+82026;Morcone
+82020;Paduli
+82020;Pago Veiano
+82017;Pannarano
+82011;Paolisi
+82030;Paupisi
+82020;Pesco Sannita
+82030;Pietraroja
+82020;Pietrelcina
+82030;Ponte
+82027;Pontelandolfo
+82030;Puglianello
+82020;Reino
+82028;San Bartolomeo in Galdo
+82018;San Giorgio del Sannio
+82020;San Giorgio La Molara
+82010;San Leucio del Sannio
+82030;San Lorenzello
+82034;San Lorenzo Maggiore
+82034;San Lupo
+82029;San Marco dei Cavoti
+82010;San Martino Sannita
+82018;San Nazzaro
+82010;San Nicola Manfredi
+82030;San Salvatore Telesino
+82020;Santa Croce del Sannio
+82019;Sant'Agata de' Goti
+82010;Sant'Angelo a Cupolo
+82026;Sassinoro
+82036;Solopaca
+82037;Telese Terme
+82030;Tocco Caudio
+82030;Torrecuso
+82038;Vitulano
+82021;Sant'Arcangelo Trimonte
+80011;Acerra
+80021;Afragola
+80051;Agerola
+80071;Anacapri
+80022;Arzano
+80070;Bacoli
+80072;Barano d'Ischia
+80041;Boscoreale
+80042;Boscotrecase
+80031;Brusciano
+80023;Caivano
+80012;Calvizzano
+80030;Camposano
+80073;Capri
+80030;Carbonara di Nola
+80024;Cardito
+80013;Casalnuovo di Napoli
+80032;Casamarciano
+80074;Casamicciola Terme
+80025;Casandrino
+80020;Casavatore
+80050;Casola di Napoli
+80026;Casoria
+80053;Castellammare di Stabia
+80030;Castello di Cisterna
+80040;Cercola
+80033;Cicciano
+80030;Cimitile
+80030;Comiziano
+80020;Crispano
+80075;Forio
+80027;Frattamaggiore
+80020;Frattaminore
+80014;Giugliano in Campania
+80054;Gragnano
+80028;Grumo Nevano
+80077;Ischia
+80076;Lacco Ameno
+80050;Lettere
+80030;Liveri
+80016;Marano di Napoli
+80030;Mariglianella
+80034;Marigliano
+80061;Massa Lubrense
+80017;Melito di Napoli
+80062;Meta
+80070;Monte di Procida
+80018;Mugnano di Napoli
+80121;Napoli
+80122;Napoli
+80123;Napoli
+80124;Napoli
+80125;Napoli
+80126;Napoli
+80127;Napoli
+80128;Napoli
+80129;Napoli
+80131;Napoli
+80132;Napoli
+80133;Napoli
+80134;Napoli
+80135;Napoli
+80136;Napoli
+80137;Napoli
+80138;Napoli
+80139;Napoli
+80141;Napoli
+80142;Napoli
+80143;Napoli
+80144;Napoli
+80145;Napoli
+80146;Napoli
+80147;Napoli
+80035;Nola
+80044;Ottaviano
+80036;Palma Campania
+80063;Piano di Sorrento
+80050;Pimonte
+80040;Poggiomarino
+80040;Pollena Trocchia
+80038;Pomigliano d'Arco
+80045;Pompei
+80055;Portici
+80078;Pozzuoli
+80079;Procida
+80019;Qualiano
+80010;Quarto
+80056;Ercolano
+80030;Roccarainola
+80040;San Gennaro Vesuviano
+80046;San Giorgio a Cremano
+80047;San Giuseppe Vesuviano
+80030;San Paolo Bel Sito
+80040;San Sebastiano al Vesuvio
+80065;Sant'Agnello
+80048;Sant'Anastasia
+80029;Sant'Antimo
+80057;Sant'Antonio Abate
+80030;San Vitaliano
+80039;Saviano
+80030;Scisciano
+80081;Serrara Fontana
+80049;Somma Vesuviana
+80067;Sorrento
+80040;Striano
+80040;Terzigno
+80058;Torre Annunziata
+80059;Torre del Greco
+80030;Tufino
+80069;Vico Equense
+80010;Villaricca
+80030;Visciano
+80040;Volla
+80050;Santa Maria la Carità
+80040;Trecase
+80040;Massa di Somma
+83020;Aiello del Sabato
+83011;Altavilla Irpina
+83040;Andretta
+83041;Aquilonia
+83031;Ariano Irpino
+83042;Atripalda
+83021;Avella
+83100;Avellino
+83043;Bagnoli Irpino
+83022;Baiano
+83044;Bisaccia
+83032;Bonito
+83040;Cairano
+83040;Calabritto
+83045;Calitri
+83040;Candida
+83040;Caposele
+83010;Capriglia Irpina
+83040;Carife
+83034;Casalbore
+83040;Cassano Irpino
+83040;Castel Baronia
+83040;Castelfranci
+83040;Castelvetere sul Calore
+83012;Cervinara
+83020;Cesinali
+83010;Chianche
+83040;Chiusano di San Domenico
+83020;Contrada
+83040;Conza della Campania
+83020;Domicella
+83040;Flumeri
+83040;Fontanarosa
+83020;Forino
+83040;Frigento
+83040;Gesualdo
+83030;Greci
+83035;Grottaminarda
+83010;Grottolella
+83040;Guardia Lombardi
+83046;Lacedonia
+83030;Lapio
+83023;Lauro
+83047;Lioni
+83040;Luogosano
+83030;Manocalzati
+83020;Marzano di Nola
+83030;Melito Irpino
+83013;Mercogliano
+83036;Mirabella Eclano
+83030;Montaguto
+83037;Montecalvo Irpino
+83030;Montefalcione
+83024;Monteforte Irpino
+83030;Montefredane
+83030;Montefusco
+83048;Montella
+83040;Montemarano
+83038;Montemiletto
+83049;Monteverde
+83040;Morra De Sanctis
+83020;Moschiano
+83027;Mugnano del Cardinale
+83051;Nusco
+83014;Ospedaletto d'Alpinolo
+83020;Pago del Vallo di Lauro
+83050;Parolise
+83052;Paternopoli
+83010;Petruro Irpino
+83030;Pietradefusi
+83015;Pietrastornina
+83030;Prata di Principato Ultra
+83039;Pratola Serra
+83020;Quadrelle
+83020;Quindici
+83016;Roccabascerana
+83050;Rocca San Felice
+83017;Rotondi
+83050;Salza Irpina
+83050;San Mango sul Calore
+83018;San Martino Valle Caudina
+83020;San Michele di Serino
+83050;San Nicola Baronia
+83050;San Potito Ultra
+83050;San Sossio Baronia
+83020;Santa Lucia di Serino
+83053;Sant'Andrea di Conza
+83050;Sant'Angelo all'Esca
+83010;Sant'Angelo a Scala
+83054;Sant'Angelo dei Lombardi
+83030;Santa Paolina
+83050;Santo Stefano del Sole
+83030;Savignano Irpino
+83050;Scampitella
+83050;Senerchia
+83028;Serino
+83020;Sirignano
+83029;Solofra
+83050;Sorbo Serpico
+83020;Sperone
+83055;Sturno
+83010;Summonte
+83020;Taurano
+83030;Taurasi
+83056;Teora
+83057;Torella dei Lombardi
+83030;Torre Le Nocelle
+83010;Torrioni
+83058;Trevico
+83010;Tufo
+83059;Vallata
+83050;Vallesaccarda
+83030;Venticano
+83050;Villamaina
+83030;Villanova del Battista
+83050;Volturara Irpina
+83030;Zungoli
+83025;Montoro
+84042;Acerno
+84043;Agropoli
+84044;Albanella
+84040;Alfano
+84045;Altavilla Silentina
+84011;Amalfi
+84012;Angri
+84020;Aquara
+84046;Ascea
+84030;Atena Lucana
+84010;Atrani
+84031;Auletta
+84081;Baronissi
+84091;Battipaglia
+84020;Bellosguardo
+84082;Bracigliano
+84021;Buccino
+84032;Buonabitacolo
+84030;Caggiano
+84080;Calvanico
+84059;Camerota
+84022;Campagna
+84040;Campora
+84040;Cannalonga
+84047;Capaccio Paestum
+84030;Casalbuono
+84030;Casaletto Spartano
+84040;Casal Velino
+84030;Caselle in Pittari
+84020;Castelcivita
+84048;Castellabate
+84040;Castelnuovo Cilento
+84020;Castelnuovo di Conza
+84083;Castel San Giorgio
+84049;Castel San Lorenzo
+84090;Castiglione del Genovesi
+84013;Cava de' Tirreni
+84040;Celle di Bulgheria
+84051;Centola
+84052;Ceraso
+84010;Cetara
+84053;Cicerale
+84020;Colliano
+84010;Conca dei Marini
+84020;Controne
+84024;Contursi Terme
+84010;Corbara
+84020;Corleto Monforte
+84050;Cuccaro Vetere
+84025;Eboli
+84055;Felitto
+84084;Fisciano
+84010;Furore
+84050;Futani
+84090;Giffoni Sei Casali
+84095;Giffoni Valle Piana
+84056;Gioi
+84050;Giungano
+84050;Ispani
+84050;Laureana Cilento
+84057;Laurino
+84050;Laurito
+84020;Laviano
+84050;Lustra
+84050;Magliano Vetere
+84010;Maiori
+84085;Mercato San Severino
+84010;Minori
+84060;Moio della Civitella
+84060;Montano Antilia
+84060;Montecorice
+84090;Montecorvino Pugliano
+84096;Montecorvino Rovella
+84060;Monteforte Cilento
+84030;Monte San Giacomo
+84033;Montesano sulla Marcellana
+84030;Morigerati
+84014;Nocera Inferiore
+84015;Nocera Superiore
+84060;Novi Velia
+84061;Ogliastro Cilento
+84062;Olevano sul Tusciano
+84020;Oliveto Citra
+84060;Omignano
+84060;Orria
+84020;Ottati
+84034;Padula
+84016;Pagani
+84020;Palomonte
+84080;Pellezzano
+84060;Perdifumo
+84060;Perito
+84030;Pertosa
+84020;Petina
+84065;Piaggine
+84066;Pisciotta
+84035;Polla
+84068;Pollica
+84098;Pontecagnano Faiano
+84017;Positano
+84026;Postiglione
+84010;Praiano
+84060;Prignano Cilento
+84010;Ravello
+84020;Ricigliano
+84069;Roccadaspide
+84060;Roccagloriosa
+84086;Roccapiemonte
+84070;Rofrano
+84020;Romagnano al Monte
+84020;Roscigno
+84070;Rutino
+84070;Sacco
+84036;Sala Consilina
+84070;Salento
+84121;Salerno
+84122;Salerno
+84123;Salerno
+84124;Salerno
+84125;Salerno
+84126;Salerno
+84127;Salerno
+84128;Salerno
+84129;Salerno
+84131;Salerno
+84132;Salerno
+84133;Salerno
+84134;Salerno
+84135;Salerno
+84020;Salvitelle
+84099;San Cipriano Picentino
+84070;San Giovanni a Piro
+84020;San Gregorio Magno
+84090;San Mango Piemonte
+84010;San Marzano sul Sarno
+84070;San Mauro Cilento
+84070;San Mauro la Bruca
+84030;San Pietro al Tanagro
+84030;San Rufo
+84067;Santa Marina
+84027;Sant'Angelo a Fasanella
+84037;Sant'Arsenio
+84010;Sant'Egidio del Monte Albino
+84020;Santomenna
+84010;San Valentino Torio
+84030;Sanza
+84073;Sapri
+84087;Sarno
+84038;Sassano
+84018;Scafati
+84010;Scala
+84070;Serramezzana
+84028;Serre
+84074;Sessa Cilento
+84088;Siano
+84029;Sicignano degli Alburni
+84070;Stella Cilento
+84075;Stio
+84039;Teggiano
+84076;Torchiara
+84030;Torraca
+84077;Torre Orsaia
+84030;Tortorella
+84010;Tramonti
+84070;Trentinara
+84070;Valle dell'Angelo
+84078;Vallo della Lucania
+84020;Valva
+84079;Vibonati
+84019;Vietri sul Mare
+84092;Bellizzi
+67020;Acciano
+67041;Aielli
+67030;Alfedena
+67030;Anversa degli Abruzzi
+67030;Ateleta
+67051;Avezzano
+67052;Balsorano
+67010;Barete
+67021;Barisciano
+67030;Barrea
+67050;Bisegna
+67030;Bugnara
+67012;Cagnano Amiterno
+67020;Calascio
+67030;Campo di Giove
+67013;Campotosto
+67050;Canistro
+67030;Cansano
+67022;Capestrano
+67053;Capistrello
+67014;Capitignano
+67020;Caporciano
+67060;Cappadocia
+67020;Carapelle Calvisio
+67061;Carsoli
+67023;Castel del Monte
+67020;Castel di Ieri
+67031;Castel di Sangro
+67050;Castellafiume
+67020;Castelvecchio Calvisio
+67024;Castelvecchio Subequo
+67043;Celano
+67044;Cerchio
+67050;Civita d'Antino
+67030;Civitella Alfedena
+67054;Civitella Roveto
+67030;Cocullo
+67040;Collarmele
+67050;Collelongo
+67020;Collepietro
+67030;Corfinio
+67020;Fagnano Alto
+67020;Fontecchio
+67020;Fossa
+67020;Gagliano Aterno
+67055;Gioia dei Marsi
+67030;Goriano Sicoli
+67030;Introdacqua
+67100;L'Aquila
+67050;Lecce nei Marsi
+67056;Luco dei Marsi
+67045;Lucoli
+67062;Magliano de' Marsi
+67050;Massa d'Albe
+67020;Molina Aterno
+67015;Montereale
+67050;Morino
+67020;Navelli
+67040;Ocre
+67025;Ofena
+67030;Opi
+67063;Oricola
+67050;Ortona dei Marsi
+67050;Ortucchio
+67046;Ovindoli
+67030;Pacentro
+67064;Pereto
+67032;Pescasseroli
+67057;Pescina
+67033;Pescocostanzo
+67034;Pettorano sul Gizio
+67017;Pizzoli
+67026;Poggio Picenze
+67020;Prata d'Ansidonia
+67035;Pratola Peligna
+67030;Prezza
+67027;Raiano
+67036;Rivisondoli
+67030;Roccacasale
+67066;Rocca di Botte
+67047;Rocca di Cambio
+67048;Rocca di Mezzo
+67030;Rocca Pia
+67037;Roccaraso
+67058;San Benedetto dei Marsi
+67020;San Benedetto in Perillis
+67028;San Demetrio ne' Vestini
+67020;San Pio delle Camere
+67067;Sante Marie
+67020;Sant'Eusanio Forconese
+67020;Santo Stefano di Sessanio
+67050;San Vincenzo Valle Roveto
+67038;Scanno
+67030;Scontrone
+67019;Scoppito
+67068;Scurcola Marsicana
+67029;Secinaro
+67039;Sulmona
+67069;Tagliacozzo
+67020;Tione degli Abruzzi
+67049;Tornimparte
+67059;Trasacco
+67030;Villalago
+67020;Villa Santa Lucia degli Abruzzi
+67020;Villa Sant'Angelo
+67050;Villavallelonga
+67030;Villetta Barrea
+67030;Vittorito
+64011;Alba Adriatica
+64010;Ancarano
+64031;Arsita
+64032;Atri
+64030;Basciano
+64020;Bellante
+64033;Bisenti
+64012;Campli
+64020;Canzano
+64030;Castel Castagna
+64020;Castellalto
+64041;Castelli
+64034;Castiglione Messer Raimondo
+64035;Castilenti
+64036;Cellino Attanasio
+64037;Cermignano
+64010;Civitella del Tronto
+64042;Colledara
+64010;Colonnella
+64010;Controguerra
+64013;Corropoli
+64040;Cortino
+64043;Crognaleto
+64044;Fano Adriano
+64021;Giulianova
+64045;Isola del Gran Sasso d'Italia
+64030;Montefino
+64046;Montorio al Vomano
+64020;Morro d'Oro
+64023;Mosciano Sant'Angelo
+64015;Nereto
+64024;Notaresco
+64039;Penna Sant'Andrea
+64047;Pietracamela
+64025;Pineto
+64010;Rocca Santa Maria
+64026;Roseto degli Abruzzi
+64016;Sant'Egidio alla Vibrata
+64027;Sant'Omero
+64028;Silvi
+64100;Teramo
+64010;Torano Nuovo
+64010;Torricella Sicura
+64018;Tortoreto
+64049;Tossicia
+64010;Valle Castellana
+64014;Martinsicuro
+65020;Abbateggio
+65020;Alanno
+65020;Bolognano
+65010;Brittoli
+65022;Bussi sul Tirino
+65010;Cappelle sul Tavo
+65023;Caramanico Terme
+65010;Carpineto della Nora
+65020;Castiglione a Casauria
+65011;Catignano
+65012;Cepagatti
+65013;Città Sant'Angelo
+65010;Civitaquana
+65010;Civitella Casanova
+65010;Collecorvino
+65020;Corvara
+65020;Cugnoli
+65010;Elice
+65010;Farindola
+65020;Lettomanoppello
+65014;Loreto Aprutino
+65024;Manoppello
+65010;Montebello di Bertona
+65015;Montesilvano
+65010;Moscufo
+65010;Nocciano
+65017;Penne
+65121;Pescara
+65122;Pescara
+65123;Pescara
+65124;Pescara
+65125;Pescara
+65126;Pescara
+65127;Pescara
+65128;Pescara
+65129;Pescara
+65020;Pescosansonesco
+65019;Pianella
+65010;Picciano
+65020;Pietranico
+65026;Popoli Terme
+65020;Roccamorice
+65020;Rosciano
+65020;Salle
+65020;Sant'Eufemia a Maiella
+65020;San Valentino in Abruzzo Citeriore
+65027;Scafa
+65025;Serramonacesca
+65010;Spoltore
+65028;Tocco da Casauria
+65029;Torre de' Passeri
+65020;Turrivalignani
+65010;Vicoli
+65010;Villa Celiera
+66040;Altino
+66044;Archi
+66010;Ari
+66030;Arielli
+66041;Atessa
+66042;Bomba
+66040;Borrello
+66011;Bucchianico
+66040;Montebello sul Sangro
+66010;Canosa Sannita
+66030;Carpineto Sinello
+66050;Carunchio
+66010;Casacanditella
+66031;Casalanguida
+66021;Casalbordino
+66012;Casalincontrada
+66043;Casoli
+66032;Castel Frentano
+66040;Castelguidone
+66033;Castiglione Messer Marino
+66050;Celenza sul Trigno
+66100;Chieti
+66040;Civitaluparella
+66010;Civitella Messer Raimondo
+66010;Colledimacine
+66040;Colledimezzo
+66014;Crecchio
+66051;Cupello
+66050;Dogliola
+66010;Fara Filiorum Petri
+66015;Fara San Martino
+66030;Filetto
+66022;Fossacesia
+66050;Fraine
+66023;Francavilla al Mare
+66050;Fresagrandinaria
+66030;Frisa
+66050;Furci
+66040;Gamberale
+66010;Gessopalena
+66052;Gissi
+66010;Giuliano Teatino
+66016;Guardiagrele
+66050;Guilmi
+66010;Lama dei Peligni
+66034;Lanciano
+66050;Lentella
+66010;Lettopalena
+66050;Liscia
+66010;Miglianico
+66030;Montazzoli
+66040;Monteferrante
+66040;Montelapiano
+66010;Montenerodomo
+66050;Monteodorisio
+66030;Mozzagrogna
+66036;Orsogna
+66026;Ortona
+66020;Paglieta
+66017;Palena
+66050;Palmoli
+66010;Palombaro
+66040;Pennadomo
+66010;Pennapiedimonte
+66040;Perano
+66040;Pizzoferrato
+66030;Poggiofiorito
+66020;Pollutri
+66010;Pretoro
+66040;Quadri
+66010;Rapino
+66010;Ripa Teatina
+66010;Roccamontepiano
+66020;Rocca San Giovanni
+66040;Roccascalegna
+66050;Roccaspinalveti
+66040;Roio del Sangro
+66040;Rosello
+66050;San Buono
+66050;San Giovanni Lipioni
+66020;San Giovanni Teatino
+66010;San Martino sulla Marrucina
+66050;San Salvo
+66030;Santa Maria Imbaro
+66037;Sant'Eusanio del Sangro
+66038;San Vito Chietino
+66020;Scerni
+66045;Schiavi di Abruzzo
+66018;Taranta Peligna
+66010;Tollo
+66020;Torino di Sangro
+66046;Tornareccio
+66050;Torrebruna
+66010;Torrevecchia Teatina
+66019;Torricella Peligna
+66030;Treglio
+66050;Tufillo
+66010;Vacri
+66054;Vasto
+66020;Villalfonsina
+66010;Villamagna
+66047;Villa Santa Maria
+66040;Pietraferrazzana
+66040;Fallo
+86030;Acquaviva Collecroce
+86011;Baranello
+86021;Bojano
+86041;Bonefro
+86010;Busso
+86100;Campobasso
+86020;Campochiaro
+86010;Campodipietra
+86040;Campolieto
+86042;Campomarino
+86043;Casacalenda
+86010;Casalciprano
+86030;Castelbottaccio
+86020;Castellino del Biferno
+86031;Castelmauro
+86010;Castropignano
+86012;Cercemaggiore
+86010;Cercepiccola
+86030;Civitacampomarano
+86020;Colle d'Anchise
+86044;Colletorto
+86020;Duronia
+86010;Ferrazzano
+86020;Fossalto
+86013;Gambatesa
+86010;Gildone
+86030;Guardialfiera
+86014;Guardiaregia
+86034;Guglionesi
+86015;Jelsi
+86035;Larino
+86022;Limosano
+86030;Lucito
+86030;Lupara
+86040;Macchia Valfortore
+86030;Mafalda
+86030;Matrice
+86010;Mirabello Sannitico
+86020;Molise
+86040;Monacilioni
+86023;Montagano
+86032;Montecilfone
+86033;Montefalcone nel Sannio
+86040;Montelongo
+86030;Montemitro
+86036;Montenero di Bisaccia
+86040;Montorio nei Frentani
+86040;Morrone del Sannio
+86010;Oratino
+86037;Palata
+86038;Petacciato
+86024;Petrella Tifernina
+86040;Pietracatella
+86020;Pietracupa
+86045;Portocannone
+86040;Provvidenti
+86016;Riccia
+86040;Ripabottoni
+86025;Ripalimosani
+86020;Roccavivara
+86040;Rotello
+86026;Salcito
+86020;San Biase
+86030;San Felice del Molise
+86030;San Giacomo degli Schiavoni
+86010;San Giovanni in Galdo
+86010;San Giuliano del Sannio
+86040;San Giuliano di Puglia
+86046;San Martino in Pensilis
+86027;San Massimo
+86020;San Polo Matese
+86047;Santa Croce di Magliano
+86020;Sant'Angelo Limosano
+86048;Sant'Elia a Pianisi
+86017;Sepino
+86020;Spinete
+86030;Tavenna
+86039;Termoli
+86028;Torella del Sannio
+86018;Toro
+86029;Trivento
+86010;Tufara
+86049;Ururi
+86019;Vinchiaturo
+71021;Accadia
+71031;Alberona
+71020;Anzano di Puglia
+71011;Apricena
+71022;Ascoli Satriano
+71032;Biccari
+71023;Bovino
+71010;Cagnano Varano
+71024;Candela
+71041;Carapelle
+71030;Carlantino
+71010;Carpino
+71033;Casalnuovo Monterotaro
+71030;Casalvecchio di Puglia
+71025;Castelluccio dei Sauri
+71020;Castelluccio Valmaggiore
+71034;Castelnuovo della Daunia
+71035;Celenza Valfortore
+71020;Celle di San Vito
+71042;Cerignola
+71010;Chieuti
+71026;Deliceto
+71020;Faeto
+71121;Foggia
+71122;Foggia
+71010;Ischitella
+71051;Isole Tremiti
+71010;Lesina
+71036;Lucera
+71043;Manfredonia
+71030;Mattinata
+71020;Monteleone di Puglia
+71037;Monte Sant'Angelo
+71030;Motta Montecorvino
+71027;Orsara di Puglia
+71045;Orta Nova
+71020;Panni
+71010;Peschici
+71038;Pietramontecorvino
+71010;Poggio Imperiale
+71010;Rignano Garganico
+71020;Rocchetta Sant'Antonio
+71012;Rodi Garganico
+71039;Roseto Valfortore
+71013;San Giovanni Rotondo
+71014;San Marco in Lamis
+71030;San Marco la Catola
+71015;San Nicandro Garganico
+71010;San Paolo di Civitate
+71016;San Severo
+71028;Sant'Agata di Puglia
+71010;Serracapriola
+71047;Stornara
+71048;Stornarella
+71017;Torremaggiore
+71029;Troia
+71018;Vico del Gargano
+71019;Vieste
+71030;Volturara Appula
+71030;Volturino
+71040;Ordona
+71030;Zapponeta
+70021;Acquaviva delle Fonti
+70010;Adelfia
+70011;Alberobello
+70022;Altamura
+70121;Bari
+70122;Bari
+70123;Bari
+70124;Bari
+70125;Bari
+70126;Bari
+70127;Bari
+70128;Bari
+70129;Bari
+70131;Bari
+70132;Bari
+70020;Binetto
+70020;Bitetto
+70032;Bitonto
+70020;Bitritto
+70010;Capurso
+70010;Casamassima
+70020;Cassano delle Murge
+70013;Castellana Grotte
+70010;Cellamare
+70014;Conversano
+70033;Corato
+70023;Gioia del Colle
+70054;Giovinazzo
+70024;Gravina in Puglia
+70025;Grumo Appula
+70010;Locorotondo
+70026;Modugno
+70042;Mola di Bari
+70056;Molfetta
+70043;Monopoli
+70015;Noci
+70016;Noicattaro
+70027;Palo del Colle
+70020;Poggiorsini
+70044;Polignano a Mare
+70017;Putignano
+70018;Rutigliano
+70037;Ruvo di Puglia
+70010;Sammichele di Bari
+70028;Sannicandro di Bari
+70029;Santeramo in Colle
+70038;Terlizzi
+70020;Toritto
+70019;Triggiano
+70010;Turi
+70010;Valenzano
+74020;Avetrana
+74021;Carosino
+74011;Castellaneta
+74012;Crispiano
+74020;Faggiano
+74022;Fragagnano
+74013;Ginosa
+74023;Grottaglie
+74014;Laterza
+74020;Leporano
+74020;Lizzano
+74024;Manduria
+74015;Martina Franca
+74020;Maruggio
+74016;Massafra
+74020;Monteiasi
+74020;Montemesola
+74020;Monteparano
+74017;Mottola
+74018;Palagianello
+74019;Palagiano
+74026;Pulsano
+74020;Roccaforzata
+74027;San Giorgio Ionico
+74020;San Marzano di San Giuseppe
+74028;Sava
+74121;Taranto
+74122;Taranto
+74123;Taranto
+74020;Torricella
+74010;Statte
+72100;Brindisi
+72012;Carovigno
+72013;Ceglie Messapica
+72020;Cellino San Marco
+72014;Cisternino
+72020;Erchie
+72015;Fasano
+72021;Francavilla Fontana
+72022;Latiano
+72023;Mesagne
+72024;Oria
+72017;Ostuni
+72025;San Donaci
+72018;San Michele Salentino
+72026;San Pancrazio Salentino
+72027;San Pietro Vernotico
+72019;San Vito dei Normanni
+72020;Torchiarolo
+72028;Torre Santa Susanna
+72029;Villa Castelli
+73031;Alessano
+73011;Alezio
+73040;Alliste
+73032;Andrano
+73040;Aradeo
+73010;Arnesano
+73020;Bagnolo del Salento
+73020;Botrugno
+73021;Calimera
+73012;Campi Salentina
+73020;Cannole
+73010;Caprarica di Lecce
+73041;Carmiano
+73020;Carpignano Salentino
+73042;Casarano
+73020;Castri di Lecce
+73020;Castrignano de' Greci
+73040;Castrignano del Capo
+73020;Cavallino
+73040;Collepasso
+73043;Copertino
+73022;Corigliano d'Otranto
+73033;Corsano
+73020;Cursi
+73020;Cutrofiano
+73030;Diso
+73034;Gagliano del Capo
+73013;Galatina
+73044;Galatone
+73014;Gallipoli
+73030;Giuggianello
+73020;Giurdignano
+73010;Guagnano
+73100;Lecce
+73010;Lequile
+73045;Leverano
+73023;Lizzanello
+73024;Maglie
+73025;Martano
+73020;Martignano
+73046;Matino
+73026;Melendugno
+73040;Melissano
+73020;Melpignano
+73035;Miggiano
+73027;Minervino di Lecce
+73047;Monteroni di Lecce
+73030;Montesano Salentino
+73040;Morciano di Leuca
+73036;Muro Leccese
+73048;Nardò
+73040;Neviano
+73020;Nociglia
+73051;Novoli
+73030;Ortelle
+73028;Otranto
+73020;Palmariggi
+73052;Parabita
+73053;Patù
+73037;Poggiardo
+73055;Racale
+73049;Ruffano
+73015;Salice Salentino
+73050;Salve
+73030;Sanarica
+73016;San Cesario di Lecce
+73010;San Donato di Lecce
+73017;Sannicola
+73010;San Pietro in Lama
+73020;Santa Cesarea Terme
+73020;Scorrano
+73050;Seclì
+73010;Sogliano Cavour
+73010;Soleto
+73040;Specchia
+73038;Spongano
+73018;Squinzano
+73010;Sternatia
+73040;Supersano
+73030;Surano
+73010;Surbo
+73056;Taurisano
+73057;Taviano
+73030;Tiggiano
+73019;Trepuzzi
+73039;Tricase
+73058;Tuglie
+73059;Ugento
+73020;Uggiano la Chiesa
+73010;Veglie
+73029;Vernole
+73010;Zollino
+73020;San Cassiano
+73030;Castro
+73010;Porto Cesareo
+73054;Presicce-Acquarica
+85010;Abriola
+85011;Acerenza
+85010;Albano di Lucania
+85010;Anzi
+85010;Armento
+85020;Atella
+85021;Avigliano
+85050;Balvano
+85010;Banzi
+85050;Baragiano
+85022;Barile
+85051;Bella
+85050;Brienza
+85010;Brindisi Montagna
+85010;Calvello
+85030;Calvera
+85010;Campomaggiore
+85010;Cancellara
+85030;Carbone
+85030;San Paolo Albanese
+85050;Castelgrande
+85040;Castelluccio Inferiore
+85040;Castelluccio Superiore
+85010;Castelmezzano
+85031;Castelsaraceno
+85030;Castronuovo di Sant'Andrea
+85030;Cersosimo
+85032;Chiaromonte
+85012;Corleto Perticara
+85033;Episcopia
+85034;Fardella
+85020;Filiano
+85023;Forenza
+85034;Francavilla in Sinni
+85010;Gallicchio
+85013;Genzano di Lucania
+85050;Grumento Nova
+85010;Guardia Perticara
+85042;Lagonegro
+85043;Latronico
+85014;Laurenzana
+85044;Lauria
+85024;Lavello
+85046;Maratea
+85052;Marsico Nuovo
+85050;Marsicovetere
+85020;Maschito
+85025;Melfi
+85010;Missanello
+85047;Moliterno
+85020;Montemilone
+85053;Montemurro
+85054;Muro Lucano
+85040;Nemoli
+85035;Noepoli
+85015;Oppido Lucano
+85026;Palazzo San Gervasio
+85020;Pescopagano
+85055;Picerno
+85016;Pietragalla
+85010;Pietrapertosa
+85010;Pignola
+85100;Potenza
+85027;Rapolla
+85020;Rapone
+85028;Rionero in Vulture
+85020;Ripacandida
+85040;Rivello
+85036;Roccanova
+85048;Rotonda
+85056;Ruoti
+85020;Ruvo del Monte
+85010;San Chirico Nuovo
+85030;San Chirico Raparo
+85030;San Costantino Albanese
+85020;San Fele
+85030;San Martino d'Agri
+85030;San Severino Lucano
+85050;Sant'Angelo Le Fratte
+85037;Sant'Arcangelo
+85050;Sarconi
+85050;Sasso di Castalda
+85050;Satriano di Lucania
+85050;Savoia di Lucania
+85038;Senise
+85039;Spinoso
+85032;Teana
+85030;Terranova di Pollino
+85050;Tito
+85017;Tolve
+85057;Tramutola
+85049;Trecchina
+85018;Trivigno
+85010;Vaglio Basilicata
+85029;Venosa
+85058;Vietri di Potenza
+85040;Viggianello
+85059;Viggiano
+85020;Ginestra
+85050;Paterno
+75011;Accettura
+75010;Aliano
+75012;Bernalda
+75010;Calciano
+75010;Cirigliano
+75021;Colobraro
+75010;Craco
+75013;Ferrandina
+75010;Garaguso
+75010;Gorgoglione
+75014;Grassano
+75010;Grottole
+75022;Irsina
+75100;Matera
+75010;Miglionico
+75023;Montalbano Jonico
+75024;Montescaglioso
+75020;Nova Siri
+75010;Oliveto Lucano
+75015;Pisticci
+75025;Policoro
+75016;Pomarico
+75026;Rotondella
+75017;Salandra
+75027;San Giorgio Lucano
+75010;San Mauro Forte
+75018;Stigliano
+75019;Tricarico
+75028;Tursi
+75029;Valsinni
+75020;Scanzano Jonico
+87010;Acquaformosa
+87020;Acquappesa
+87041;Acri
+87031;Aiello Calabro
+87020;Aieta
+87070;Albidona
+87070;Alessandria del Carretto
+87040;Altilia
+87042;Altomonte
+87032;Amantea
+87071;Amendolara
+87051;Aprigliano
+87033;Belmonte Calabro
+87030;Belsito
+87021;Belvedere Marittimo
+87050;Bianchi
+87043;Bisignano
+87060;Bocchigliero
+87020;Bonifati
+87020;Buonvicino
+87060;Calopezzati
+87060;Caloveto
+87061;Campana
+87070;Canna
+87062;Cariati
+87030;Carolei
+87050;Carpanzano
+87011;Cassano all'Ionio
+87040;Castiglione Cosentino
+87040;Castrolibero
+87070;Castroregio
+87012;Castrovillari
+87053;Celico
+87050;Cellara
+87070;Cerchiara di Calabria
+87044;Cerisano
+87010;Cervicati
+87040;Cerzeto
+87022;Cetraro
+87010;Civita
+87030;Cleto
+87050;Colosimi
+87100;Cosenza
+87060;Cropalati
+87060;Crosia
+87023;Diamante
+87045;Dipignano
+87030;Domanico
+87013;Fagnano Castello
+87030;Falconara Albanese
+87050;Figline Vegliaturo
+87010;Firmo
+87030;Fiumefreddo Bruzio
+87072;Francavilla Marittima
+87010;Frascineto
+87024;Fuscaldo
+87034;Grimaldi
+87020;Grisolia
+87020;Guardia Piemontese
+87035;Lago
+87014;Laino Borgo
+87015;Laino Castello
+87050;Lappano
+87010;Lattarico
+87030;Longobardi
+87066;Longobucco
+87010;Lungro
+87040;Luzzi
+87020;Maierà
+87030;Malito
+87010;Malvito
+87060;Mandatoriccio
+87050;Mangone
+87040;Marano Marchesato
+87040;Marano Principato
+87050;Marzi
+87040;Mendicino
+87040;Mongrassano
+87046;Montalto Uffugo
+87070;Montegiordano
+87016;Morano Calabro
+87026;Mormanno
+87010;Mottafollone
+87070;Nocara
+87073;Oriolo
+87020;Orsomarso
+87060;Paludi
+87050;Panettieri
+87027;Paola
+87020;Papasidero
+87040;Parenti
+87040;Paterno Calabro
+87050;Pedivigliano
+87050;Piane Crati
+87050;Pietrafitta
+87060;Pietrapaola
+87070;Plataci
+87028;Praia a Mare
+87036;Rende
+87074;Rocca Imperiale
+87017;Roggiano Gravina
+87054;Rogliano
+87040;Rose
+87070;Roseto Capo Spulico
+87010;Rota Greca
+87050;Rovito
+87010;San Basile
+87040;San Benedetto Ullano
+87060;San Cosmo Albanese
+87069;San Demetrio Corone
+87010;San Donato di Ninea
+87037;San Fili
+87020;Sangineto
+87060;San Giorgio Albanese
+87055;San Giovanni in Fiore
+87070;San Lorenzo Bellizzi
+87040;San Lorenzo del Vallo
+87038;San Lucido
+87018;San Marco Argentano
+87010;San Martino di Finita
+87020;San Nicola Arcella
+87030;San Pietro in Amantea
+87047;San Pietro in Guarano
+87010;San Sosti
+87010;Santa Caterina Albanese
+87020;Santa Domenica Talao
+87010;Sant'Agata di Esaro
+87020;Santa Maria del Cedro
+87048;Santa Sofia d'Epiro
+87056;Santo Stefano di Rogliano
+87030;San Vincenzo La Costa
+87010;Saracena
+87060;Scala Coeli
+87029;Scalea
+87057;Scigliano
+87030;Serra d'Aiello
+87019;Spezzano Albanese
+87058;Spezzano della Sila
+87040;Tarsia
+87010;Terranova da Sibari
+87060;Terravecchia
+87010;Torano Castello
+87020;Tortora
+87075;Trebisacce
+87060;Vaccarizzo Albanese
+87020;Verbicaro
+87076;Villapiana
+87040;Zumpano
+87059;Casali del Manco
+87064;Corigliano-Rossano
+88055;Albi
+88050;Amaroni
+88040;Amato
+88050;Andali
+88060;Argusto
+88060;Badolato
+88050;Belcastro
+88021;Borgia
+88070;Botricello
+88050;Caraffa di Catanzaro
+88062;Cardinale
+88040;Carlopoli
+88100;Catanzaro
+88067;Cenadi
+88067;Centrache
+88050;Cerva
+88064;Chiaravalle Centrale
+88040;Cicala
+88040;Conflenti
+88020;Cortale
+88051;Cropani
+88022;Curinga
+88060;Davoli
+88041;Decollatura
+88042;Falerna
+88040;Feroleto Antico
+88050;Fossato Serralta
+88060;Gagliato
+88060;Gasperina
+88045;Gimigliano
+88024;Girifalco
+88040;Gizzeria
+88065;Guardavalle
+88060;Isca sullo Ionio
+88020;Jacurso
+88050;Magisano
+88025;Maida
+88050;Marcedusa
+88044;Marcellinara
+88040;Martirano
+88040;Martirano Lombardo
+88040;Miglierina
+88060;Montauro
+88060;Montepaone
+88040;Motta Santa Lucia
+88047;Nocera Terinese
+88067;Olivadi
+88050;Palermiti
+88050;Pentone
+88060;Petrizzi
+88050;Petronà
+88040;Pianopoli
+88040;Platania
+88021;San Floro
+88040;San Mango d'Aquino
+88025;San Pietro a Maida
+88040;San Pietro Apostolo
+88060;San Sostene
+88060;Santa Caterina dello Ionio
+88060;Sant'Andrea Apostolo dello Ionio
+88067;San Vito sullo Ionio
+88060;Satriano
+88050;Sellia
+88050;Sellia Marina
+88040;Serrastretta
+88054;Sersale
+88040;Settingiano
+88050;Simeri Crichi
+88050;Sorbo San Basile
+88068;Soverato
+88049;Soveria Mannelli
+88050;Soveria Simeri
+88069;Squillace
+88071;Stalettì
+88055;Taverna
+88056;Tiriolo
+88060;Torre di Ruggiero
+88050;Vallefiorita
+88050;Zagarise
+88046;Lamezia Terme
+89030;Africo
+89040;Agnana Calabra
+89020;Anoia
+89040;Antonimina
+89031;Ardore
+89060;Bagaladi
+89011;Bagnara Calabra
+89030;Benestare
+89032;Bianco
+89040;Bivongi
+89033;Bova
+89034;Bovalino
+89035;Bova Marina
+89036;Brancaleone
+89030;Bruzzano Zeffirio
+89050;Calanna
+89040;Camini
+89052;Campo Calabro
+89020;Candidoni
+89040;Canolo
+89030;Caraffa del Bianco
+89060;Cardeto
+89030;Careri
+89030;Casignana
+89041;Caulonia
+89040;Ciminà
+89021;Cinquefrondi
+89022;Cittanova
+89030;Condofuri
+89050;Cosoleto
+89012;Delianuova
+89050;Feroleto della Chiesa
+89030;Ferruzzano
+89050;Fiumara
+89054;Galatro
+89040;Gerace
+89020;Giffone
+89013;Gioia Tauro
+89042;Gioiosa Ionica
+89043;Grotteria
+89050;Laganadi
+89023;Laureana di Borrello
+89044;Locri
+89045;Mammola
+89046;Marina di Gioiosa Ionica
+89020;Maropati
+89040;Martone
+89020;Melicuccà
+89020;Melicucco
+89063;Melito di Porto Salvo
+89010;Molochio
+89040;Monasterace
+89064;Montebello Jonico
+89065;Motta San Giovanni
+89014;Oppido Mamertina
+89038;Palizzi
+89015;Palmi
+89040;Pazzano
+89040;Placanica
+89039;Platì
+89024;Polistena
+89040;Portigliola
+89121;Reggio di Calabria
+89122;Reggio di Calabria
+89123;Reggio di Calabria
+89124;Reggio di Calabria
+89125;Reggio di Calabria
+89126;Reggio di Calabria
+89127;Reggio di Calabria
+89128;Reggio di Calabria
+89129;Reggio di Calabria
+89131;Reggio di Calabria
+89132;Reggio di Calabria
+89133;Reggio di Calabria
+89134;Reggio di Calabria
+89135;Reggio di Calabria
+89040;Riace
+89016;Rizziconi
+89060;Roccaforte del Greco
+89047;Roccella Ionica
+89060;Roghudi
+89025;Rosarno
+89030;Samo
+89017;San Giorgio Morgeto
+89040;San Giovanni di Gerace
+89069;San Lorenzo
+89030;San Luca
+89020;San Pietro di Caridà
+89020;San Procopio
+89050;San Roberto
+89056;Santa Cristina d'Aspromonte
+89030;Sant'Agata del Bianco
+89050;Sant'Alessio in Aspromonte
+89027;Sant'Eufemia d'Aspromonte
+89040;Sant'Ilario dello Ionio
+89057;Santo Stefano in Aspromonte
+89010;Scido
+89058;Scilla
+89028;Seminara
+89020;Serrata
+89048;Siderno
+89020;Sinopoli
+89030;Staiti
+89040;Stignano
+89049;Stilo
+89029;Taurianova
+89010;Terranova Sappo Minulio
+89010;Varapodio
+89018;Villa San Giovanni
+89026;San Ferdinando
+91011;Alcamo
+91012;Buseto Palizzolo
+91013;Calatafimi-Segesta
+91021;Campobello di Mazara
+91014;Castellammare del Golfo
+91022;Castelvetrano
+91015;Custonaci
+91016;Erice
+91023;Favignana
+91024;Gibellina
+91025;Marsala
+91026;Mazara del Vallo
+91027;Paceco
+91017;Pantelleria
+91028;Partanna
+91020;Poggioreale
+91020;Salaparuta
+91018;Salemi
+91029;Santa Ninfa
+91010;San Vito Lo Capo
+91100;Trapani
+91019;Valderice
+91010;Vita
+91020;Petrosino
+91031;Misiliscemi
+90021;Alia
+90020;Alimena
+90020;Aliminusa
+90010;Altavilla Milicia
+90030;Altofonte
+90011;Bagheria
+90041;Balestrate
+90020;Baucina
+90031;Belmonte Mezzagno
+90032;Bisacquino
+90030;Bolognetta
+90020;Bompietro
+90042;Borgetto
+90012;Caccamo
+90022;Caltavuturo
+90030;Campofelice di Fitalia
+90010;Campofelice di Roccella
+90030;Campofiorito
+90043;Camporeale
+90040;Capaci
+90044;Carini
+90013;Castelbuono
+90014;Casteldaccia
+90020;Castellana Sicula
+90030;Castronovo di Sicilia
+90030;Cefalà Diana
+90015;Cefalù
+90010;Cerda
+90033;Chiusa Sclafani
+90023;Ciminna
+90045;Cinisi
+90016;Collesano
+90030;Contessa Entellina
+90034;Corleone
+90010;Ficarazzi
+90024;Gangi
+90010;Geraci Siculo
+90040;Giardinello
+90030;Giuliana
+90030;Godrano
+90010;Gratteri
+90010;Isnello
+90040;Isola delle Femmine
+90010;Lascari
+90025;Lercara Friddi
+90035;Marineo
+90030;Mezzojuso
+90036;Misilmeri
+90046;Monreale
+90040;Montelepre
+90020;Montemaggiore Belsito
+90030;Palazzo Adriano
+90121;Palermo
+90123;Palermo
+90124;Palermo
+90125;Palermo
+90126;Palermo
+90127;Palermo
+90128;Palermo
+90129;Palermo
+90131;Palermo
+90133;Palermo
+90134;Palermo
+90135;Palermo
+90136;Palermo
+90138;Palermo
+90139;Palermo
+90141;Palermo
+90142;Palermo
+90143;Palermo
+90144;Palermo
+90145;Palermo
+90146;Palermo
+90147;Palermo
+90149;Palermo
+90151;Palermo
+90047;Partinico
+90026;Petralia Soprana
+90027;Petralia Sottana
+90037;Piana degli Albanesi
+90028;Polizzi Generosa
+90010;Pollina
+90038;Prizzi
+90040;Roccamena
+90020;Roccapalumba
+90040;San Cipirello
+90048;San Giuseppe Jato
+90010;San Mauro Castelverde
+90030;Santa Cristina Gela
+90017;Santa Flavia
+90020;Sciara
+90020;Sclafani Bagni
+90018;Termini Imerese
+90049;Terrasini
+90040;Torretta
+90019;Trabia
+90040;Trappeto
+90051;Ustica
+90029;Valledolmo
+90020;Ventimiglia di Sicilia
+90020;Vicari
+90039;Villabate
+90030;Villafrati
+90020;Scillato
+90020;Blufi
+98070;Alcara li Fusi
+98020;Alì
+98021;Alì Terme
+98030;Antillo
+98051;Barcellona Pozzo di Gotto
+98060;Basicò
+98061;Brolo
+98031;Capizzi
+98071;Capo d'Orlando
+98070;Capri Leone
+98072;Caronia
+98032;Casalvecchio Siculo
+98070;Castel di Lucio
+98070;Castell'Umberto
+98030;Castelmola
+98053;Castroreale
+98033;Cesarò
+98040;Condrò
+98060;Falcone
+98062;Ficarra
+98022;Fiumedinisi
+98030;Floresta
+98050;Fondachelli-Fantina
+98030;Forza d'Agrò
+98034;Francavilla di Sicilia
+98070;Frazzanò
+98023;Furci Siculo
+98054;Furnari
+98030;Gaggi
+98070;Galati Mamertino
+98030;Gallodoro
+98035;Giardini-Naxos
+98063;Gioiosa Marea
+98036;Graniti
+98040;Gualtieri Sicaminò
+98025;Itala
+98050;Leni
+98037;Letojanni
+98064;Librizzi
+98030;Limina
+98055;Lipari
+98070;Longi
+98050;Malfa
+98030;Malvagna
+98020;Mandanici
+98056;Mazzarrà Sant'Andrea
+98040;Merì
+98121;Messina
+98122;Messina
+98123;Messina
+98124;Messina
+98125;Messina
+98126;Messina
+98127;Messina
+98128;Messina
+98129;Messina
+98131;Messina
+98132;Messina
+98133;Messina
+98134;Messina
+98135;Messina
+98136;Messina
+98137;Messina
+98138;Messina
+98139;Messina
+98141;Messina
+98142;Messina
+98143;Messina
+98144;Messina
+98145;Messina
+98146;Messina
+98147;Messina
+98148;Messina
+98149;Messina
+98151;Messina
+98152;Messina
+98153;Messina
+98154;Messina
+98155;Messina
+98156;Messina
+98157;Messina
+98158;Messina
+98161;Messina
+98162;Messina
+98163;Messina
+98164;Messina
+98165;Messina
+98166;Messina
+98167;Messina
+98168;Messina
+98057;Milazzo
+98070;Militello Rosmarino
+98070;Mirto
+98073;Mistretta
+98030;Moio Alcantara
+98041;Monforte San Giorgio
+98030;Mongiuffi Melia
+98060;Montagnareale
+98065;Montalbano Elicona
+98030;Motta Camastra
+98070;Motta d'Affermo
+98074;Naso
+98026;Nizza di Sicilia
+98058;Novara di Sicilia
+98060;Oliveri
+98042;Pace del Mela
+98020;Pagliara
+98066;Patti
+98070;Pettineo
+98060;Piraino
+98067;Raccuja
+98070;Reitano
+98030;Roccafiorita
+98027;Roccalumera
+98040;Roccavaldina
+98030;Roccella Valdemone
+98059;Rodì Milici
+98043;Rometta
+98044;San Filippo del Mela
+98075;San Fratello
+98070;San Marco d'Alunzio
+98045;San Pier Niceto
+98068;San Piero Patti
+98070;San Salvatore di Fitalia
+98030;Santa Domenica Vittoria
+98076;Sant'Agata di Militello
+98030;Sant'Alessio Siculo
+98046;Santa Lucia del Mela
+98050;Santa Marina Salina
+98060;Sant'Angelo di Brolo
+98028;Santa Teresa di Riva
+98030;San Teodoro
+98077;Santo Stefano di Camastra
+98047;Saponara
+98038;Savoca
+98029;Scaletta Zanclea
+98069;Sinagra
+98048;Spadafora
+98039;Taormina
+98040;Torregrotta
+98078;Tortorici
+98060;Tripi
+98079;Tusa
+98060;Ucria
+98040;Valdina
+98040;Venetico
+98049;Villafranca Tirrena
+98050;Terme Vigliatore
+98070;Acquedolci
+98070;Torrenova
+92100;Agrigento
+92010;Alessandria della Rocca
+92021;Aragona
+92010;Bivona
+92010;Burgio
+92010;Calamonaci
+92010;Caltabellotta
+92020;Camastra
+92022;Cammarata
+92023;Campobello di Licata
+92024;Canicattì
+92025;Casteltermini
+92020;Castrofilippo
+92011;Cattolica Eraclea
+92012;Cianciana
+92020;Comitini
+92026;Favara
+92020;Grotte
+92010;Joppolo Giancaxio
+92031;Lampedusa e Linosa
+92027;Licata
+92010;Lucca Sicula
+92013;Menfi
+92010;Montallegro
+92010;Montevago
+92028;Naro
+92020;Palma di Montechiaro
+92014;Porto Empedocle
+92020;Racalmuto
+92015;Raffadali
+92029;Ravanusa
+92010;Realmonte
+92016;Ribera
+92017;Sambuca di Sicilia
+92020;San Biagio Platani
+92020;San Giovanni Gemini
+92020;Santa Elisabetta
+92018;Santa Margherita di Belice
+92020;Sant'Angelo Muxaro
+92020;Santo Stefano Quisquina
+92019;Sciacca
+92010;Siculiana
+92020;Villafranca Sicula
+93010;Acquaviva Platani
+93010;Bompensiere
+93011;Butera
+93100;Caltanissetta
+93010;Campofranco
+93010;Delia
+93012;Gela
+93010;Marianopoli
+93013;Mazzarino
+93010;Milena
+93010;Montedoro
+93014;Mussomeli
+93015;Niscemi
+93010;Resuttano
+93016;Riesi
+93017;San Cataldo
+93018;Santa Caterina Villarmosa
+93010;Serradifalco
+93019;Sommatino
+93010;Sutera
+93010;Vallelunga Pratameno
+93010;Villalba
+94011;Agira
+94010;Aidone
+94010;Assoro
+94012;Barrafranca
+94010;Calascibetta
+94010;Catenanuova
+94010;Centuripe
+94010;Cerami
+94100;Enna
+94010;Gagliano Castelferrato
+94013;Leonforte
+94014;Nicosia
+94010;Nissoria
+94015;Piazza Armerina
+94016;Pietraperzia
+94017;Regalbuto
+94010;Sperlinga
+94018;Troina
+94019;Valguarnera Caropepe
+94010;Villarosa
+95020;Aci Bonaccorsi
+95021;Aci Castello
+95022;Aci Catena
+95024;Acireale
+95025;Aci Sant'Antonio
+95031;Adrano
+95032;Belpasso
+95033;Biancavilla
+95034;Bronte
+95011;Calatabiano
+95041;Caltagirone
+95040;Camporotondo Etneo
+95040;Castel di Iudica
+95012;Castiglione di Sicilia
+95121;Catania
+95122;Catania
+95123;Catania
+95124;Catania
+95125;Catania
+95126;Catania
+95127;Catania
+95128;Catania
+95129;Catania
+95131;Catania
+95013;Fiumefreddo di Sicilia
+95014;Giarre
+95042;Grammichele
+95030;Gravina di Catania
+95040;Licodia Eubea
+95015;Linguaglossa
+95035;Maletto
+95016;Mascali
+95030;Mascalucia
+95043;Militello in Val di Catania
+95010;Milo
+95044;Mineo
+95040;Mirabella Imbaccari
+95045;Misterbianco
+95040;Motta Sant'Anastasia
+95030;Nicolosi
+95046;Palagonia
+95047;Paternò
+95030;Pedara
+95017;Piedimonte Etneo
+95040;Raddusa
+95040;Ramacca
+95036;Randazzo
+95018;Riposto
+95040;San Cono
+95037;San Giovanni la Punta
+95027;San Gregorio di Catania
+95040;San Michele di Ganzaria
+95030;San Pietro Clarenza
+95030;Sant'Agata li Battiati
+95010;Sant'Alfio
+95038;Santa Maria di Licodia
+95010;Santa Venerina
+95048;Scordia
+95039;Trecastagni
+95030;Tremestieri Etneo
+95028;Valverde
+95029;Viagrande
+95049;Vizzini
+95019;Zafferana Etnea
+95040;Mazzarrone
+95030;Maniace
+95030;Ragalna
+97011;Acate
+97012;Chiaramonte Gulfi
+97013;Comiso
+97010;Giarratana
+97014;Ispica
+97015;Modica
+97010;Monterosso Almo
+97016;Pozzallo
+97100;Ragusa
+97017;Santa Croce Camerina
+97018;Scicli
+97019;Vittoria
+96011;Augusta
+96012;Avola
+96010;Buccheri
+96010;Buscemi
+96010;Canicattini Bagni
+96013;Carlentini
+96010;Cassaro
+96010;Ferla
+96014;Floridia
+96015;Francofonte
+96016;Lentini
+96010;Melilli
+96017;Noto
+96018;Pachino
+96010;Palazzolo Acreide
+96019;Rosolini
+96100;Siracusa
+96010;Solarino
+96010;Sortino
+96010;Portopalo di Capo Passero
+96010;Priolo Gargallo
+07020;Aggius
+07020;Alà dei Sardi
+07041;Alghero
+07010;Anela
+07010;Ardara
+07021;Arzachena
+07040;Banari
+07010;Benetutti
+07022;Berchidda
+07040;Bessude
+07043;Bonnanaro
+07011;Bono
+07012;Bonorva
+07030;Bortigiadas
+07040;Borutta
+07010;Bottidda
+07020;Buddusò
+07010;Bultei
+07030;Bulzi
+07010;Burgos
+07023;Calangianus
+07030;Cargeghe
+07031;Castelsardo
+07040;Cheremule
+07030;Chiaramonti
+07040;Codrongianos
+07010;Cossoine
+07010;Esporlatu
+07030;Florinas
+07010;Giave
+07010;Illorai
+07010;Ittireddu
+07044;Ittiri
+07030;Laerru
+07024;La Maddalena
+07020;Luogosanto
+07025;Luras
+07010;Mara
+07030;Martis
+07010;Monteleone Rocca Doria
+07020;Monti
+07013;Mores
+07030;Muros
+07010;Nughedu San Nicolò
+07010;Nule
+07032;Nulvi
+07026;Olbia
+07040;Olmedo
+07027;Oschiri
+07033;Osilo
+07045;Ossi
+07014;Ozieri
+07015;Padria
+07020;Palau
+07016;Pattada
+07034;Perfugas
+07017;Ploaghe
+07046;Porto Torres
+07018;Pozzomaggiore
+07040;Putifigari
+07010;Romana
+07020;Aglientu
+07028;Santa Teresa Gallura
+07100;Sassari
+07035;Sedini
+07010;Semestene
+07036;Sennori
+07040;Siligo
+07037;Sorso
+07029;Tempio Pausania
+07047;Thiesi
+07040;Tissi
+07048;Torralba
+07038;Trinità d'Agultu e Vignola
+07010;Tula
+07040;Uri
+07049;Usini
+07019;Villanova Monteleone
+07039;Valledoria
+07020;Telti
+07030;Badesi
+07030;Viddalba
+07020;Golfo Aranci
+07020;Loiri Porto San Paolo
+07030;Sant'Antonio di Gallura
+07030;Tergu
+07030;Santa Maria Coghinas
+07030;Erula
+07040;Stintino
+07020;Padru
+07051;Budoni
+07052;San Teodoro
+08031;Aritzo
+08040;Arzana
+08030;Atzara
+08030;Austis
+08042;Bari Sardo
+08040;Baunei
+08030;Belvì
+08010;Birori
+08021;Bitti
+08011;Bolotana
+08016;Borore
+08012;Bortigali
+08032;Desulo
+08022;Dorgali
+08010;Dualchi
+08040;Elini
+08023;Fonni
+08030;Gadoni
+08040;Gairo
+08020;Galtellì
+08020;Gavoi
+08040;Girasole
+08040;Ilbono
+08020;Irgoli
+08044;Jerzu
+08045;Lanusei
+08010;Lei
+08040;Loceri
+08020;Loculi
+08020;Lodè
+08040;Lotzorai
+08020;Lula
+08015;Macomer
+08024;Mamoiada
+08030;Meana Sardo
+08010;Noragugume
+08100;Nuoro
+08025;Oliena
+08020;Ollolai
+08020;Olzai
+08020;Onanì
+08020;Onifai
+08020;Oniferi
+08026;Orani
+08027;Orgosolo
+08028;Orosei
+08020;Orotelli
+08036;Ortueri
+08020;Orune
+08020;Osidda
+08040;Osini
+08020;Ottana
+08020;Ovodda
+08046;Perdasdefogu
+08020;Posada
+08020;Sarule
+08017;Silanus
+08018;Sindia
+08029;Siniscola
+08038;Sorgono
+08040;Talana
+08047;Tertenia
+08030;Teti
+08020;Tiana
+08039;Tonara
+08020;Torpè
+08048;Tortolì
+08040;Triei
+08040;Ulassai
+08040;Urzulei
+08040;Ussassai
+08049;Villagrande Strisaili
+08040;Cardedu
+08020;Lodine
+09032;Assemini
+09121;Cagliari
+09122;Cagliari
+09123;Cagliari
+09124;Cagliari
+09125;Cagliari
+09126;Cagliari
+09127;Cagliari
+09128;Cagliari
+09129;Cagliari
+09131;Cagliari
+09134;Cagliari
+09012;Capoterra
+09033;Decimomannu
+09069;Maracalagonis
+09050;Pula
+09045;Quartu Sant'Elena
+09018;Sarroch
+09047;Selargius
+09028;Sestu
+09060;Settimo San Pietro
+09048;Sinnai
+09068;Uta
+09050;Villa San Pietro
+09044;Quartucciu
+09067;Elmas
+09042;Monserrato
+33080;Andreis
+33090;Arba
+33081;Aviano
+33082;Azzano Decimo
+33080;Barcis
+33070;Brugnera
+33070;Budoia
+33070;Caneva
+33072;Casarsa della Delizia
+33090;Castelnovo del Friuli
+33092;Cavasso Nuovo
+33083;Chions
+33080;Cimolais
+33080;Claut
+33090;Clauzetto
+33084;Cordenons
+33075;Cordovado
+33080;Erto e Casso
+33092;Fanna
+33080;Fiume Veneto
+33074;Fontanafredda
+33080;Frisanco
+33085;Maniago
+33092;Meduno
+33086;Montereale Valcellina
+33075;Morsano al Tagliamento
+33087;Pasiano di Pordenone
+33094;Pinzano al Tagliamento
+33070;Polcenigo
+33080;Porcia
+33170;Pordenone
+33080;Prata di Pordenone
+33076;Pravisdomini
+33080;Roveredo in Piano
+33077;Sacile
+33095;San Giorgio della Richinvelda
+33098;San Martino al Tagliamento
+33080;San Quirino
+33078;San Vito al Tagliamento
+33090;Sequals
+33079;Sesto al Reghena
+33097;Spilimbergo
+33090;Tramonti di Sopra
+33090;Tramonti di Sotto
+33090;Travesio
+33090;Vito d'Asio
+33099;Vivaro
+33080;Zoppola
+33080;Vajont
+33098;Valvasone Arzene
+86080;Acquaviva d'Isernia
+86081;Agnone
+86091;Bagnoli del Trigno
+86080;Belmonte del Sannio
+86092;Cantalupo nel Sannio
+86082;Capracotta
+86083;Carovilli
+86093;Carpinone
+86080;Castel del Giudice
+86090;Castelpetroso
+86090;Castelpizzuto
+86071;Castel San Vincenzo
+86080;Castelverrino
+86072;Cerro al Volturno
+86097;Chiauci
+86094;Civitanova del Sannio
+86073;Colli a Volturno
+86070;Conca Casale
+86074;Filignano
+86084;Forlì del Sannio
+86070;Fornelli
+86095;Frosolone
+86170;Isernia
+86090;Longano
+86070;Macchia d'Isernia
+86096;Macchiagodena
+86080;Miranda
+86070;Montaquila
+86080;Montenero Val Cocchiara
+86075;Monteroduni
+86090;Pesche
+86097;Pescolanciano
+86080;Pescopennataro
+86090;Pettoranello del Molise
+86085;Pietrabbondante
+86071;Pizzone
+86086;Poggio Sannita
+86077;Pozzilli
+86087;Rionero Sannitico
+86092;Roccamandolfi
+86080;Roccasicura
+86070;Rocchetta a Volturno
+86088;San Pietro Avellana
+86070;Sant'Agapito
+86096;Santa Maria del Molise
+86080;Sant'Angelo del Pesco
+86095;Sant'Elena Sannita
+86070;Scapoli
+86097;Sessano del Molise
+86078;Sesto Campano
+86089;Vastogirardi
+86079;Venafro
+09071;Abbasanta
+09070;Aidomaggiore
+09090;Albagiara
+09091;Ales
+09080;Allai
+09092;Arborea
+09081;Ardauli
+09080;Assolo
+09080;Asuni
+09090;Baradili
+09070;Baratili San Pietro
+09090;Baressa
+09070;Bauladu
+09080;Bidonì
+09070;Bonarcado
+09080;Boroneddu
+09082;Busachi
+09072;Cabras
+09073;Cuglieri
+09083;Fordongianus
+09074;Ghilarza
+09090;Gonnoscodina
+09090;Gonnosnò
+09093;Gonnostramatza
+09094;Marrubiu
+09090;Masullas
+09070;Milis
+09080;Mogorella
+09095;Mogoro
+09090;Morgongiori
+09070;Narbolia
+09080;Neoneli
+09070;Norbello
+09080;Nughedu Santa Vittoria
+09070;Nurachi
+09080;Nureci
+09088;Ollastra
+09170;Oristano
+09090;Palmas Arborea
+09090;Pau
+09070;Paulilatino
+09093;Pompu
+09070;Riola Sardo
+09085;Ruinas
+09086;Samugheo
+09097;San Nicolò d'Arcidano
+09096;Santa Giusta
+09080;Villa Sant'Antonio
+09075;Santu Lussurgiu
+09070;San Vero Milis
+09078;Scano di Montiferro
+09076;Sedilo
+09070;Seneghe
+09080;Senis
+09078;Sennariolo
+09070;Siamaggiore
+09080;Siamanna
+09090;Simala
+09088;Simaxis
+09090;Sini
+09090;Siris
+09077;Solarussa
+09080;Sorradile
+09080;Tadasuni
+09098;Terralba
+09070;Tramatza
+09079;Tresnuraghes
+09080;Ulà Tirso
+09099;Uras
+09090;Usellus
+09084;Villanova Truschedu
+09080;Villaurbana
+09090;Villa Verde
+09070;Zeddiani
+09070;Zerfaliu
+09080;Siapiccia
+09090;Curcuris
+09080;Soddì
+09089;Bosa
+09090;Flussio
+09090;Laconi
+09090;Magomadas
+09090;Modolo
+09090;Montresta
+09090;Sagama
+09090;Suni
+09090;Tinnura
+13861;Ailoche
+13811;Andorno Micca
+13871;Benna
+13900;Biella
+13841;Bioglio
+13872;Borriana
+13862;Brusnengo
+13821;Callabiana
+13821;Camandona
+13891;Camburzano
+13878;Candelo
+13864;Caprile
+13866;Casapinta
+13851;Castelletto Cervo
+13881;Cavaglià
+13882;Cerrione
+13863;Coggiola
+13836;Cossato
+13864;Crevacuore
+13865;Curino
+13893;Donato
+13881;Dorzano
+13894;Gaglianico
+13874;Gifflenga
+13895;Graglia
+13887;Magnano
+13873;Massazza
+13866;Masserano
+13831;Mezzana Mortigliengo
+13816;Miagliano
+13888;Mongrando
+13874;Mottalciata
+13895;Muzzano
+13896;Netro
+13897;Occhieppo Inferiore
+13898;Occhieppo Superiore
+13843;Pettinengo
+13844;Piatto
+13812;Piedicavallo
+13814;Pollone
+13875;Ponderano
+13833;Portula
+13899;Pralungo
+13867;Pray
+13845;Ronco Biellese
+13883;Roppolo
+13815;Rosazza
+13816;Sagliano Micca
+13884;Sala Biellese
+13885;Salussola
+13876;Sandigliano
+13817;Sordevolo
+13868;Sostegno
+13823;Strona
+13811;Tavigliano
+13844;Ternengo
+13818;Tollegno
+13884;Torrazzo
+13855;Valdengo
+13847;Vallanzengo
+13847;Valle San Nicolao
+13824;Veglio
+13871;Verrone
+13856;Vigliano Biellese
+13868;Villa del Bosco
+13877;Villanova Biellese
+13886;Viverone
+13887;Zimone
+13888;Zubiena
+13848;Zumaglia
+13853;Lessona
+13812;Campiglia Cervo
+13854;Quaregna Cerreto
+13835;Valdilana
+23821;Abbadia Lariana
+23881;Airuno
+23841;Annone di Brianza
+23811;Ballabio
+23890;Barzago
+23891;Barzanò
+23816;Barzio
+23822;Bellano
+23842;Bosisio Parini
+23883;Brivio
+23892;Bulciago
+23885;Calco
+23801;Calolziocorte
+23802;Carenno
+23831;Casargo
+23880;Casatenovo
+23893;Cassago Brianza
+23817;Cassina Valsassina
+23884;Castello di Brianza
+23870;Cernusco Lombardone
+23861;Cesana Brianza
+23862;Civate
+23823;Colico
+23886;Colle Brianza
+23813;Cortenova
+23845;Costa Masnaga
+23832;Crandola Valsassina
+23894;Cremella
+23814;Cremeno
+23824;Dervio
+23843;Dolzago
+23824;Dorio
+23848;Ello
+23805;Erve
+23825;Esino Lario
+23851;Galbiate
+23846;Garbagnate Monastero
+23852;Garlate
+23898;Imbersago
+23815;Introbio
+23900;Lecco
+23827;Lierna
+23871;Lomagna
+23864;Malgrate
+23826;Mandello del Lario
+23832;Margno
+23807;Merate
+23873;Missaglia
+23817;Moggio
+23847;Molteno
+23804;Monte Marenzo
+23874;Montevecchia
+23876;Monticello Brianza
+23811;Morterone
+23895;Nibionno
+23848;Oggiono
+23887;Olgiate Molgora
+23854;Olginate
+23865;Oliveto Lario
+23875;Osnago
+23877;Paderno d'Adda
+23833;Pagnona
+23837;Parlasco
+23818;Pasturo
+23828;Perledo
+23855;Pescate
+23834;Premana
+23819;Primaluna
+23899;Robbiate
+23849;Rogeno
+23889;Santa Maria Hoè
+23844;Sirone
+23896;Sirtori
+23835;Sueglio
+23867;Suello
+23837;Taceno
+23857;Valgreghentino
+23868;Valmadrera
+23829;Varenna
+23808;Vercurago
+23897;Viganò
+23879;Verderio
+23888;La Valletta Brianza
+23836;Valvarrone
+26834;Abbadia Cerreto
+26821;Bertonico
+26811;Boffalora d'Adda
+26812;Borghetto Lodigiano
+26851;Borgo San Giovanni
+26822;Brembio
+26852;Casaletto Lodigiano
+26831;Casalmaiocco
+26841;Casalpusterlengo
+26842;Caselle Landi
+26853;Caselle Lurani
+26843;Castelnuovo Bocca d'Adda
+26823;Castiglione d'Adda
+26866;Castiraga Vidardo
+26824;Cavenago d'Adda
+26832;Cervignano d'Adda
+26845;Codogno
+26833;Comazzo
+26854;Cornegliano Laudense
+26846;Corno Giovine
+26842;Cornovecchio
+26834;Corte Palasio
+26835;Crespiatica
+26861;Fombio
+26832;Galgagnano
+26813;Graffignana
+26862;Guardamiglio
+26814;Livraga
+26900;Lodi
+26855;Lodi Vecchio
+26843;Maccastorna
+26825;Mairago
+26847;Maleo
+26866;Marudo
+26815;Massalengo
+26843;Meleti
+26833;Merlino
+26836;Montanaso Lombardo
+26837;Mulazzano
+26863;Orio Litta
+26864;Ospedaletto Lodigiano
+26816;Ossago Lodigiano
+26854;Pieve Fissiraga
+26857;Salerano sul Lambro
+26848;San Fiorano
+26817;San Martino in Strada
+26865;San Rocco al Porto
+26866;Sant'Angelo Lodigiano
+26849;Santo Stefano Lodigiano
+26826;Secugnago
+26856;Senna Lodigiana
+26867;Somaglia
+26858;Sordio
+26838;Tavazzano con Villavesco
+26827;Terranova dei Passerini
+26828;Turano Lodigiano
+26859;Valera Fratta
+26818;Villanova del Sillaro
+26839;Zelo Buon Persico
+26844;Castelgerundo
+47814;Bellaria-Igea Marina
+47841;Cattolica
+47853;Coriano
+47855;Gemmano
+47843;Misano Adriatico
+47836;Mondaino
+47834;Montefiore Conca
+47837;Montegridolfo
+47833;Morciano di Romagna
+47838;Riccione
+47921;Rimini
+47922;Rimini
+47923;Rimini
+47924;Rimini
+47835;Saludecio
+47832;San Clemente
+47842;San Giovanni in Marignano
+47822;Santarcangelo di Romagna
+47826;Verucchio
+47861;Casteldelci
+47862;Maiolo
+47863;Novafeltria
+47864;Pennabilli
+47865;San Leo
+47866;Sant'Agata Feltria
+47867;Talamello
+47824;Poggio Torriana
+47854;Montescudo-Monte Colombo
+47868;Montecopiolo
+47869;Sassofeltrio
+59025;Cantagallo
+59015;Carmignano
+59013;Montemurlo
+59016;Poggio a Caiano
+59100;Prato
+59021;Vaiano
+59024;Vernio
+88824;Belvedere di Spinello
+88833;Caccuri
+88817;Carfizzi
+88822;Casabona
+88834;Castelsilano
+88833;Cerenzia
+88813;Cirò
+88811;Cirò Marina
+88836;Cotronei
+88900;Crotone
+88812;Crucoli
+88842;Cutro
+88841;Isola di Capo Rizzuto
+88814;Melissa
+88838;Mesoraca
+88818;Pallagorio
+88837;Petilia Policastro
+88835;Roccabernarda
+88821;Rocca di Neto
+88831;San Mauro Marchesato
+88817;San Nicola dell'Alto
+88832;Santa Severina
+88825;Savelli
+88831;Scandale
+88816;Strongoli
+88823;Umbriatico
+88819;Verzino
+89832;Acquaro
+89832;Arena
+89817;Briatico
+89822;Brognaturo
+89818;Capistrano
+89816;Cessaniti
+89832;Dasà
+89833;Dinami
+89862;Drapia
+89823;Fabrizia
+89814;Filadelfia
+89841;Filandari
+89843;Filogaso
+89815;Francavilla Angitola
+89851;Francica
+89831;Gerocarne
+89851;Ionadi
+89863;Joppolo
+89844;Limbadi
+89843;Maierato
+89852;Mileto
+89823;Mongiana
+89819;Monterosso Calabro
+89824;Nardodipace
+89844;Nicotera
+89861;Parghelia
+89812;Pizzo
+89834;Pizzoni
+89813;Polia
+89866;Ricadi
+89841;Rombiolo
+89842;San Calogero
+89851;San Costantino Calabro
+89853;San Gregorio d'Ippona
+89821;San Nicola da Crissa
+89843;Sant'Onofrio
+89822;Serra San Bruno
+89822;Simbario
+89831;Sorianello
+89831;Soriano Calabro
+89822;Spadola
+89864;Spilinga
+89843;Stefanaconi
+89861;Tropea
+89821;Vallelonga
+89834;Vazzano
+89900;Vibo Valentia
+89867;Zaccanopoli
+89868;Zambrone
+89867;Zungri
+28841;Antrona Schieranco
+28877;Anzola d'Ossola
+28811;Arizzano
+28899;Arola
+28812;Aurano
+28861;Baceno
+28871;Bannio Anzino
+28831;Baveno
+28813;Bee
+28832;Belgirate
+28851;Beura-Cardezza
+28842;Bognanco
+28833;Brovello-Carpugnino
+28873;Calasca-Castiglione
+28814;Cambiasca
+28821;Cannero Riviera
+28822;Cannobio
+28815;Caprezzo
+28881;Casale Corte Cerro
+28875;Ceppo Morelli
+28891;Cesara
+28801;Cossogno
+28852;Craveggia
+28865;Crevoladossola
+28862;Crodo
+28845;Domodossola
+28853;Druogno
+28863;Formazza
+28887;Germagno
+28823;Ghiffa
+28836;Gignese
+28883;Gravellona Toce
+28828;Gurro
+28816;Intragna
+28893;Loreglia
+28876;Macugnaga
+28894;Madonna del Sasso
+28854;Malesco
+28855;Masera
+28895;Massiola
+28802;Mergozzo
+28817;Miazzina
+28864;Montecrestese
+28843;Montescheno
+28891;Nonio
+28824;Oggebbio
+28887;Omegna
+28877;Ornavasso
+28884;Pallanzeno
+28885;Piedimulera
+28886;Pieve Vergonte
+28818;Premeno
+28866;Premia
+28803;Premosello-Chiovenda
+28898;Quarna Sopra
+28896;Quarna Sotto
+28856;Re
+28804;San Bernardino Verbano
+28857;Santa Maria Maggiore
+28838;Stresa
+28858;Toceno
+28826;Trarego Viggiona
+28868;Trasquera
+28859;Trontano
+28897;Valstrona
+28879;Vanzone con San Carlo
+28868;Varzo
+28921;Verbania
+28922;Verbania
+28923;Verbania
+28924;Verbania
+28925;Verbania
+28819;Vignone
+28844;Villadossola
+28856;Villette
+28805;Vogogna
+28846;Borgomezzavalle
+28827;Valle Cannobina
+20864;Agrate Brianza
+20886;Aicurzio
+20847;Albiate
+20862;Arcore
+20825;Barlassina
+20882;Bellusco
+20881;Bernareggio
+20842;Besana in Brianza
+20853;Biassono
+20813;Bovisio-Masciago
+20836;Briosco
+20861;Brugherio
+20875;Burago di Molgora
+20857;Camparada
+20841;Carate Brianza
+20866;Carnate
+20873;Cavenago di Brianza
+20816;Ceriano Laghetto
+20811;Cesano Maderno
+20815;Cogliate
+20863;Concorezzo
+20856;Correzzana
+20832;Desio
+20833;Giussano
+20824;Lazzate
+20855;Lesmo
+20812;Limbiate
+20851;Lissone
+20846;Macherio
+20821;Meda
+20883;Mezzago
+20826;Misinto
+20900;Monza
+20835;Muggiò
+20834;Nova Milanese
+20876;Ornago
+20838;Renate
+20885;Ronco Briantino
+20831;Seregno
+20822;Seveso
+20845;Sovico
+20884;Sulbiate
+20844;Triuggio
+20865;Usmate Velate
+20814;Varedo
+20854;Vedano al Lambro
+20837;Veduggio con Colzano
+20843;Verano Brianza
+20852;Villasanta
+20871;Vimercate
+20874;Busnago
+20867;Caponago
+20872;Cornate d'Adda
+20823;Lentate sul Seveso
+20877;Roncello
+63824;Altidona
+63857;Amandola
+63838;Belmonte Piceno
+63828;Campofilone
+63837;Falerone
+63900;Fermo
+63816;Francavilla d'Ete
+63844;Grottazzolina
+63823;Lapedona
+63832;Magliano di Tenna
+63834;Massa Fermana
+63842;Monsampietro Morico
+63835;Montappone
+63855;Montefalcone Appennino
+63858;Montefortino
+63846;Monte Giberto
+63833;Montegiorgio
+63812;Montegranaro
+63841;Monteleone di Fermo
+63853;Montelparo
+63852;Monte Rinaldo
+63825;Monterubbiano
+63815;Monte San Pietrangeli
+63813;Monte Urano
+63847;Monte Vidon Combatte
+63836;Monte Vidon Corrado
+63843;Montottone
+63826;Moresco
+63851;Ortezzano
+63827;Pedaso
+63848;Petritoli
+63845;Ponzano di Fermo
+63822;Porto San Giorgio
+63821;Porto Sant'Elpidio
+63831;Rapagnano
+63854;Santa Vittoria in Matenano
+63811;Sant'Elpidio a Mare
+63839;Servigliano
+63856;Smerillo
+63814;Torre San Patrizio
+76123;Andria
+76121;Barletta
+76011;Bisceglie
+76012;Canosa di Puglia
+76016;Margherita di Savoia
+76013;Minervino Murge
+76017;San Ferdinando di Puglia
+76014;Spinazzola
+76125;Trani
+76015;Trinitapoli
+09031;Arbus
+09040;Armungia
+09040;Ballao
+09040;Barrali
+09021;Barumini
+09010;Buggerru
+09040;Burcei
+09011;Calasetta
+09013;Carbonia
+09014;Carloforte
+09040;Castiadas
+09020;Collinas
+09010;Decimoputzu
+09041;Dolianova
+09010;Domus de Maria
+09015;Domusnovas
+09040;Donori
+09051;Escalaplano
+09052;Escolca
+09053;Esterzili
+09010;Fluminimaggiore
+09040;Furtei
+09054;Genoni
+09020;Genuri
+09055;Gergei
+09040;Gesico
+09020;Gesturi
+09010;Giba
+09040;Goni
+09010;Gonnesa
+09035;Gonnosfanadiga
+09040;Guamaggiore
+09040;Guasila
+09036;Guspini
+09016;Iglesias
+09056;Isili
+09020;Las Plassas
+09022;Lunamatrona
+09040;Mandas
+09010;Masainas
+09023;Monastir
+09043;Muravera
+09010;Musei
+09010;Narcao
+09057;Nuragus
+09058;Nurallao
+09024;Nuraminis
+09059;Nurri
+09010;Nuxis
+09061;Orroli
+09040;Ortacesus
+09030;Pabillonis
+09020;Pauli Arbarei
+09010;Perdaxius
+09020;Pimentel
+09010;Piscinas
+09010;Portoscuso
+09062;Sadali
+09030;Samassi
+09020;Samatzai
+09040;San Basilio
+09037;San Gavino Monreale
+09010;San Giovanni Suergiu
+09040;San Nicolò Gerrei
+09026;San Sperate
+09040;San Vito
+09025;Sanluri
+09010;Santadi
+09040;Sant'Andrea Frius
+09010;Sant'Anna Arresi
+09017;Sant'Antioco
+09030;Sardara
+09040;Segariu
+09040;Selegas
+09040;Senorbì
+09040;Serdiana
+09038;Serramanna
+09027;Serrenti
+09063;Serri
+09029;Setzu
+09064;Seui
+09065;Seulo
+09020;Siddi
+09010;Siliqua
+09040;Silius
+09040;Siurgus Donigala
+09040;Soleminis
+09040;Suelli
+09019;Teulada
+09010;Tratalias
+09029;Tuili
+09020;Turri
+09020;Ussana
+09020;Ussaramanna
+09010;Vallermosa
+09039;Villacidro
+09020;Villamar
+09010;Villamassargia
+09066;Villanova Tulo
+09020;Villanovaforru
+09020;Villanovafranca
+09010;Villaperuccio
+09040;Villaputzu
+09040;Villasalto
+09049;Villasimius
+09034;Villasor
+09010;Villaspeciosa
