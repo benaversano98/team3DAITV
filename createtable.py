@@ -7,7 +7,8 @@ def crea_tabelle(connection):
     `movie_id` int PRIMARY KEY,
     `title` varchar(255) NOT NULL,
     `alternative_title` VARCHAR(255),
-    `year` INT
+    `year` INT,
+    `media_rating` FLOAT(3,2)
     );
     """
 
@@ -34,14 +35,13 @@ def crea_tabelle(connection):
     `gender` VARCHAR(10) CHECK (gender IN ('M','F','X')),
     `age` INT,
     `cap` VARCHAR(255),
-    `work` VARCHAR(255),
-    `city` VARCHAR(255)
+    `work` VARCHAR(255)
     );
     """
 
     create_cities = """
     CREATE TABLE IF NOT EXISTS `cities` (
-    `id_city` INT PRIMARY KEY
+    `id_city` INT PRIMARY KEY,
     `cap` VARCHAR(255),
     `city` VARCHAR(255)
     )
@@ -58,6 +58,7 @@ def crea_tabelle(connection):
     FOREIGN KEY (movie_id) REFERENCES movies(movie_id)
     );
     """
+
     alter_users = """
     ALTER TABLE users
     ADD COLUMN fasciaeta VARCHAR(20);
