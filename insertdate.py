@@ -10,7 +10,7 @@ def inserisci_dati(connection):
     pop_movies = f"""
     INSERT INTO `movies`
     VALUES
-    (%s, %s, %s, %s, NULL);
+    (%s, %s, %s, %s, 0);
     """
     executemany_query(connection, pop_movies, lista_movies)
     print("Fase 1")
@@ -89,8 +89,8 @@ def inserisci_dati(connection):
 
 
     query = """
-    INSERT INTO movies (`media_rating`)
-    VALUES 
-    (%s) WHERE movie_id = %s
+    UPDATE movies
+    SET media_rating = %S
+    WHERE movie_id = %s
     """
     executemany_query(connection, query, avg_ratings)
