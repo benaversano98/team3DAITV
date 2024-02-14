@@ -34,8 +34,17 @@ def crea_tabelle(connection):
     `gender` VARCHAR(10) CHECK (gender IN ('M','F','X')),
     `age` INT,
     `cap` VARCHAR(255),
-    `work` VARCHAR(255)
+    `work` VARCHAR(255),
+    `city` VARCHAR(255)
     );
+    """
+
+    create_cities = """
+    CREATE TABLE IF NOT EXISTS `cities` (
+    `id_city` INT PRIMARY KEY
+    `cap` VARCHAR(255),
+    `city` VARCHAR(255)
+    )
     """
 
     create_ratings = """
@@ -70,10 +79,24 @@ def crea_tabelle(connection):
     END;
     """
 
+    trigger_cities = """
+    CREATE TRIGGER up_city
+    BEFORE INSERT ON users
+    FOR EACH ROW
+    BEGIN
+        SET NEW.city = (SELECT city 
+        FROM cities 
+        JOIN users 
+        ON users.cap = cities.cap)
+    END;
+    """
+
     execute_query(connection, create_movies)
     execute_query(connection, create_genres)
     execute_query(connection, create_genres_movies)
     execute_query(connection, create_users)
+    execute_query(connection, create_cities)
     execute_query(connection, create_ratings)
+
     execute_query(connection, alter_users)
     execute_query(connection, trigger_fascaieta)
