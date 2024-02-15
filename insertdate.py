@@ -64,9 +64,11 @@ def inserisci_dati(connection):
     cap = {e[1]: e[2] for e in lista_cities if e[1]}
     city = []
     for e in lista_users:
-        city.append((cap[e[3]],))
-    query = "UPDATE users SET city = %s;"
+        city.append((cap[e[3]], e[3]))
+    query = "UPDATE users SET city = %s WHERE cap= %s;"
     executemany_query(connection, query, city)
+    # for e in city:
+    #     execute_query(connection, "UPDATE users SET city = %s WHERE cap= %s;", e)
 
     with open(r"csv\ratings.csv", encoding='utf-8', newline='') as input:
         lettore = csv.reader(input, delimiter=',')
