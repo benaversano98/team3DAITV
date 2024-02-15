@@ -51,8 +51,11 @@ def query5(connection):
     fasciaeta = read_query(connection, "SELECT DISTINCT fasciaeta FROM users")
     query = """
     SELECT movies.title, ROUND(CAST(AVG(ratings.rating) AS FLOAT), 2) as media_rating, users.fasciaeta
-    FROM movies JOIN ratings JOIN users
-    ON movies.movie_id=ratings.movie_id AND ratings.user_id=users.user_id
+    FROM movies 
+    JOIN ratings 
+    ON movies.movie_id=ratings.movie_id
+    JOIN users 
+    ON ratings.user_id=users.user_id
     WHERE users.fasciaeta = %s
     GROUP BY movies.movie_id
     ORDER BY AVG(ratings.rating);
