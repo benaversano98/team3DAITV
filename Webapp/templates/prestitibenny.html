@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fantasy Store - Prestiti</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.min.css"/>
+    <script>
+        $( ".selector" ).datepicker({dateFormat: "yy-mm-dd"});
+        var dateFormat = $( ".selector" ).datepicker( "option", "dateFormat" );
+        $( ".selector" ).datepicker( "option", "dateFormat", "yy-mm-dd" );
+    </script>
+    <script>
+        window.onload = (event) => {
+        const toastLiveExample = document.getElementById('liveToast');
+        const toast = new bootstrap.Toast(toastLiveExample);
+        toast.show();
+    };
+    </script>
+</head>
+<body>
+<!--
+NAVBAR
+-->
+<nav class="navbar navbar-expand-lg sticky-top bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-book"
+                 viewBox="0 0 16 16">
+                <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"/>
+            </svg>
+            Fantasy Store </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/loan">Prestiti</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div>
+    <!--
+    TITOLO E BOTTONI
+    -->
+    {% if flagtoast == True %}
+    <div class="toast-container position-absolute top-1 end-0">
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" id="liveToast">
+        <div class="toast-header">
+            <strong class="me-auto">NOTIFICA</strong>
+            {% if flagelimina == True %}
+            <small>Eliminazione di prestito</small>
+            {% elif flagaggiungi == True %}
+            <small>Aggiornamiento dei prestiti</small>
+            {% endif %}
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Cerrar"></button>
+        </div>
+        {% if flagelimina == True %}
+        <div class="toast-body">
+            {% if len(elimina) == 0 %}
+            Non sono state trovate corrispondenze per la rimozione. Controllare e riprovare.
+            {% else %}
+            Corrispondenza trovata. Rimozione effettuata
+            {% endif %}
+        </div>
+        {% elif flagaggiungi == True %}
+        <div class="toast-body">
+            {% if len(result) == 0 %}
+            Aggiornamento completato con successo
+            {% else %}
+            Corrispondenza trovata. Rimozione effettuata
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+    </div>
+    {% endif %}
+    <h1 class="display-3 p-2">Prestiti <span><div class="btn-group" role="group"
+                                                  aria-label="Basic mixed styles example">
+    <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#EliminaPrestito">Elimina prestito</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#AggiungiPrestito">Aggiungi prestito</button>
+</div></span></h1>
+    <div class="container-fluid mb-3">
+        <form class="d-flex" role="search" method="POST">
+            <input class="form-control me-2" type="search" placeholder="Ricerca nome o ID" aria-label="Search"
+                   name="Search">
+            <button class="btn btn-outline-success" type="submit">Cerca</button>
+        </form>
+    </div>
+    <!-- ELIMINA    -->
+
+    <div class="modal fade" id="EliminaPrestito" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="#EliminaPrestitoLabel">Elimina Prestito</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form role="search" method="POST">
+                        <div class="mb-3">
+                            <label for="id_utente_elimina" class="form-label" id="id_utente_elimina">ID
+                                Utente</label>
+                            <input type="text" class="form-control" placeholder="id utente" name="Eliminautente"
+                                   aria-label="id utente" aria-describedby="id_utente_elimina">
+                        </div>
+                        <div class="mb-3">
+                            <label for="id_book_elimina" class="form-label" id="id_book_elimina"> ID
+                                Book:</label>
+                            <input type="text" class="form-control" placeholder="id book" aria-label="id book"
+                                   aria-describedby="id_book_elimina" name="Eliminabook">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Chiude</button>
+                            <button class="btn btn-danger" type="submit">Elimina</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- AGGIUNGI    -->
+    <div class="modal fade" id="AggiungiPrestito" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="AggiungiPrestitoLabel">Aggiungi Prestito</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form role="search" method="POST">
+                        <div class="mb-3">
+                            <label for="id_utente_aggiungi" class="form-label" id="id_utente_aggiungi">ID
+                                Utente</label>
+                            <input type="text" class="form-control" placeholder="id utente" name="Aggiungiutente"
+                                   aria-label="id utente" aria-describedby="id_utente_aggiungi">
+                        </div>
+                        <div class="mb-3">
+                            <label for="id_book_aggiungi" class="form-label" id="id_book_aggiungi"> ID
+                                Book:</label>
+                            <input type="text" class="form-control" placeholder="id book" aria-label="id book"
+                                   aria-describedby="id_book_aggiungi" name="Aggiungibook">
+                        </div>
+                        <div class="mb-3">
+                            <label for="data_aggiungi" class="form-label" id="data_aggiungi">Data Prestito:</label>
+
+                            <input type="text" class="form-control" id="datepicker" name="Aggiungidata"
+                                   aria-label="data prestito" aria-describedby="data_aggiungi">
+                            Format options:
+                            <select id="format">
+                                <option value="mm/dd/yy">Default - mm/dd/yy</option>
+                                <option value="yy-mm-dd">ISO 8601 - yy-mm-dd</option>
+                            </select>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Chiude</button>
+                            <button class="btn btn-success" type="submit">Aggiorna</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--PRESTITI-->
+<div class="accordion" id="accordionExample">
+    {% for elem in list_loan %}
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="heading{{loop.index}}">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapse{{loop.index}}" aria-expanded="true"
+                    aria-controls="collapse{{loop.index}}">
+                <span><b> ID: </b> {{elem.user_id}}</span><span class="mx-3"><b> Nome: </b> {{elem.name}}</span>
+            </button>
+        </h2>
+        <div id="collapse{{loop.index}}" class="accordion-collapse collapse hide" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <ul>
+                    <li><b>Titoli presi in prestito:</b> {{elem.title}}</li>
+                    <li><b>ID Titoli presi in prestito:</b> {{elem.book_id}}</li>
+                    <li><b>Data del prestito:</b> {{elem.date_loan}}</li>
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+<script>
+    $(function(){
+        $("#datepicker").datepicker();
+        $("#format").on("change", function(){
+            $("#datepicker").datepicker("option", "dateFormat", $(this).val());
+        });
+    });
+</script>
+</body>
+</html>
+
+<!--
+<div class="container">
+        <div class="row">
+            <div class="col-sm-12" align="center">
+                <p>Date: <input type="text" id="datepicker" size="30" style="margin-right:15px;">
+                Format options:
+                <select id="format">
+                    <option value="mm/dd/yy">Default - mm/dd/yy</option>
+                    <option value="yy-mm-dd">ISO 8601 - yy-mm-dd</option>
+                    <option value="d M, y">Short - d M, y</option>
+                    <option value="d MM, y">Medium - d MM, y</option>
+                    <option value="DD, d MM, yy">Full - DD, d MM, yy</option>
+                    <option value="&apos;day&apos; d &apos;of&apos; MM &apos;in the year&apos; yy">With text - &apos;day&apos; d &apos;of&apos; MM &apos;in the year&apos; yy</option>
+                </select>
+                </p>
+            </div>
+        </div>
+    </div>
+-->
