@@ -48,10 +48,20 @@ def ex_query( query):
 
 @app.route("/", methods=['GET', 'POST'])
 def homepage():
-    flag = True
-    list_books = api_books()
+    image_carousel = {356: "https://take2.lancastersu.co.uk/wp-content/uploads/2020/09/forrest-gump.jpg",
+                      1214: "https://wallpapercave.com/wp/wp10328274.jpg",
+                      3623: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star"
+                            "/B3CDE4F04A841BD5CA81AF1B4637C233EF58A72EB3B85C2781B381F68EE1DAC1/scale?width=1200"
+                            "&aspectRatio=1.78&format=jpeg"}
+    q_carousel = "SELECT * FROM movies WHERE movie_id IN {}".format(tuple(image_carousel.keys()))
+    carousel = execute_query(q_carousel)
+    for elem in carousel:
+        elem.update({'src': image_carousel[elem["movie_id"]]})
 
-    return render_template("home.html")
+    
+
+
+    return render_template("Home_daitv.html", carousel=carousel)
 
 
 @app.route("/api/movies")
