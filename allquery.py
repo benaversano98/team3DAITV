@@ -1,11 +1,11 @@
 from createdb import *
+import csv
 
 
 def query1(connection):
     query1 = "SELECT year, COUNT(*) as numero_film FROM `movies` GROUP BY year;"
     result = read_query(connection, query1)
-    # return result
-    print(result)
+    return result
 
 
 def query2(connection):
@@ -16,7 +16,7 @@ def query2(connection):
     GROUP BY genres.genre;
     """
     result = read_query(connection, query2)
-    print(result)
+    return result
 
 
 def query3(connection):
@@ -26,8 +26,9 @@ def query3(connection):
     id_movie = readmany_query(connection, query, id_movie)
     dati = []
     for e in id_movie:
-        if e[2] > 250:
-            dati.append(e)
+        if e[1] > 250:
+            dati.append(e[0])
+    return dati
 
 
 def query4(connection):
@@ -35,16 +36,18 @@ def query4(connection):
     sesso = read_query(connection, "SELECT DISTINCT gender FROM users")
     dati = [(e[0],f[0]) for f in sesso for e in fasciaeta]
     query = """
-    SELECT users.fasciaeta, users.gender, movies.title, COUNT(ratings.user_id) as numero_visualizzazioni
+    SELECT users.fasciaeta, users.gender, movies.title, ROUND(AVG(ratings.rating), 2) AS media
     FROM movies JOIN ratings JOIN users
     ON movies.movie_id=ratings.movie_id AND ratings.user_id=users.user_id
     WHERE users.fasciaeta = %s AND users.gender= %s 
     GROUP BY movies.movie_id
-    ORDER BY COUNT(ratings.user_id) DESC
+    HAVING COUNT(ratings.rating) > 10
+    ORDER BY AVG(ratings.rating) DESC
     LIMIT 10;
     """
-    result1 = readmany_query(connection, query, dati)
-    print(result1)
+    result = readmany_query(connection, query, dati)
+    return result
+
 
 
 def query5(connection):
@@ -58,10 +61,12 @@ def query5(connection):
     ON ratings.user_id=users.user_id
     WHERE users.fasciaeta = %s
     GROUP BY movies.movie_id
+    HAVING COUNT(ratings.rating) > 10
     ORDER BY AVG(ratings.rating);
     """
-    result1 = readmany_query(connection, query, fasciaeta)
-    print(result1)
+    result = readmany_query(connection, query, fasciaeta)
+    return result
+
 
 def query6(connection):
     query = """
@@ -71,3 +76,58 @@ def query6(connection):
     LIMIT 20;
     """
     result = read_query(connection, query)
+    return result
+
+def query7(connection):
+    query = """
+    SELECT work, COUNT(work)
+    FROM users
+    GROUP BY work;
+    """
+    result = read_query(connection, query)
+    return result
+
+if __name__ == '__main__':
+    connection = create_db_connection("localhost", "root", "", "streaming")
+    dati = query1(connection)
+    with open(r"dati_query\movies_anno.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Anno", "Numero film"])
+        for e in dati:
+            scrittore.writerow([e for e in e])
+    dati = query2(connection)
+    with open(r"dati_query\movies_genere.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Genere", "Numero film"])
+        for e in dati:
+            scrittore.writerow([e for e in e])
+    dati = query3(connection)
+    with open(r"dati_query\film_delete.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Id_film"])
+        for e in dati:
+            scrittore.writerow([e])
+    dati = query4(connection)
+    with open(r"dati_query\film_preferiti_fasciaeta.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Fascia età", "Genere", "Titolo film", "Media voti"])
+        for e in dati:
+            scrittore.writerow(e)
+    dati = query5(connection)
+    with open(r"dati_query\rating_film_fasciaeta.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Titolo", "Media voti", "Fascia età"])
+        for e in dati:
+            scrittore.writerow(e)
+    dati = query6(connection)
+    with open(r"dati_query\abbonati_provincia.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Provincia", "Numero abbonati"])
+        for e in dati:
+            scrittore.writerow(e)
+    dati = query7(connection)
+    with open(r"dati_query\abbonati_lavoro.csv", "w", encoding='utf-8', newline='') as output:
+        scrittore = csv.writer(output, delimiter=";")
+        scrittore.writerow(["Provincia", "Numero abbonati"])
+        for e in dati:
+            scrittore.writerow(e)
