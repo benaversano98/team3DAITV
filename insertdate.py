@@ -48,7 +48,7 @@ def inserisci_dati(connection):
         executemany_query(connection, pop_users, lista_users)
     print("Fase 4")
 
-    with open(r"csv\id_cap_provincia2.csv", encoding='utf-8', newline='') as input:
+    with open(r"csv\id_cap_provincia.csv", encoding='utf-8', newline='') as input:
         lettore = csv.reader(input, delimiter=';')
         next(lettore)
         lista_cities = list(lettore)
