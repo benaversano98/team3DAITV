@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\csv\.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\csv\genres.csv">
           <value>
             <Attribute>
@@ -18,13 +11,6 @@
           </value>
         </entry>
         <entry key="\csv\id_cap_provincia.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\csv\id_cap_provincia2.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />

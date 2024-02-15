@@ -55,7 +55,7 @@ def inserisci_dati(connection):
         pop_cities = f"""
               INSERT INTO `cities`
               VALUES
-              (%s,%s, %s);
+              (%s, %s, %s);
               """
         executemany_query(connection, pop_cities, lista_cities)
     print("Fase 5")
@@ -67,7 +67,6 @@ def inserisci_dati(connection):
         city.append((cap[e[3]], e[3]))
     query = "UPDATE users SET city = %s WHERE cap= %s;"
     executemany_query(connection, query, city)
-
 
     with open(r"csv\ratings.csv", encoding='utf-8', newline='') as input:
         lettore = csv.reader(input, delimiter=',')
