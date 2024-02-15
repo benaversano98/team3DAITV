@@ -53,6 +53,8 @@ def ex_query(query):
 
 @app.route("/", methods=['GET', 'POST'])
 def homepage():
+
+    ### CAROUSEL ###
     image_carousel = {356: "https://take2.lancastersu.co.uk/wp-content/uploads/2020/09/forrest-gump.jpg",
                       1214: "https://wallpapercave.com/wp/wp10328274.jpg",
                       3623: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star"
@@ -72,7 +74,12 @@ def homepage():
         """
     rec_content = execute_query(query_rec_genre)
 
-    return render_template("Home_daitv.html", carousel=carousel, rec_content=rec_content, rec_genre=rec_genre[0])
+    rec_rating = execute_query("SELECT * FROM movies ORDER BY media_rating DESC LIMIT 4;")
+    rec_random = execute_query("SELECT * FROM movies ORDER BY RAND() LIMIT 4;")
+
+
+    return render_template("Home_daitv.html", carousel=carousel, rec_content=rec_content, rec_genre=rec_genre[0],
+                           rec_rating=rec_rating, rec_random=rec_random)
 
 
 @app.route("/api/movies")
