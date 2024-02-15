@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\csv\cap_zona.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\csv\genres.csv">
           <value>
             <Attribute>
@@ -24,14 +17,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\csv\movies_pulito.csv">
+        <entry key="\csv\id_cap_provincia2.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
-        <entry key="\csv\province.CSV">
+        <entry key="\csv\movies_pulito.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
