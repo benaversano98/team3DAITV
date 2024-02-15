@@ -59,3 +59,12 @@ def query5(connection):
     """
     result1 = readmany_query(connection, query, fasciaeta)
     print(result1)
+
+def query6(connection):
+    query = """
+    SELECT city, COUNT(city)
+    FROM users
+    GROUP BY city
+    LIMIT 20;
+    """
+    result = read_query(connection, query)
