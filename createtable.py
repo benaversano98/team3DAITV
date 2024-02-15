@@ -7,7 +7,8 @@ def crea_tabelle(connection):
     `movie_id` int PRIMARY KEY,
     `title` varchar(255) NOT NULL,
     `alternative_title` VARCHAR(255),
-    `year` INT
+    `year` INT,
+    `media_rating` FLOAT(3,2) DEFAULT 0
     );
     """
 
@@ -83,50 +84,14 @@ def crea_tabelle(connection):
     ADD COLUMN city CHAR(2)
     """
 
-    trigger_cities = """
-    CREATE TRIGGER up_city
-    BEFORE INSERT ON users
-    FOR EACH ROW
-    BEGIN
-        SELECT city AS city_name
-        FROM cities
-        WHERE cap = NEW.cap;
-        SET NEW.city = city_name;
-    END;
-    """
-
-    alter_movies = """
-    ALTER TABLE movies
-    ADD COLUMN media_rating FLOAT(3,2)
-    """
-
-    trigger_media_rating = """
-    CREATE TRIGGER media_valutazioni_add
-    AFTER INSERT ON ratings
-    FOR EACH ROW
-    BEGIN
-    UPDATE movies
-    SET media_rating = (
-        SELECT AVG(rating)
-        FROM ratings
-        WHERE movie_id = NEW.movie_id
-    )
-    WHERE movie_id = NEW.movie_id;
-    END;
-    """
-
     execute_query(connection, create_movies)
     execute_query(connection, create_genres)
     execute_query(connection, create_genres_movies)
     execute_query(connection, create_users)
     execute_query(connection, create_cities)
+    execute_query(connection, alter_cities)
     execute_query(connection, create_ratings)
 
     execute_query(connection, alter_users)
     execute_query(connection, trigger_fascaieta)
 
-    # execute_query(connection, alter_cities)
-    # execute_query(connection, trigger_cities)
-
-    # execute_query(connection, alter_movies)
-    # execute_query(connection, trigger_media_rating)
