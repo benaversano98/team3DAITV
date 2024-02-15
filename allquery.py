@@ -18,48 +18,44 @@ def query2(connection):
     result = read_query(connection, query2)
     print(result)
 
+
 def query3(connection):
-    query = "SELECT movie_id FROM movies WHERE media_rating < 3;"
+    query = "SELECT movie_id FROM movies WHERE media_rating < 3 AND media_rating > 0;"
     id_movie = read_query(connection, query)
-    
+    query = "SELECT movie_id, COUNT(ratings.user_id) FROM ratings WHERE movie_id=%s;"
+    id_movie = readmany_query(connection, query, id_movie)
+    dati = []
+    for e in id_movie:
+        if e[2] > 250:
+            dati.append(e)
+
 
 def query4(connection):
     fasciaeta = read_query(connection, "SELECT DISTINCT fasciaeta FROM users")
     sesso = read_query(connection, "SELECT DISTINCT gender FROM users")
+    dati = [(e[0],f[0]) for f in sesso for e in fasciaeta]
     query = """
-    SELECT users.fasciaeta, movies.title, movies.media_rating
+    SELECT users.fasciaeta, users.gender, movies.title, COUNT(ratings.user_id) as numero_visualizzazioni
     FROM movies JOIN ratings JOIN users
     ON movies.movie_id=ratings.movie_id AND ratings.user_id=users.user_id
-    WHERE users.fasciaeta = %s
+    WHERE users.fasciaeta = %s AND users.gender= %s 
     GROUP BY movies.movie_id
-    ORDER BY movies.media_rating DESC
+    ORDER BY COUNT(ratings.user_id) DESC
     LIMIT 10;
     """
-    result1 = readmany_query(connection, query, fasciaeta)
+    result1 = readmany_query(connection, query, dati)
     print(result1)
-    query = """
-        SELECT users.gender, movies.title, movies.media_rating
-        FROM movies JOIN ratings JOIN users
-        ON movies.movie_id=ratings.movie_id AND ratings.user_id=users.user_id
-        WHERE users.gender = %s
-        GROUP BY movies.movie_id
-        ORDER BY movies.media_rating DESC
-        LIMIT 10;
-        """
-    result2 = readmany_query(connection, query, sesso)
-    print(result2)
+
 
 def query5(connection):
     fasciaeta = read_query(connection, "SELECT DISTINCT fasciaeta FROM users")
     query = """
-       SELECT movies.title, movies.media_rating, users.gender
-       FROM movies JOIN ratings JOIN users
-       ON movies.movie_id=ratings.movie_id AND ratings.user_id=users.user_id
-       WHERE users.gender = %s
-       GROUP BY movies.movie_id
-       ORDER BY movies.media_rating;
-       """
+    SELECT movies.title, ROUND(CAST(AVG(ratings.rating) AS FLOAT), 2) as media_rating, users.fasciaeta
+    FROM movies JOIN ratings JOIN users
+    ON movies.movie_id=ratings.movie_id AND ratings.user_id=users.user_id
+    WHERE users.fasciaeta = %s
+    GROUP BY movies.movie_id
+    ORDER BY AVG(ratings.rating);
+    """
     result1 = readmany_query(connection, query, fasciaeta)
     print(result1)
-
-
