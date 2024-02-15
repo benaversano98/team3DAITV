@@ -1,5 +1,4 @@
 from sqlite3 import Error
-
 import mysql
 import mysql.connector
 from flask import Flask, jsonify, render_template, request
@@ -12,7 +11,7 @@ db_config = {
     'host': 'localhost',
     'user': 'root',
     'password': '',
-    'database': 'Libreria_Gruppo3'}
+    'database': 'streaming'}
 
 
 def create_db_connection():
@@ -51,84 +50,41 @@ def ex_query( query):
 def homepage():
     flag = True
     list_books = api_books()
-    modificato = False
-    rimosso = False
-    aggiunto = False
 
-    if request.method == 'POST':
-
-        "modifica utenti"
-        mod_id_utente = request.form.get('mod_id_utente')
-        new_nome_utente = request.form.get('new_nome_utente')
-        new_nascita_anno_utente = request.form.get('new_nascita_anno_utente')
-        new_nascita_mese_utente = request.form.get('new_nascita_mese_utente')
-        new_nascita_giorno_utente = request.form.get('new_nascita_giorno_utente')
-        if (mod_id_utente and isinstance(int(mod_id_utente), int)) and (
-                new_nome_utente and new_nascita_anno_utente and new_nascita_mese_utente and new_nascita_giorno_utente):
-            isValidDate = True  # check if date is valid
-            try:
-                datetime.datetime(int(new_nascita_anno_utente), int(new_nascita_mese_utente),
-                                  int(new_nascita_giorno_utente))
-            except ValueError:
-                isValidDate = False
-
-            if isinstance(new_nome_utente, str) and (
-                    1900 < int(new_nascita_anno_utente) < datetime.datetime.now().year) and isValidDate:
-                ex_query(
-                    f"UPDATE users SET name='{new_nome_utente}',date_of_birth='{new_nascita_anno_utente}-{new_nascita_mese_utente}-{new_nascita_giorno_utente}' WHERE id = {mod_id_utente}")
-                modificato = True
-
-        "rimuovi utente"
-        del_id_utente = request.form.get('del_id_utente')
-        if del_id_utente and isinstance(int(del_id_utente), int):
-            ex_query(f"DELETE FROM users WHERE id = {del_id_utente}")
-            rimosso = True
-
-        "aggiungi utenti"
-        nome_utente = request.form.get('nome_utente')
-        nascita_anno_utente = request.form.get('nascita_anno_utente')
-        nascita_mese_utente = request.form.get('nascita_mese_utente')
-        nascita_giorno_utente = request.form.get('nascita_giorno_utente')
-
-        if (nome_utente and nascita_anno_utente and nascita_mese_utente and nascita_giorno_utente):
-            isValidDate = True  # check if date is valid
-            try:
-                datetime.datetime(int(nascita_anno_utente), int(nascita_mese_utente), int(nascita_giorno_utente))
-            except ValueError:
-                isValidDate = False
-
-            if isinstance(nome_utente, str) and (
-                    1900 < int(nascita_anno_utente) < datetime.datetime.now().year) and isValidDate:
-                ex_query(
-                    f"INSERT INTO `users`(`name`, `date_of_birth`) VALUES ('{nome_utente}','{nascita_anno_utente}-{nascita_mese_utente}-{nascita_giorno_utente}')")
-                aggiunto = True
-    codice = request.form.get('Search')
-    if codice:
-        list_books = execute_query(
-            f"SELECT * FROM books WHERE title LIKE '%{codice}%' OR author LIKE '%{codice}%'")
-    image, frase = "https://img00.deviantart.net/9088/i/2007/223/7/d/no_books_by_applejoan.jpg", "Non ci sono libri a questa ricerca."
-    return render_template("home.html", image=image, frase=frase, list_books=list_books, len=len, flag=flag, modificato=modificato, aggiunto=aggiunto, rimosso=rimosso)
+    return render_template("home.html")
 
 
-@app.route("/api/books")
-def api_books():
-    query_lg = f'SELECT * FROM books'
-    list_books = execute_query(query_lg)
-    return list_books
+@app.route("/api/movies")
+def api_movies():
+    query_movies = """
+    SELECT title, alternative_title, year, media_rating, GROUP_CONCAT(genres.genre SEPARATOR ", ") AS genres 
+    FROM `movies` JOIN genres_movies JOIN genres ON movies.movie_id = genres_movies.movie_id AND 
+    genres_movies.genre_id = genres.genre_id GROUP BY movies.movie_id;
+    """
+    list_movies = execute_query(query_movies)
+    return list_movies
+
+
+@app.route("/api/genres")
+def api_genres():
+    query_genres = 'SELECT * FROM `genres`'
+
+    query_genres_genre = """
+    SELECT title, alternative_title, year, media_rating, GROUP_CONCAT(genres.genre SEPARATOR ", ") AS genres FROM `movies` 
+    JOIN genres_movies JOIN genres ON movies.movie_id = genres_movies.movie_id AND 
+    genres_movies.genre_id = genres.genre_id 
+    WHERE genres.genre LIKE "%comedy%" GROUP BY movies.movie_id;
+    """
+
+    list_genres = execute_query(query_genres)
+    return jsonify(list_genres)
 
 
 @app.route("/api/users")
 def api_users():
-    query_lg = 'SELECT * FROM users'
-    list_users = execute_query(query_lg)
+    query_users = 'SELECT * FROM `users`'
+    list_users = execute_query(query_users)
     return jsonify(list_users)
-
-
-@app.route("/api/loan")
-def api_loan():
-    query_lg = 'SELECT * FROM loan'
-    list_loan = execute_query(query_lg)
-    return jsonify(list_loan)
 
 
 @app.route("/loan",  methods=['GET', 'POST'])
