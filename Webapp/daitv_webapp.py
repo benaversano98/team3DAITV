@@ -122,16 +122,27 @@ def homepage():
 
 @app.route("/search/<term>")
 def search(term):
+    genre_count = (term, 0)
+    return redirect("/search/%s/%s" % genre_count)
+
+@app.route("/search/<string:term>/<int:num>", methods=['GET', 'POST'])
+def search_term_num(term, num):
+    limit = 20
+    offset = 0
+    counter = num
+    if request.method == 'POST':
+        search_term = request.form.get('term')
+        return redirect("/search/%s" % search_term)
     try:
         id_login = session.get("client_id")
         print(id_login)
     except:
         print("error")
-    query_movies = f"SELECT * FROM movies WHERE title LIKE '%{term}%' OR alternative_title LIKE '%{term}%' ORDER BY title"
+    query_movies = f"SELECT * FROM movies WHERE title LIKE '%{term}%' OR alternative_title LIKE '%{term}%' ORDER BY title LIMIT {limit} OFFSET {offset + (counter*limit)}"
     list_search = execute_query(query_movies)
     return render_template("Search.html", list_search=list_search, login=login)
 
-@app.route("/genres")
+@app.route("/genres", methods=['GET', 'POST'])
 def genres():
     list_genres = execute_query('SELECT genre FROM `genres`', dictionary=False)
     list_mov_genre = []
@@ -142,60 +153,82 @@ def genres():
                 WHERE genres.genre = "%s" ORDER BY RAND() LIMIT 4 ;""" % cod
         list_mov_genre.append(execute_query(query_movie_genre))
 
+    if request.method == 'POST':
+        search_term = request.form.get('term')
+        return redirect("/search/%s" % search_term)
+
     return render_template("Genres.html", list_genres=list_genres, list_mov_genre=list_mov_genre)
 
 
-@app.route("/genres/<genre>")
+@app.route("/genres/<genre>", methods=['GET', 'POST'])
 def genres_genre(genre):
+    genre_count = (genre, 0)
+
+    return redirect("/genres/%s/%s" % genre_count)
+
+
+@app.route("/genres/<string:genre>/<int:num>", methods=['GET', 'POST'])
+def genres_genre_num(genre, num):
+    limit = 20
+    offset = 0
+    counter = num
+
+    if request.method == 'POST':
+        search_term = request.form.get('term')
+        return redirect("/search/%s" % search_term)
+
     query_genre_genre = f"""SELECT title, alternative_title, year, media_rating FROM `movies`
-                    JOIN genres_movies JOIN genres ON movies.movie_id = genres_movies.movie_id AND
-                    genres_movies.genre_id = genres.genre_id
-                    WHERE genres.genre = "%s" ORDER BY RAND();""" % genre
+                        JOIN genres_movies JOIN genres ON movies.movie_id = genres_movies.movie_id AND
+                        genres_movies.genre_id = genres.genre_id
+                        WHERE genres.genre = "{genre}" ORDER BY movies.movie_id LIMIT {limit} OFFSET {offset + (counter*limit)};"""
+
     mov_genre_genre = execute_query(query_genre_genre)
-    return render_template("Genres_genre.html", list_mov_genre=mov_genre_genre, genre=genre)
 
 
-@app.route("/catalogue", methods=['GET'])
-def catalogue():
-    genres = execute_query('SELECT * FROM genres')
-    catalogue = {}
-
-    for genre in genres:
-        genre_name = genre['genre']
-        movies_query = f"""
-            SELECT title, alternative_title, year, media_rating
-            FROM movies
-            JOIN genres_movies JOIN genres
-            ON movies.movie_id = genres_movies.movie_id AND genres_movies.genre_id = genres.genre_id
-            WHERE genres.genre = %s;
-        """
-        movies = execute_query(movies_query, (genre_name,))
-        catalogue[genre_name] = movies
-
-    show_all = request.args.get('show_all')
-    sort_az = request.args.get('sort_az')
-    high_rating = request.args.get('high_rating')
-
-    filtered_movies = filter_movies(catalogue, show_all, sort_az, high_rating)
-    return render_template("catalogue.html", catalogue=filtered_movies)
+    return render_template("Genres_genre.html", list_mov_genre=mov_genre_genre, genre=genre, num=int(num))
 
 
-def filter_movies(catalogue, show_all, sort_list, high_rating):
-    filtered_movies = catalogue.copy()
-
-    if not show_all:
-        for genre, movies in filtered_movies.items():
-            filtered_movies[genre] = [movie for movie in movies if movie['media_rating'] > 4]
-
-    if sort_list:
-        for genre, movies in filtered_movies.items():
-            filtered_movies[genre] = sorted(movies, key=lambda x: x['title'])
-
-    if high_rating:
-        for genre, movies in filtered_movies.items():
-            filtered_movies[genre] = [movie for movie in movies if movie['media_rating'] > float(high_rating)]
-
-    return filtered_movies
+# @app.route("/catalogue", methods=['GET'])
+# def catalogue():
+#     genres = execute_query('SELECT * FROM genres')
+#     catalogue = {}
+#
+#     for genre in genres:
+#         genre_name = genre['genre']
+#         movies_query = f"""
+#             SELECT title, alternative_title, year, media_rating
+#             FROM movies
+#             JOIN genres_movies JOIN genres
+#             ON movies.movie_id = genres_movies.movie_id AND genres_movies.genre_id = genres.genre_id
+#             WHERE genres.genre = %s;
+#         """
+#         movies = execute_query(movies_query, (genre_name,))
+#         catalogue[genre_name] = movies
+#
+#     show_all = request.args.get('show_all')
+#     sort_az = request.args.get('sort_az')
+#     high_rating = request.args.get('high_rating')
+#
+#     filtered_movies = filter_movies(catalogue, show_all, sort_az, high_rating)
+#     return render_template("catalogue.html", catalogue=filtered_movies)
+#
+#
+# def filter_movies(catalogue, show_all, sort_list, high_rating):
+#     filtered_movies = catalogue.copy()
+#
+#     if not show_all:
+#         for genre, movies in filtered_movies.items():
+#             filtered_movies[genre] = [movie for movie in movies if movie['media_rating'] > 4]
+#
+#     if sort_list:
+#         for genre, movies in filtered_movies.items():
+#             filtered_movies[genre] = sorted(movies, key=lambda x: x['title'])
+#
+#     if high_rating:
+#         for genre, movies in filtered_movies.items():
+#             filtered_movies[genre] = [movie for movie in movies if movie['media_rating'] > float(high_rating)]
+#
+#     return filtered_movies
 
 
 @app.route("/api/movies")

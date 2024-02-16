@@ -27,9 +27,9 @@ NAVBAR
                 <li class="nav-item">
                     <a class="nav-link" href="/genres">Genres</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/catalogue">Catalogue</a>
-                </li>
+<!--                <li class="nav-item">-->
+<!--                    <a class="nav-link" href="/catalogue">Catalogue</a>-->
+<!--                </li>-->
             </ul>
             <form class="d-flex mx-3" role="search" method="POST">
                 <input class="form-control me-2" type="search" placeholder="login" aria-label="login"
@@ -77,7 +77,7 @@ NEW RELEASES
 Recommendation by genre
 -->
 <div class="container-fluid text-center">
-    <h1 class="text-start pt-5 mb-3 pb-2 px-3">Top selected from {{ rec_genre.genre}}<button type="button" class="btn mx-5 btn-primary">See all</button></h1>
+    <h1 class="text-start pt-5 mb-3 pb-2 px-3">Top selected from {{ rec_genre.genre}}<a type="button" href="/genres/{{ rec_genre.genre}}" class="btn mx-5 btn-primary">See all</a></h1>
     <div class="row">
         {% for elem in rec_content %}
         <div class="card mx-4" style="width: 18rem;">
@@ -113,7 +113,7 @@ Recommendation by rating
 Recommendation by random
 -->
 <div class="container-fluid text-center">
-    <h1 class="text-start pt-5 mb-3 pb-2 px-3">Explore this films<button type="button" class="btn mx-5 btn-primary">See our catalogue</button></h1>
+    <h1 class="text-start pt-5 mb-3 pb-2 px-3">Explore this films<a type="button" href="/genres" class="btn mx-5 btn-primary">See our catalogue</a></h1>
     <div class="row">
         {% for elem in rec_random %}
         <div class="card mx-4" style="width: 18rem;">
