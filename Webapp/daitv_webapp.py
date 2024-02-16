@@ -154,6 +154,50 @@ def genres_genre(genre):
     mov_genre_genre = execute_query(query_genre_genre)
     return render_template("Genres_genre.html", list_mov_genre=mov_genre_genre, genre=genre)
 
+
+@app.route("/catalogue", methods=['GET'])
+def catalogue():
+    genres = execute_query('SELECT * FROM genres')
+    catalogue = {}
+
+    for genre in genres:
+        genre_name = genre['genre']
+        movies_query = f"""
+            SELECT title, alternative_title, year, media_rating
+            FROM movies
+            JOIN genres_movies JOIN genres
+            ON movies.movie_id = genres_movies.movie_id AND genres_movies.genre_id = genres.genre_id
+            WHERE genres.genre = %s;
+        """
+        movies = execute_query(movies_query, (genre_name,))
+        catalogue[genre_name] = movies
+
+    show_all = request.args.get('show_all')
+    sort_az = request.args.get('sort_az')
+    high_rating = request.args.get('high_rating')
+
+    filtered_movies = filter_movies(catalogue, show_all, sort_az, high_rating)
+    return render_template("catalogue.html", catalogue=filtered_movies)
+
+
+def filter_movies(catalogue, show_all, sort_list, high_rating):
+    filtered_movies = catalogue.copy()
+
+    if not show_all:
+        for genre, movies in filtered_movies.items():
+            filtered_movies[genre] = [movie for movie in movies if movie['media_rating'] > 4]
+
+    if sort_list:
+        for genre, movies in filtered_movies.items():
+            filtered_movies[genre] = sorted(movies, key=lambda x: x['title'])
+
+    if high_rating:
+        for genre, movies in filtered_movies.items():
+            filtered_movies[genre] = [movie for movie in movies if movie['media_rating'] > float(high_rating)]
+
+    return filtered_movies
+
+
 @app.route("/api/movies")
 def api_movies():
     query_movies = """
@@ -206,58 +250,6 @@ def api_provincia_eta(provincia, eta):
     query = 'SELECT user_id, gender, age FROM users WHERE city = %s AND age > %s'
     list_users = execute_query(query, (provincia, eta))
     return jsonify(list_users)
-
-
-@app.route("/loan", methods=['GET', 'POST'])
-def loan():
-    query = """
-    SELECT loan.user_id, users.name, GROUP_CONCAT(books.title SEPARATOR ", ") AS title, 
-    GROUP_CONCAT(books.id SEPARATOR ", ") AS book_id, GROUP_CONCAT(loan.date_of_loan SEPARATOR ", ") AS date_loan
-    FROM loan JOIN users JOIN books
-    ON loan.book_id = books.id AND loan.user_id=users.id
-    GROUP BY users.name ORDER BY loan.user_id;
-    """
-    list_loan = execute_query(query)
-    elimina = []
-    result = []
-    flagaggiunge = False
-    flagelimina = False
-
-    if request.method == 'POST':
-        codice_elimina = [request.form.get('Eliminabook'), request.form.get('Eliminautente')]
-        codice_aggiunge = [request.form.get("Aggiungibook"), request.form.get("Aggiungiutente"),
-                           request.form.get("Aggiungidata")]
-        codice_ricerca = request.form.get('Search')
-
-        if codice_ricerca:
-            q_ricerca = f"""
-            SELECT loan.user_id, users.name, GROUP_CONCAT(books.title SEPARATOR ", ") AS title, 
-            GROUP_CONCAT(books.id SEPARATOR ", ") AS book_id, GROUP_CONCAT(loan.date_of_loan SEPARATOR ", ") AS date_loan
-            FROM loan JOIN users JOIN books
-            ON loan.book_id = books.id AND loan.user_id=users.id
-            WHERE loan.user_id LIKE '%{codice_ricerca}%' OR users.name LIKE '%{codice_ricerca}%'
-            GROUP BY users.name ORDER BY loan.user_id;
-            """
-            list_loan = execute_query(q_ricerca)
-
-        if codice_elimina[0] is not None and codice_elimina[1] is not None:
-            flagelimina = True
-            elimina = execute_query(
-                f"SELECT * FROM loan WHERE book_id = {codice_elimina[0]} and user_id = {codice_elimina[1]}")
-            execute_query(f"DELETE FROM loan WHERE book_id = {codice_elimina[0]} and user_id = {codice_elimina[1]}")
-            list_loan = execute_query(query)
-
-        if codice_aggiunge[0] is not None and codice_aggiunge[1] is not None and codice_aggiunge[2] is not None:
-            flagaggiunge = True
-            try:
-                execute_query(
-                    f"INSERT INTO loan (book_id, user_id, date_of_loan) VALUES ('{codice_aggiunge[0]}', '{codice_aggiunge[1]}', '{codice_aggiunge[2]}')")
-            except:
-                result = ["ERRORE"]
-            list_loan = execute_query(query)
-
-    return render_template("prestiti.html", list_loan=list_loan, len=len, elimina=elimina, result=result,
-                           flagaggiunge=flagaggiunge, flagelimina=flagelimina)
 
 
 if __name__ == '__main__':
