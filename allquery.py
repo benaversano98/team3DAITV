@@ -73,6 +73,7 @@ def query6(connection):
     SELECT city, COUNT(city)
     FROM users
     GROUP BY city
+    ORDER BY COUNT(city) DESC
     LIMIT 20;
     """
     result = read_query(connection, query)
@@ -89,45 +90,45 @@ def query7(connection):
 
 if __name__ == '__main__':
     connection = create_db_connection("localhost", "root", "", "streaming")
-    dati = query1(connection)
-    with open(r"dati_query\movies_anno.csv", "w", encoding='utf-8', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Anno", "Numero film"])
-        for e in dati:
-            scrittore.writerow([e for e in e])
-    dati = query2(connection)
-    with open(r"dati_query\movies_genere.csv", "w", encoding='utf-8', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Genere", "Numero film"])
-        for e in dati:
-            scrittore.writerow([e for e in e])
-    dati = query3(connection)
-    with open(r"dati_query\film_delete.csv", "w", encoding='utf-8', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Id_film"])
-        for e in dati:
-            scrittore.writerow([e])
-    dati = query4(connection)
-    with open(r"dati_query\film_preferiti_fasciaeta.csv", "w", encoding='utf-8', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Fascia età", "Genere", "Titolo film", "Media voti"])
-        for e in dati:
-            scrittore.writerow(e)
-    dati = query5(connection)
-    with open(r"dati_query\rating_film_fasciaeta.csv", "w", encoding='utf-8', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Titolo", "Media voti", "Fascia età"])
-        for e in dati:
-            scrittore.writerow(e)
+    # dati = query1(connection)
+    # with open(r"dati_query\movies_anno.csv", "w", encoding='utf-8', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Anno", "Numero film"])
+    #     for e in dati:
+    #         scrittore.writerow([e for e in e])
+    # dati = query2(connection)
+    # with open(r"dati_query\movies_genere.csv", "w", encoding='utf-8', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Genere", "Numero film"])
+    #     for e in dati:
+    #         scrittore.writerow([e for e in e])
+    # dati = query3(connection)
+    # with open(r"dati_query\film_delete.csv", "w", encoding='utf-8', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Id_film"])
+    #     for e in dati:
+    #         scrittore.writerow([e])
+    # dati = query4(connection)
+    # with open(r"dati_query\film_preferiti_fasciaeta.csv", "w", encoding='utf-8', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Fascia età", "Genere", "Titolo film", "Media voti"])
+    #     for e in dati:
+    #         scrittore.writerow(e)
+    # dati = query5(connection)
+    # with open(r"dati_query\rating_film_fasciaeta.csv", "w", encoding='utf-8', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Titolo", "Media voti", "Fascia età"])
+    #     for e in dati:
+    #         scrittore.writerow(e)
     dati = query6(connection)
     with open(r"dati_query\abbonati_provincia.csv", "w", encoding='utf-8', newline='') as output:
         scrittore = csv.writer(output, delimiter=";")
         scrittore.writerow(["Provincia", "Numero abbonati"])
         for e in dati:
             scrittore.writerow(e)
-    dati = query7(connection)
-    with open(r"dati_query\abbonati_lavoro.csv", "w", encoding='utf-8', newline='') as output:
-        scrittore = csv.writer(output, delimiter=";")
-        scrittore.writerow(["Provincia", "Numero abbonati"])
-        for e in dati:
-            scrittore.writerow(e)
+    # dati = query7(connection)
+    # with open(r"dati_query\abbonati_lavoro.csv", "w", encoding='utf-8', newline='') as output:
+    #     scrittore = csv.writer(output, delimiter=";")
+    #     scrittore.writerow(["Provincia", "Numero abbonati"])
+    #     for e in dati:
+    #         scrittore.writerow(e)
