@@ -6,7 +6,6 @@
     <title>HOME - DAITV </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
 </head>
 <body>
 <!--
@@ -80,7 +79,7 @@ Recommendation by genre
     <h1 class="text-start pt-5 mb-3 pb-2 px-3">Top selected from {{ rec_genre.genre}}<a type="button" href="/genres/{{ rec_genre.genre}}" class="btn mx-5 btn-primary">See all</a></h1>
     <div class="row">
         {% for elem in rec_content %}
-        <div class="card mx-4" style="width: 18rem;">
+        <div class="card mx-4 mb-2" style="width: 18rem;">
             <div class="card-body">
                 <h5 class="card-title mb-3">{{ elem.title}}</h5>
                 <h6 class="card-subtitle mb-2 text-body-secondary">{{ elem.alternative_title}}</h6>
@@ -98,7 +97,7 @@ Recommendation by rating
     <h1 class="text-start pt-5 mb-3 pb-2 px-3">Top-rated by our users<button type="button" class="btn mx-5 btn-primary">Watch top rated</button></h1>
     <div class="row">
         {% for elem in rec_rating %}
-        <div class="card text-bg-dark mx-4" style="width: 18rem;">
+        <div class="card text-bg-dark mx-4 mb-2" style="width: 18rem;">
             <div class="card-body">
                 <h5 class="card-title mb-3">{{ elem.title}}</h5>
                 <h6 class="card-subtitle mb-2 text-body-secondary">{{ elem.alternative_title}}</h6>
@@ -116,7 +115,7 @@ Recommendation by random
     <h1 class="text-start pt-5 mb-3 pb-2 px-3">Explore this films<a type="button" href="/genres" class="btn mx-5 btn-primary">See our catalogue</a></h1>
     <div class="row">
         {% for elem in rec_random %}
-        <div class="card mx-4" style="width: 18rem;">
+        <div class="card mx-4 mb-2" style="width: 18rem;">
             <div class="card-body">
                 <h5 class="card-title mb-3">{{ elem.title}}</h5>
                 <h6 class="card-subtitle mb-2 text-body-secondary">{{ elem.alternative_title}}</h6>

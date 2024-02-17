@@ -11,6 +11,10 @@
     background: #039be5;
     color: white;
 }
+             .disabled .page-link {
+    background: grey;
+    color: white;
+}
     </style>
 </head>
 <body>
@@ -53,7 +57,7 @@ NAVBAR
 Search results
 -->
 <div class="container-fluid text-center">
-    <h1 class="text-start pt-5 mb-3 pb-2 px-3">Results for your search</h1>
+    <h1 class="text-start pt-5 mb-3 pb-2 px-3">Results for your search "{{ search_term}}"</h1>
     <div class="row">
         {% for elem in list_search %}
         <div class="card mx-4 mb-4" style="width: 18rem;">
@@ -70,8 +74,8 @@ Search results
 <div class="d-flex justify-content-center">
     <nav aria-label="Page navigation example">
         <ul class="pagination text-center pagination-lg">
-            <li class="page-item"><button class="page-link" onclick="redirectToPreviousPage()">Previous</button></li>
-            <li class="page-item"><button class="page-link" onclick="redirectToNextPage()">Next</button></li>
+             <li class="page-item {% if num == 0 %}disabled disabled-bg{%endif%}"><button class="page-link" onclick="redirectToPreviousPage()">Previous</button></li>
+            <li class="page-item {% if next_film == 0 %}disabled disabled-bg{%endif%}"><button class="page-link" onclick="redirectToNextPage()">Next</button></li>
         </ul>
     </nav>
 
@@ -80,14 +84,14 @@ Search results
     function redirectToNextPage() {
     const currentPageNumber = {{ num}};
     const nextPageNumber = currentPageNumber + 1;
-    window.location.href = `/genres/{{ genre}}/${nextPageNumber}`;
+    window.location.href = `/search/{{ search_term}}/${nextPageNumber}`;
 }
 </script>
 <script>
     function redirectToPreviousPage() {
     const currentPageNumber = {{ num}};
     const nextPageNumber = currentPageNumber - 1;
-    window.location.href = `/genres/{{ genre}}/${nextPageNumber}`;
+    window.location.href = `/search/{{ search_term}}/${nextPageNumber}`;
 }
 </script>
 

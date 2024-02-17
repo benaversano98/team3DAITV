@@ -130,17 +130,20 @@ def search_term_num(term, num):
     limit = 20
     offset = 0
     counter = num
+    search_term = term
     if request.method == 'POST':
         search_term = request.form.get('term')
         return redirect("/search/%s" % search_term)
-    try:
-        id_login = session.get("client_id")
-        print(id_login)
-    except:
-        print("error")
+    # try:
+    #     id_login = session.get("client_id")
+    #     print(id_login)
+    # except:
+    #     print("error")
     query_movies = f"SELECT * FROM movies WHERE title LIKE '%{term}%' OR alternative_title LIKE '%{term}%' ORDER BY title LIMIT {limit} OFFSET {offset + (counter*limit)}"
     list_search = execute_query(query_movies)
-    return render_template("Search.html", list_search=list_search, login=login)
+    query_movies = f"SELECT * FROM movies WHERE title LIKE '%{term}%' OR alternative_title LIKE '%{term}%' ORDER BY title LIMIT {limit} OFFSET {offset + ((counter+1) * limit)}"
+
+    return render_template("Search.html", list_search=list_search, login=login, num=num, search_term=search_term)
 
 @app.route("/genres", methods=['GET', 'POST'])
 def genres():
@@ -163,7 +166,6 @@ def genres():
 @app.route("/genres/<genre>", methods=['GET', 'POST'])
 def genres_genre(genre):
     genre_count = (genre, 0)
-
     return redirect("/genres/%s/%s" % genre_count)
 
 
@@ -171,7 +173,10 @@ def genres_genre(genre):
 def genres_genre_num(genre, num):
     limit = 20
     offset = 0
-    counter = num
+    if num < 0:
+        counter = 0
+    else:
+        counter = num
 
     if request.method == 'POST':
         search_term = request.form.get('term')
@@ -180,12 +185,18 @@ def genres_genre_num(genre, num):
     query_genre_genre = f"""SELECT title, alternative_title, year, media_rating FROM `movies`
                         JOIN genres_movies JOIN genres ON movies.movie_id = genres_movies.movie_id AND
                         genres_movies.genre_id = genres.genre_id
-                        WHERE genres.genre = "{genre}" ORDER BY movies.movie_id LIMIT {limit} OFFSET {offset + (counter*limit)};"""
+                        WHERE genres.genre = "{genre}" ORDER BY movies.movie_id LIMIT {limit} OFFSET {offset + ((counter)*limit)};"""
 
     mov_genre_genre = execute_query(query_genre_genre)
 
+    query_genre_genre_next = f"""SELECT title, alternative_title, year, media_rating FROM `movies`
+                            JOIN genres_movies JOIN genres ON movies.movie_id = genres_movies.movie_id AND
+                            genres_movies.genre_id = genres.genre_id
+                            WHERE genres.genre = "{genre}" ORDER BY movies.movie_id LIMIT {limit} OFFSET {offset + ((counter+1) * limit)};"""
 
-    return render_template("Genres_genre.html", list_mov_genre=mov_genre_genre, genre=genre, num=int(num))
+    next_film = len(execute_query(query_genre_genre_next))
+
+    return render_template("Genres_genre.html", list_mov_genre=mov_genre_genre, genre=genre, num=int(num), next_film=next_film)
 
 
 # @app.route("/catalogue", methods=['GET'])

@@ -11,6 +11,10 @@
     background: #039be5;
     color: white;
 }
+        .disabled .page-link {
+    background: grey;
+    color: white;
+}
     </style>
 </head>
 <body>
@@ -71,8 +75,8 @@ Recommendation by genre
 <div class="d-flex justify-content-center">
     <nav aria-label="Page navigation example">
         <ul class="pagination text-center pagination-lg">
-            <li class="page-item"><button class="page-link" onclick="redirectToPreviousPage()">Previous</button></li>
-            <li class="page-item"><button class="page-link" onclick="redirectToNextPage()">Next</button></li>
+            <li class="page-item {% if num == 0 %}disabled disabled-bg{%endif%}"><button class="page-link" onclick="redirectToPreviousPage()">Previous</button></li>
+            <li class="page-item {% if next_film == 0 %}disabled disabled-bg{%endif%}"><button class="page-link" onclick="redirectToNextPage()">Next</button></li>
         </ul>
     </nav>
 
